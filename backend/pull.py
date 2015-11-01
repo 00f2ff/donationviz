@@ -34,8 +34,7 @@ def findSenators():
 
 def callAPI(method, cid):
 	# url = 
-	url = "http://www.opensecrets.org/api/?method=candContrib&cid=N00033165&cycle=2016&output=json&apikey=e37a46410cbe5811eed67668047a7d30"
-	# url = "http://www.opensecrets.org/api/?method=%s&cid=%s&cycle=2016&output=json&apikey=%s" % (method, cid, apikey)
+	url = "http://www.opensecrets.org/api/?method=%s&cid=%s&cycle=2016&output=json&apikey=%s" % (method, cid, apikey)
 	req = urllib2.Request(url, headers={'User-Agent' : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"}) 
 	con = urllib2.urlopen(req)
 	response = json.loads(con.read())['response']
