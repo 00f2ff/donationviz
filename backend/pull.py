@@ -39,9 +39,6 @@ def callAPI(method, cid):
 	req = urllib2.Request(url, headers={'User-Agent' : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"}) 
 	con = urllib2.urlopen(req)
 	response = json.loads(con.read())['response']
-	#this will get HTTP response code
-	#could be used later to filter 404 responses?
-	#con.getcode() == 200):
 	return response
 
 
@@ -75,42 +72,5 @@ def stuff():
 
 
 
-#function to go get/parse top industry contributors for a given senator
-def getIndustryInfo(cid):
-	industryOutput = []
-	#get data from API 
-	#not all of the congressman in the senators array have data as a response
-	#will have to check if response is 404 or not before parsing data
-	response = callAPI("candIndustry", cid)
-
-	#parse data
-	industries = response['industries']['industry']
-	for i in range(len(industries)):
-		data = industries[i]['@attributes']
-		ind = {
-				'id': data['industry_code'],
-				'name': data['industry_name'],
-				'nonPAC': data['indivs'],
-				}
-		industryOutput.append(ind)
 
 
-	return industryOutput
-
-
-
-
-
-
-
-
-#testing api calls for industry
-def test():
-	senators = findSenators()
-	y = (senators[40]['cid'])
-	x = getIndustryInfo(y)
-	#url = "http://www.opensecrets.org/api/?method=candIndustry&cid=%s&cycle=2016&apikey=%s" % (x, apikey)
-	print x
-
-
-test()
