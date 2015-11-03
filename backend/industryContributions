@@ -1,0 +1,60 @@
+from keys import Keys 
+import httplib
+
+keys = Keys()
+#CRP.apikey = keys.apikey
+apikey = keys.apikey
+# Remove the ones I don't need
+import argparse
+import json
+import pprint
+import sys
+import urllib
+import urllib2
+import re
+import string
+import csv
+
+
+def findSenators():
+	senators = []
+	with open('data/114th.csv', 'rU') as csvfile:
+		reader = csv.reader(csvfile)
+		for row in reader:
+			if row[4][0] == "S":
+				candidate = {
+				'cid': row[0],
+				'first_name': row[1].split(',')[1],
+				'last_name': row[1].split(',')[0],
+				'party': row[2],
+				'state': row[3][:2],
+				'class': row[3][3], # class is because the elections are staggered
+				'fec_id': row[4]
+				}
+				senators.append(candidate)
+	return senators
+
+
+#function to go get/parse top industry contributors for a given senator
+def getIndustryInfo(cid):
+	industryOutput = []
+	#get data from API 
+	#not all of the congressman in the senators array have data as a response
+	#will have to check if response is 404 or not before parsing data
+	response = callAPI("candIndustry", cid)
+
+	#parse data
+	industries = response['industries']['industry']
+	for i in range(len(industries)):
+		data = industries[i]['@attributes']
+		ind = {
+				'id': data['industry_code'],
+				'name': data['industry_name'],
+				'PAC': data['pacs'],
+				'nonPAC' : data['indivs']
+				'total': data['total']
+				}
+		industryOutput.append(ind)
+
+
+	return industryOutput

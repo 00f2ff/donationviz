@@ -1,8 +1,9 @@
-from crpapi import CRP, CRPApiError
+#from crpapi import CRP, CRPApiError
 from keys import Keys 
+import httplib
 
 keys = Keys()
-CRP.apikey = keys.apikey
+#CRP.apikey = keys.apikey
 apikey = keys.apikey
 # Remove the ones I don't need
 import argparse
@@ -43,22 +44,33 @@ def callAPI(method, cid):
 	response = json.loads(con.read())['response']
 	return response
 
-# test function
-def findSingleCandidateContribution(cid):
-	url = "http://www.opensecrets.org/db2dl/?q=MemContrib&cid=%s&cycle=2016&output=JSON&type=I" % (cid)
-	headers = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"
-	# print con.read()
-	try:
-		req = urllib2.Request(url, headers={'User-Agent' : headers}) 
-		con = urllib2.urlopen(req)
-		# convert into dictionary
-		response = json.loads(con.read())
-	except UnicodeDecodeError:
-		opener = urllib2.build_opener()
-		opener.addheaders = [('User-agent', headers)]
-		con = opener.open(url)
-		# convert into dictionary
-		response = json.loads(unicode(con.read(), "ISO-8859-1"))
+
+def findCandidateContributions():
+	candidates = findSenators()
+	candContribData = {'candContribData':[]}
+	# callAPI('candContrib',candidates[0]['cid'])
+	for i in xrange(2):
+		print candidates[i]['cid']
+		response = callAPI('candContrib',candidates[i]['cid'])
+		candContribData['candContribData'].append(response)
+
+	candContribData = str(json.dumps(candContribData, indent=2))
+	# write to JSON
+	with open("candContrib.json","w") as f:
+		f.write(candContribData)
+
+	# # finalData = 
+
+# findCandidateContributions()
+
+def stuff():
+	url = "http://www.opensecrets.org/db2dl/?q=MemContrib&cid=N00003389&cycle=2016&output=JSON&type=I"
+	req = urllib2.Request(url, headers={'User-Agent' : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"}) 
+	con = urllib2.urlopen(req)
+	response = json.loads(con.read())
 	print response
 
-# findSingleCandidateContribution('N00002221')
+#stuff()
+
+
+
