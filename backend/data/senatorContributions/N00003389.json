@@ -1,0 +1,1009 @@
+{
+  "records": [
+    {
+      "totals": "185800", 
+      "indivs": "171800", 
+      "pac": "14000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "115825", 
+      "indivs": "103325", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "103300", 
+      "indivs": "93300", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Humana Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "97075", 
+      "indivs": "87075", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "93450", 
+      "indivs": "88450", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alliance Resource Partners", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "84100", 
+      "indivs": "71600", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kindred Healthcare", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "81500", 
+      "indivs": "81500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Votesane PAC", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "76800", 
+      "indivs": "66800", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Peabody Energy", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "76075", 
+      "indivs": "66075", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DaVita HealthCare Partners", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "74955", 
+      "indivs": "66455", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "70250", 
+      "indivs": "62250", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Express", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "69300", 
+      "indivs": "51800", 
+      "pac": "17500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "67900", 
+      "indivs": "60400", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citigroup Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "62500", 
+      "indivs": "52500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berkshire Hathaway", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "60200", 
+      "indivs": "50200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group Companies", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "59800", 
+      "indivs": "59800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Elliott Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "59650", 
+      "indivs": "50650", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Metlife Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "57500", 
+      "indivs": "42500", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marsh & McLennan", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "55800", 
+      "indivs": "40800", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exxon Mobil", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "55450", 
+      "indivs": "55450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Paul, Weiss et al", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "54700", 
+      "indivs": "44700", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chevron Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "53400", 
+      "indivs": "53400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "52750", 
+      "indivs": "43750", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FMR Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "52500", 
+      "indivs": "45500", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital One Financial", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "51800", 
+      "indivs": "41800", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bank of New York Mellon", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "50700", 
+      "indivs": "44700", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Delta Air Lines", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "50050", 
+      "indivs": "40050", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Union Pacific Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "49250", 
+      "indivs": "39250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marathon Petroleum", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "49200", 
+      "indivs": "49200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Paulson & Co", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "48450", 
+      "indivs": "38450", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ernst & Young", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "48400", 
+      "indivs": "44400", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Massachusetts Mutual Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "47800", 
+      "indivs": "47800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Altria Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "47421", 
+      "indivs": "35200", 
+      "pac": "12221", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Parcel Service", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "46901", 
+      "indivs": "47150", 
+      "pac": "-249", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "46750", 
+      "indivs": "40750", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Aetna Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "45000", 
+      "indivs": "30500", 
+      "pac": "14500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lorillard Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "44451", 
+      "indivs": "44451", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Club for Growth", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "44250", 
+      "indivs": "34250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "43200", 
+      "indivs": "33200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FedEx Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "42750", 
+      "indivs": "27750", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Southern Co", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "42523", 
+      "indivs": "31400", 
+      "pac": "11123", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citizens for Prosperity in America Today", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "41950", 
+      "indivs": "31950", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Verizon Communications", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "41900", 
+      "indivs": "31900", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Home Depot", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "41400", 
+      "indivs": "31400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "40975", 
+      "indivs": "39475", 
+      "pac": "1500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New York Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "40800", 
+      "indivs": "30800", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Koch Industries", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "40350", 
+      "indivs": "35350", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marathon Oil", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "39725", 
+      "indivs": "34725", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amazon.com", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "39400", 
+      "indivs": "39400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Moore Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "39050", 
+      "indivs": "37300", 
+      "pac": "1750", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BGR Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "38900", 
+      "indivs": "28900", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Prudential Financial", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "38701", 
+      "indivs": "28701", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Express Scripts", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "36950", 
+      "indivs": "30950", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AT&T Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "36300", 
+      "indivs": "16300", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Stephens Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "35000", 
+      "indivs": "22000", 
+      "pac": "13000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DirecTV", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "34999", 
+      "indivs": "34999", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "King Street Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "34100", 
+      "indivs": "27100", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amgen Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "34000", 
+      "indivs": "24000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fresenius Medical Care", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "33800", 
+      "indivs": "33800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Leon Medical Centers", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "33750", 
+      "indivs": "26250", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Eli Lilly & Co", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "33650", 
+      "indivs": "24650", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bank of America", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "32750", 
+      "indivs": "18750", 
+      "pac": "14000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Airlines Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "32500", 
+      "indivs": "32500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citadel LLC", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "32500", 
+      "indivs": "22500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exelon Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "32500", 
+      "indivs": "22500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Community Health Systems", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "32000", 
+      "indivs": "23500", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CSX Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "31900", 
+      "indivs": "31900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Consumer Financial Services", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "31000", 
+      "indivs": "21000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NextEra Energy", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "30700", 
+      "indivs": "20700", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Brown-Forman Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "30450", 
+      "indivs": "20450", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "30000", 
+      "indivs": "20000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cablevision Systems", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "30000", 
+      "indivs": "25000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mastercard Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "29750", 
+      "indivs": "23750", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Anadarko Petroleum", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "29600", 
+      "indivs": "29600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Financial Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "29350", 
+      "indivs": "22850", 
+      "pac": "6500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WPP Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "29100", 
+      "indivs": "23100", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Amusements Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "28500", 
+      "indivs": "28500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Forcht Group of Kentucky", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "28500", 
+      "indivs": "21000", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lockheed Martin", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "28250", 
+      "indivs": "20250", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Walgreen Co", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "28250", 
+      "indivs": "19250", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hartford Financial Services", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "28200", 
+      "indivs": "13200", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carlyle Group", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "27800", 
+      "indivs": "22800", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "21st Century Fox", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "27650", 
+      "indivs": "17650", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "26500", 
+      "indivs": "17500", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blank Rome LLP", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "26400", 
+      "indivs": "16400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Akin, Gump et al", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "26000", 
+      "indivs": "26000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "GoldenTree Asset Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "25600", 
+      "indivs": "20600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Las Vegas Sands", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "25300", 
+      "indivs": "25300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hess Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "25200", 
+      "indivs": "17200", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northwestern Mutual", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "25200", 
+      "indivs": "25200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Concho Resources", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "25000", 
+      "indivs": "25000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bridger Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "24600", 
+      "indivs": "19600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cardinal Health", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "24150", 
+      "indivs": "24150", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "THL Partners", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "24100", 
+      "indivs": "14600", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "ConocoPhillips", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "24000", 
+      "indivs": "15000", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Oracle Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "23600", 
+      "indivs": "13600", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Procter & Gamble", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "23600", 
+      "indivs": "18600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CR Bard Inc", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "23500", 
+      "indivs": "13500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BAE Systems", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "23500", 
+      "indivs": "13500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marriott International", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }, 
+    {
+      "totals": "23400", 
+      "indivs": "18400", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Microsoft Corp", 
+      "cycle": "2016", 
+      "ID": "N00003389", 
+      "crpname": "Mitch McConnell (R)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "100"
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "WA": [
+    {
+      "state": "WA", 
+      "name": " Maria Cantwell (D)", 
+      "cid": "N00007836"
+    }, 
+    {
+      "state": "WA", 
+      "name": " Patty Murray (D)", 
+      "cid": "N00007876"
+    }
+  ], 
+  "DE": [
+    {
+      "state": "DE", 
+      "name": " Tom Carper (D)", 
+      "cid": "N00012508"
+    }, 
+    {
+      "state": "DE", 
+      "name": " Chris Coons (D)", 
+      "cid": "N00031820"
+    }
+  ], 
+  "WI": [
+    {
+      "state": "WI", 
+      "name": " Tammy Baldwin (D)", 
+      "cid": "N00004367"
+    }, 
+    {
+      "state": "WI", 
+      "name": " Ron Johnson (R)", 
+      "cid": "N00032546"
+    }
+  ], 
+  "WV": [
+    {
+      "state": "WV", 
+      "name": " Shelley Moore Capito (R)", 
+      "cid": "N00009771"
+    }, 
+    {
+      "state": "WV", 
+      "name": " Joe Manchin (D)", 
+      "cid": "N00032838"
+    }
+  ], 
+  "HI": [
+    {
+      "state": "HI", 
+      "name": " Mazie K Hirono (D)", 
+      "cid": "N00028139"
+    }, 
+    {
+      "state": "HI", 
+      "name": " Brian Schatz (D)", 
+      "cid": "N00028138"
+    }
+  ], 
+  "FL": [
+    {
+      "state": "FL", 
+      "name": " Ron DeSantis (R)", 
+      "cid": "N00034746"
+    }, 
+    {
+      "state": "FL", 
+      "name": " Bill Nelson (D)", 
+      "cid": "N00009926"
+    }
+  ], 
+  "WY": [
+    {
+      "state": "WY", 
+      "name": " John A Barrasso (R)", 
+      "cid": "N00006236"
+    }, 
+    {
+      "state": "WY", 
+      "name": " Mike Enzi (R)", 
+      "cid": "N00006249"
+    }
+  ], 
+  "NH": [
+    {
+      "state": "NH", 
+      "name": " Kelly Ayotte (R)", 
+      "cid": "N00030980"
+    }, 
+    {
+      "state": "NH", 
+      "name": " Jeanne Shaheen (D)", 
+      "cid": "N00024790"
+    }
+  ], 
+  "NJ": [
+    {
+      "state": "NJ", 
+      "name": " Cory Booker (D)", 
+      "cid": "N00035267"
+    }, 
+    {
+      "state": "NJ", 
+      "name": " Robert Menendez (D)", 
+      "cid": "N00000699"
+    }
+  ], 
+  "NM": [
+    {
+      "state": "NM", 
+      "name": " Martin Heinrich (D)", 
+      "cid": "N00029835"
+    }, 
+    {
+      "state": "NM", 
+      "name": " Tom Udall (D)", 
+      "cid": "N00006561"
+    }
+  ], 
+  "TX": [
+    {
+      "state": "TX", 
+      "name": " John Cornyn (R)", 
+      "cid": "N00024852"
+    }
+  ], 
+  "LA": [
+    {
+      "state": "LA", 
+      "name": " Bill Cassidy (R)", 
+      "cid": "N00030245"
+    }, 
+    {
+      "state": "LA", 
+      "name": " David Vitter (R)", 
+      "cid": "N00009659"
+    }
+  ], 
+  "NC": [
+    {
+      "state": "NC", 
+      "name": " Richard Burr (R)", 
+      "cid": "N00002221"
+    }, 
+    {
+      "state": "NC", 
+      "name": " Thom Tillis (R)", 
+      "cid": "N00035492"
+    }
+  ], 
+  "ND": [
+    {
+      "state": "ND", 
+      "name": " Heidi Heitkamp (D)", 
+      "cid": "N00033782"
+    }, 
+    {
+      "state": "ND", 
+      "name": " John Hoeven (R)", 
+      "cid": "N00031688"
+    }
+  ], 
+  "NE": [
+    {
+      "state": "NE", 
+      "name": " Deb Fischer (R)", 
+      "cid": "N00033443"
+    }, 
+    {
+      "state": "NE", 
+      "name": " Ben Sasse (R)", 
+      "cid": "N00035544"
+    }
+  ], 
+  "TN": [
+    {
+      "state": "TN", 
+      "name": " Lamar Alexander (R)", 
+      "cid": "N00009888"
+    }, 
+    {
+      "state": "TN", 
+      "name": " Bob Corker (R)", 
+      "cid": "N00027441"
+    }
+  ], 
+  "NY": [
+    {
+      "state": "NY", 
+      "name": " Kirsten Gillibrand (D)", 
+      "cid": "N00027658"
+    }, 
+    {
+      "state": "NY", 
+      "name": " Charles E Schumer (D)", 
+      "cid": "N00001093"
+    }
+  ], 
+  "PA": [
+    {
+      "state": "PA", 
+      "name": " Bob Casey (D)", 
+      "cid": "N00027503"
+    }, 
+    {
+      "state": "PA", 
+      "name": " Pat Toomey (R)", 
+      "cid": "N00001489"
+    }
+  ], 
+  "AK": [
+    {
+      "state": "AK", 
+      "name": " Lisa Murkowski (R)", 
+      "cid": "N00026050"
+    }, 
+    {
+      "state": "AK", 
+      "name": " Dan Sullivan (R)", 
+      "cid": "N00035774"
+    }
+  ], 
+  "NV": [
+    {
+      "state": "NV", 
+      "name": " Dean Heller (R)", 
+      "cid": "N00027522"
+    }, 
+    {
+      "state": "NV", 
+      "name": " Harry Reid (D)", 
+      "cid": "N00009922"
+    }
+  ], 
+  "VA": [
+    {
+      "state": "VA", 
+      "name": " Tim Kaine (D)", 
+      "cid": "N00033177"
+    }, 
+    {
+      "state": "VA", 
+      "name": " Mark Warner (D)", 
+      "cid": "N00002097"
+    }
+  ], 
+  "CO": [
+    {
+      "state": "CO", 
+      "name": " Michael F Bennet (D)", 
+      "cid": "N00030608"
+    }, 
+    {
+      "state": "CO", 
+      "name": " Cory Gardner (R)", 
+      "cid": "N00030780"
+    }
+  ], 
+  "CA": [
+    {
+      "state": "CA", 
+      "name": " Barbara Boxer (D)", 
+      "cid": "N00006692"
+    }, 
+    {
+      "state": "CA", 
+      "name": " Dianne Feinstein (D)", 
+      "cid": "N00007364"
+    }, 
+    {
+      "state": "CA", 
+      "name": " Loretta Sanchez (D)", 
+      "cid": "N00008274"
+    }
+  ], 
+  "AL": [
+    {
+      "state": "AL", 
+      "name": " Jeff Sessions (R)", 
+      "cid": "N00003062"
+    }, 
+    {
+      "state": "AL", 
+      "name": " Richard C Shelby (R)", 
+      "cid": "N00009920"
+    }
+  ], 
+  "AR": [
+    {
+      "state": "AR", 
+      "name": " John Boozman (R)", 
+      "cid": "N00013873"
+    }, 
+    {
+      "state": "AR", 
+      "name": " Tom Cotton (R)", 
+      "cid": "N00033363"
+    }
+  ], 
+  "VT": [
+    {
+      "state": "VT", 
+      "name": " Patrick Leahy (D)", 
+      "cid": "N00009918"
+    }
+  ], 
+  "IL": [
+    {
+      "state": "IL", 
+      "name": " Tammy Duckworth (D)", 
+      "cid": "N00027860"
+    }, 
+    {
+      "state": "IL", 
+      "name": " Dick Durbin (D)", 
+      "cid": "N00004981"
+    }, 
+    {
+      "state": "IL", 
+      "name": " Mark Kirk (R)", 
+      "cid": "N00012539"
+    }
+  ], 
+  "GA": [
+    {
+      "state": "GA", 
+      "name": " Johnny Isakson (R)", 
+      "cid": "N00002593"
+    }, 
+    {
+      "state": "GA", 
+      "name": " David Perdue (R)", 
+      "cid": "N00035516"
+    }
+  ], 
+  "IN": [
+    {
+      "state": "IN", 
+      "name": " Dan Coats (R)", 
+      "cid": "N00003845"
+    }, 
+    {
+      "state": "IN", 
+      "name": " Joe Donnelly (D)", 
+      "cid": "N00026586"
+    }
+  ], 
+  "IA": [
+    {
+      "state": "IA", 
+      "name": " Joni Ernst (R)", 
+      "cid": "N00035483"
+    }, 
+    {
+      "state": "IA", 
+      "name": " Chuck Grassley (R)", 
+      "cid": "N00001758"
+    }
+  ], 
+  "MA": [
+    {
+      "state": "MA", 
+      "name": " Ed Markey (D)", 
+      "cid": "N00000270"
+    }, 
+    {
+      "state": "MA", 
+      "name": " Elizabeth Warren (D)", 
+      "cid": "N00033492"
+    }
+  ], 
+  "AZ": [
+    {
+      "state": "AZ", 
+      "name": " Jeff Flake (R)", 
+      "cid": "N00009573"
+    }, 
+    {
+      "state": "AZ", 
+      "name": " Ann Kirkpatrick (D)", 
+      "cid": "N00029260"
+    }, 
+    {
+      "state": "AZ", 
+      "name": " John McCain (R)", 
+      "cid": "N00006424"
+    }
+  ], 
+  "ID": [
+    {
+      "state": "ID", 
+      "name": " Mike Crapo (R)", 
+      "cid": "N00006267"
+    }, 
+    {
+      "state": "ID", 
+      "name": " James E Risch (R)", 
+      "cid": "N00029441"
+    }
+  ], 
+  "CT": [
+    {
+      "state": "CT", 
+      "name": " Richard Blumenthal (D)", 
+      "cid": "N00031685"
+    }, 
+    {
+      "state": "CT", 
+      "name": " Christopher S Murphy (D)", 
+      "cid": "N00027566"
+    }
+  ], 
+  "ME": [
+    {
+      "state": "ME", 
+      "name": " Susan M Collins (R)", 
+      "cid": "N00000491"
+    }, 
+    {
+      "state": "ME", 
+      "name": " Angus King (I)", 
+      "cid": "N00034580"
+    }
+  ], 
+  "MD": [
+    {
+      "state": "MD", 
+      "name": " Ben Cardin (D)", 
+      "cid": "N00001955"
+    }, 
+    {
+      "state": "MD", 
+      "name": " Donna Edwards (D)", 
+      "cid": "N00028249"
+    }, 
+    {
+      "state": "MD", 
+      "name": " Barbara A Mikulski (D)", 
+      "cid": "N00001945"
+    }, 
+    {
+      "state": "MD", 
+      "name": " Chris Van Hollen (D)", 
+      "cid": "N00013820"
+    }
+  ], 
+  "OK": [
+    {
+      "state": "OK", 
+      "name": " James M Inhofe (R)", 
+      "cid": "N00005582"
+    }, 
+    {
+      "state": "OK", 
+      "name": " James Lankford (R)", 
+      "cid": "N00031129"
+    }
+  ], 
+  "OH": [
+    {
+      "state": "OH", 
+      "name": " Sherrod Brown (D)", 
+      "cid": "N00003535"
+    }, 
+    {
+      "state": "OH", 
+      "name": " Rob Portman (R)", 
+      "cid": "N00003682"
+    }
+  ], 
+  "UT": [
+    {
+      "state": "UT", 
+      "name": " Orrin G Hatch (R)", 
+      "cid": "N00009869"
+    }, 
+    {
+      "state": "UT", 
+      "name": " Mike Lee (R)", 
+      "cid": "N00031696"
+    }
+  ], 
+  "MO": [
+    {
+      "state": "MO", 
+      "name": " Roy Blunt (R)", 
+      "cid": "N00005195"
+    }, 
+    {
+      "state": "MO", 
+      "name": " Claire McCaskill (D)", 
+      "cid": "N00027694"
+    }
+  ], 
+  "MN": [
+    {
+      "state": "MN", 
+      "name": " Al Franken (D)", 
+      "cid": "N00029016"
+    }, 
+    {
+      "state": "MN", 
+      "name": " Amy Klobuchar (D)", 
+      "cid": "N00027500"
+    }
+  ], 
+  "MI": [
+    {
+      "state": "MI", 
+      "name": " Gary Peters (D)", 
+      "cid": "N00029277"
+    }, 
+    {
+      "state": "MI", 
+      "name": " Debbie Stabenow (D)", 
+      "cid": "N00004118"
+    }
+  ], 
+  "RI": [
+    {
+      "state": "RI", 
+      "name": " Jack Reed (D)", 
+      "cid": "N00000362"
+    }, 
+    {
+      "state": "RI", 
+      "name": " Sheldon Whitehouse (D)", 
+      "cid": "N00027533"
+    }
+  ], 
+  "KS": [
+    {
+      "state": "KS", 
+      "name": " Jerry Moran (R)", 
+      "cid": "N00005282"
+    }, 
+    {
+      "state": "KS", 
+      "name": " Pat Roberts (R)", 
+      "cid": "N00005285"
+    }
+  ], 
+  "MT": [
+    {
+      "state": "MT", 
+      "name": " Steven Daines (R)", 
+      "cid": "N00033054"
+    }, 
+    {
+      "state": "MT", 
+      "name": " Jon Tester (D)", 
+      "cid": "N00027605"
+    }
+  ], 
+  "MS": [
+    {
+      "state": "MS", 
+      "name": " Thad Cochran (R)", 
+      "cid": "N00003328"
+    }, 
+    {
+      "state": "MS", 
+      "name": " Roger Wicker (R)", 
+      "cid": "N00003280"
+    }
+  ], 
+  "SC": [
+    {
+      "state": "SC", 
+      "name": " Lindsey Graham (R)", 
+      "cid": "N00009975"
+    }, 
+    {
+      "state": "SC", 
+      "name": " Tim Scott (R)", 
+      "cid": "N00031782"
+    }
+  ], 
+  "KY": [
+    {
+      "state": "KY", 
+      "name": " Mitch McConnell (R)", 
+      "cid": "N00003389"
+    }
+  ], 
+  "OR": [
+    {
+      "state": "OR", 
+      "name": " Jeff Merkley (D)", 
+      "cid": "N00029303"
+    }, 
+    {
+      "state": "OR", 
+      "name": " Ron Wyden (D)", 
+      "cid": "N00007724"
+    }
+  ], 
+  "SD": [
+    {
+      "state": "SD", 
+      "name": " Mike Rounds (R)", 
+      "cid": "N00035187"
+    }, 
+    {
+      "state": "SD", 
+      "name": " John Thune (R)", 
+      "cid": "N00004572"
+    }
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "records": [
+    {
+      "totals": "166329", 
+      "indivs": "157553", 
+      "pac": "8776", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "League of Conservation Voters", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "160633", 
+      "indivs": "156336", 
+      "pac": "4297", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JStreetPAC", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "87741", 
+      "indivs": "87741", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of Virginia", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "70800", 
+      "indivs": "69050", 
+      "pac": "1750", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Akin, Gump et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "68050", 
+      "indivs": "59550", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McGuireWoods LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "55900", 
+      "indivs": "53400", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Covington & Burling", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "48289", 
+      "indivs": "48289", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hunton & Williams", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "47000", 
+      "indivs": "36000", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DLA Piper", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "46750", 
+      "indivs": "46750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jones Day", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "44250", 
+      "indivs": "44250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Skadden, Arps et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "43805", 
+      "indivs": "33805", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Norfolk Southern", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "41849", 
+      "indivs": "39849", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Genworth Financial", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "40400", 
+      "indivs": "35400", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Centene Corp", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "39667", 
+      "indivs": "39667", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "US Government", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "35075", 
+      "indivs": "17075", 
+      "pac": "18000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dominion Resources", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "34750", 
+      "indivs": "29750", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Squire Patton Boggs", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "33830", 
+      "indivs": "31830", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hogan Lovells", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "33700", 
+      "indivs": "33700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Latham & Watkins", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "33270", 
+      "indivs": "33270", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kirkland & Ellis", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "32750", 
+      "indivs": "31750", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Microsoft Corp", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "32500", 
+      "indivs": "32500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WilmerHale Llp", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "31693", 
+      "indivs": "28750", 
+      "pac": "2943", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Arnold & Porter", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "31500", 
+      "indivs": "31500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harvard University", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "30000", 
+      "indivs": "30000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bain Capital", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "29826", 
+      "indivs": "24000", 
+      "pac": "5826", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Council for a Livable World", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "28750", 
+      "indivs": "28750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "27700", 
+      "indivs": "27700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Vornado Realty Trust", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "27000", 
+      "indivs": "27000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of California", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "27000", 
+      "indivs": "18000", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital One Financial", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "26350", 
+      "indivs": "26350", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Virginia Commonwealth University", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "25938", 
+      "indivs": "20938", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Verizon Communications", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "25860", 
+      "indivs": "18860", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Covanta Holding", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "25000", 
+      "indivs": "25000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Thornton & Naumes", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "25000", 
+      "indivs": "22000", 
+      "pac": "3000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Voices for Progress", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "23000", 
+      "indivs": "17000", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MWW Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "22500", 
+      "indivs": "22500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Girardi & Keese", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "22300", 
+      "indivs": "7300", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "21750", 
+      "indivs": "20750", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "21450", 
+      "indivs": "20450", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sidley Austin LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "21000", 
+      "indivs": "21000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Barclays", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "21000", 
+      "indivs": "1000", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ironworkers Union", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20550", 
+      "indivs": "20550", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kellogg, Huber et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20350", 
+      "indivs": "20350", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Greenberg Traurig LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20250", 
+      "indivs": "20250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Weinstein Properties", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20250", 
+      "indivs": "20250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams Kherkher", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "0", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Air Traffic Controllers Assn", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hoffman Management", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "19750", 
+      "indivs": "19750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Holland & Knight", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "19725", 
+      "indivs": "14725", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Van Ness Feldman", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "19633", 
+      "indivs": "9633", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UBS AG", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "19500", 
+      "indivs": "9500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group Companies", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18950", 
+      "indivs": "18950", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "George Mason University", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18500", 
+      "indivs": "16000", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bingham McCutchen LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18422", 
+      "indivs": "15422", 
+      "pac": "3000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams Mullen", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18344", 
+      "indivs": "18344", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mvm Inc", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18250", 
+      "indivs": "15750", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Altria Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18100", 
+      "indivs": "18100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Steptoe & Johnson", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "18000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Westmed Medical Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "18000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WPP Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17950", 
+      "indivs": "17950", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Freddie Mac", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17900", 
+      "indivs": "17900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lester Brokerage", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17750", 
+      "indivs": "17750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Motley Rice LLC", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17750", 
+      "indivs": "17750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "ICF International", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17700", 
+      "indivs": "2700", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17500", 
+      "indivs": "17500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Allen, Allen et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17250", 
+      "indivs": "17250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Grant & Eisenhofer", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "17000", 
+      "indivs": "1000", 
+      "pac": "16000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New York Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16800", 
+      "indivs": "16800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "US Senate", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16750", 
+      "indivs": "16750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Buchanan, Ingersoll & Rooney", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16600", 
+      "indivs": "16600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "US Dept of State", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16583", 
+      "indivs": "16583", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Georgetown University", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "16500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "O'Melveny & Myers", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "16500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sullivan & Cromwell", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15900", 
+      "indivs": "14900", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "15500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Cable & Telecommunications Assn", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "15500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wilson, Sonsini et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15250", 
+      "indivs": "15250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Virginia Urology", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15250", 
+      "indivs": "5250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northrop Grumman", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15250", 
+      "indivs": "15250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Leclair Ryan LLC", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15200", 
+      "indivs": "15200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Paul, Weiss et al", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15043", 
+      "indivs": "13500", 
+      "pac": "1543", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "LeClairRyan PC", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nostrum Pharmaceuticals", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Federation of Teachers", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Strategic Analysis Inc", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boilermakers Union", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Artisan Partners", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "2500", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AGL Resources", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14907", 
+      "indivs": "14907", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McDermott, Will & Emery", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14800", 
+      "indivs": "14800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of Richmond", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14750", 
+      "indivs": "12750", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "K&L Gates", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14700", 
+      "indivs": "14700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Venable LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14700", 
+      "indivs": "14700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "King & Spalding", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "11000", 
+      "pac": "3500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pragmatics Inc", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14250", 
+      "indivs": "14250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Podesta Group", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14250", 
+      "indivs": "14250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fairfax County, VA", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "14000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Columbia Capital", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "14000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Triumvirate Environmental", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "8500", 
+      "pac": "5500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blank Rome LLP", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "0", 
+      "pac": "14000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Transportation Union", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "13600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "US Dept of Defense", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "13600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Clayco Inc", 
+      "cycle": "2016", 
+      "ID": "N00033177", 
+      "crpname": "Tim Kaine (D)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "101"
+  }
+}

@@ -1,0 +1,1009 @@
+{
+  "records": [
+    {
+      "totals": "90550", 
+      "indivs": "85550", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "78697", 
+      "indivs": "78697", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lowenstein Sandler LLP", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "70850", 
+      "indivs": "57850", 
+      "pac": "13000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Prudential Financial", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "69700", 
+      "indivs": "62200", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Greenberg Traurig LLP", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "56200", 
+      "indivs": "48700", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Federated Investors Inc", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "51800", 
+      "indivs": "51800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Leon Medical Centers", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "48000", 
+      "indivs": "38000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kindred Healthcare", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "46150", 
+      "indivs": "46150", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Votesane PAC", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "41700", 
+      "indivs": "41700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Grant & Eisenhofer", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "40000", 
+      "indivs": "40000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dade Medical College", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "38400", 
+      "indivs": "28400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "36950", 
+      "indivs": "28950", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Verizon Communications", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "36600", 
+      "indivs": "36600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Inserra Supermarkets", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "36249", 
+      "indivs": "33250", 
+      "pac": "2999", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Medco Health Solutions", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "33950", 
+      "indivs": "33950", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Medicines Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "32750", 
+      "indivs": "32750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "32300", 
+      "indivs": "32300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bio-Reference Laboratories", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "31750", 
+      "indivs": "29250", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Skadden, Arps et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "31250", 
+      "indivs": "21250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "30000", 
+      "indivs": "29000", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cerberus Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "29500", 
+      "indivs": "29500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Windels, Marx et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "29500", 
+      "indivs": "29500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BGC Partners", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "28400", 
+      "indivs": "28400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "J Fletcher Creamer & Son", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "28000", 
+      "indivs": "27000", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tom James Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "27250", 
+      "indivs": "27250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Milbank, Tweed et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "26716", 
+      "indivs": "21075", 
+      "pac": "5641", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Akin, Gump et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "26700", 
+      "indivs": "26700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carella, Byrne et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "25750", 
+      "indivs": "15750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "SUEZ Environnement", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24500", 
+      "indivs": "24500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kirkland & Ellis", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24400", 
+      "indivs": "24400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Merck & Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24291", 
+      "indivs": "20191", 
+      "pac": "4100", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WPP Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24144", 
+      "indivs": "24144", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Charmer Sunbelt Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24138", 
+      "indivs": "19138", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Becton, Dickinson & Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24000", 
+      "indivs": "14000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DLA Piper", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "24000", 
+      "indivs": "14000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "23700", 
+      "indivs": "23700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Connell Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "23250", 
+      "indivs": "23250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boraie Development", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "23000", 
+      "indivs": "0", 
+      "pac": "23000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Communications Workers of America", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "23000", 
+      "indivs": "20000", 
+      "pac": "3000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cablevision Systems", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22650", 
+      "indivs": "22650", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Decotiis, Fitzpatrick & Cole", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22648", 
+      "indivs": "17650", 
+      "pac": "4998", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McDermott, Will & Emery", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22600", 
+      "indivs": "14000", 
+      "pac": "8600", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gibbons PC", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22500", 
+      "indivs": "22500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jules & Assoc", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22399", 
+      "indivs": "10400", 
+      "pac": "11999", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Westfield Group of Australia", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22200", 
+      "indivs": "9700", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cash America International", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22000", 
+      "indivs": "22000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams Kherkher", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "22000", 
+      "indivs": "22000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mastec Inc", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "21500", 
+      "indivs": "21500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Atlantic Health System", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "21400", 
+      "indivs": "21400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Royal Printing Service", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "21250", 
+      "indivs": "14250", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "20500", 
+      "indivs": "15500", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exelon Corp", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hackensack University Medical Center", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Melgen Retina Eye Center", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "19500", 
+      "indivs": "19500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Faruqi & Faruqi", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18900", 
+      "indivs": "18900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Florio, Perrucci et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18800", 
+      "indivs": "4800", 
+      "pac": "14000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AXA", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18750", 
+      "indivs": "18750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18750", 
+      "indivs": "5750", 
+      "pac": "13000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18500", 
+      "indivs": "10500", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Continental Holdings", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18500", 
+      "indivs": "18500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Infotech Global", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18115", 
+      "indivs": "8115", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CVS Health", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "13000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Molina Healthcare", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "17700", 
+      "indivs": "17700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mana Products", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "17500", 
+      "indivs": "17500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amerlux LLC", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "17500", 
+      "indivs": "17500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Safas Corp", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "16500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Thornton & Naumes", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "16200", 
+      "indivs": "14200", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Public Service Enterprise Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "16000", 
+      "indivs": "16000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Southwestern Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "16000", 
+      "indivs": "6000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Spectra Energy", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "16000", 
+      "indivs": "10000", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AECOM Global", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15650", 
+      "indivs": "8150", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UBS AG", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "15500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Equity Industrial Partners", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15150", 
+      "indivs": "10150", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Squire Patton Boggs", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15100", 
+      "indivs": "15100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sills, Cummis & Gross", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Meruelo Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Coca-Cola Puerto Rico Bottlers", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CSA Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "7500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Brownstein, Hyatt et al", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Duty Free Americas", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ben Barnes Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chartwell Hotels", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14600", 
+      "indivs": "14600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WellMed Medical Management", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "14500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bederson & Co", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "500", 
+      "pac": "14000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Longshoremens Assn", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14400", 
+      "indivs": "14400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berger Organization", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14400", 
+      "indivs": "14400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "3541 Builders", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14100", 
+      "indivs": "8000", 
+      "pac": "6100", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chubb Corp", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "14000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hospital Hermanos Melendez", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13750", 
+      "indivs": "13750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Roseland Property", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13700", 
+      "indivs": "13700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jones Day", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "8600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AES Corp", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13500", 
+      "indivs": "13500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Corinthian Medical Ipa", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13500", 
+      "indivs": "13500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Panepinto Properties", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13260", 
+      "indivs": "12500", 
+      "pac": "760", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Interpublic Group", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PHIBRO Animal Health", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Emigrant Bank", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "5000", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackrock Inc", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "12700", 
+      "indivs": "12700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kre Property Management", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }, 
+    {
+      "totals": "12625", 
+      "indivs": "12625", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Parking Systems", 
+      "cycle": "2016", 
+      "ID": "N00000699", 
+      "crpname": "Robert Menendez (D)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "100"
+  }
+}

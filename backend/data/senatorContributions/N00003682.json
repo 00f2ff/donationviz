@@ -1,0 +1,1009 @@
+{
+  "records": [
+    {
+      "totals": "107900", 
+      "indivs": "100900", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citigroup Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "97700", 
+      "indivs": "87700", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "80000", 
+      "indivs": "80000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Votesane PAC", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "61050", 
+      "indivs": "56050", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ernst & Young", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "59100", 
+      "indivs": "49100", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Metlife Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "57500", 
+      "indivs": "49500", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "57450", 
+      "indivs": "57450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sullivan & Cromwell", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "56755", 
+      "indivs": "56755", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "KKR & Co", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "49900", 
+      "indivs": "39900", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FirstEnergy Corp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "49800", 
+      "indivs": "43300", 
+      "pac": "6500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FMR Corp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "48100", 
+      "indivs": "38500", 
+      "pac": "9600", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Electric Power", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "44600", 
+      "indivs": "44600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "43250", 
+      "indivs": "37750", 
+      "pac": "5500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Procter & Gamble", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "43250", 
+      "indivs": "43250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Financial Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "42600", 
+      "indivs": "38100", 
+      "pac": "4500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cintas Corp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "37800", 
+      "indivs": "37800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amway", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "37000", 
+      "indivs": "27000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cardinal Health", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "35800", 
+      "indivs": "35800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Elliott Management", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "35366", 
+      "indivs": "35366", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "North American Properties", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "33300", 
+      "indivs": "26300", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bechtel Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "33150", 
+      "indivs": "23150", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nationwide", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "32200", 
+      "indivs": "25200", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "US Bancorp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "32100", 
+      "indivs": "32100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Frost Brown Todd Llc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "30700", 
+      "indivs": "20700", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pfizer Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "29300", 
+      "indivs": "29300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Affiliated Managers Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "29199", 
+      "indivs": "29199", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Standard Textile", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "28100", 
+      "indivs": "18100", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group Companies", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "28000", 
+      "indivs": "18000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UnitedHealth Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "26750", 
+      "indivs": "24250", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WPP Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "26400", 
+      "indivs": "26400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Squire Patton Boggs", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "25500", 
+      "indivs": "15500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ohio National Financial Services", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "25400", 
+      "indivs": "15400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Duke Energy", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "25300", 
+      "indivs": "12800", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carlyle Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "22650", 
+      "indivs": "21650", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams & Jensen", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "22500", 
+      "indivs": "12500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Google Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "21600", 
+      "indivs": "21600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Massillon Cable TV", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "21050", 
+      "indivs": "11050", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pinnacle West Capital", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "21000", 
+      "indivs": "13800", 
+      "pac": "7200", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fifth Third Bancorp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "20400", 
+      "indivs": "15400", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rpm International", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "20250", 
+      "indivs": "12250", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alston & Bird", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hess Corp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "19850", 
+      "indivs": "17350", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "19800", 
+      "indivs": "9800", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cisco Systems", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "19500", 
+      "indivs": "9500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Owens Corning", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "19200", 
+      "indivs": "15700", 
+      "pac": "3500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "19100", 
+      "indivs": "19100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "18500", 
+      "indivs": "13500", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MacAndrews & Forbes", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "18400", 
+      "indivs": "8400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "18186", 
+      "indivs": "18186", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McGraw-Hill Companies", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "8000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Barclays", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "2000", 
+      "pac": "16000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deutsche Bank AG", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17950", 
+      "indivs": "10450", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Baker & Hostetler", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17900", 
+      "indivs": "11900", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Koch Industries", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17750", 
+      "indivs": "17750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Western & Southern Financial Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17400", 
+      "indivs": "17400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Joseph Auto Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17200", 
+      "indivs": "12200", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Timken Co", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "17000", 
+      "indivs": "7000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UBS AG", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16700", 
+      "indivs": "16700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Macy's Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "14500", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Calfee, Halter & Griswold", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16300", 
+      "indivs": "11450", 
+      "pac": "4850", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gibson, Dunn & Crutcher", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16298", 
+      "indivs": "10300", 
+      "pac": "5998", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McDermott, Will & Emery", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16200", 
+      "indivs": "16200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Heller Realty", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16200", 
+      "indivs": "16200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tql", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "16000", 
+      "indivs": "16000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Castellini Group of Companies", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15950", 
+      "indivs": "10950", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "M/I Homes Inc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15800", 
+      "indivs": "10800", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Devon Energy", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15800", 
+      "indivs": "15800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Forest City Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15800", 
+      "indivs": "15800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Dairy Farmers", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15750", 
+      "indivs": "15750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jones Day", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15600", 
+      "indivs": "15600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Crow Holdings", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15600", 
+      "indivs": "15600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bain Capital", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15600", 
+      "indivs": "15600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harrison Street Capital", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15550", 
+      "indivs": "15550", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Graydon, Head & Ritchey", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "11500", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "White Castle System", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "5500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jones Financial Companies", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "8500", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Travelers Companies", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15400", 
+      "indivs": "10400", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "L Brands", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15100", 
+      "indivs": "5100", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dow Chemical", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "5000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "RR Donnelley & Sons", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Richie's Specialty Pharmacy", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "5000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Huntington Bancshares", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "5000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Public Service Enterprise Group", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "14800", 
+      "indivs": "14800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Share Insurance", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "14800", 
+      "indivs": "10800", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AK Steel", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "14750", 
+      "indivs": "12250", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Keating, Muething & Klekamp", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "14450", 
+      "indivs": "14450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bank of America", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "14050", 
+      "indivs": "8050", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northwestern Mutual", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "13600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "TA Assoc", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13400", 
+      "indivs": "13400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sibcy Cline Realtors", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13300", 
+      "indivs": "4800", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PNC Financial Services", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13200", 
+      "indivs": "13200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Riverside Co", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "10500", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "King & Spalding", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apax Partners", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "3000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Corrections Corp of America", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "9000", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PricewaterhouseCoopers", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "3000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "TIAA-CREF", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "12905", 
+      "indivs": "12905", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kleinberg, Kaplan et al", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "12800", 
+      "indivs": "12800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tarplin, Downs & Young", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "12800", 
+      "indivs": "12800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Proscan Imaging", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }, 
+    {
+      "totals": "12750", 
+      "indivs": "2750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Abbott Laboratories", 
+      "cycle": "2016", 
+      "ID": "N00003682", 
+      "crpname": "Rob Portman (R)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "100"
+  }
+}

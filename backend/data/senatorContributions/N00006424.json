@@ -1,0 +1,1019 @@
+{
+  "records": [
+    {
+      "totals": "69950", 
+      "indivs": "59950", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pinnacle West Capital", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "55850", 
+      "indivs": "55850", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Greenberg Traurig LLP", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "45000", 
+      "indivs": "45000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Elliott Management", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "43700", 
+      "indivs": "33700", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Freeport-McMoRan", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "42600", 
+      "indivs": "34900", 
+      "pac": "7700", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "34400", 
+      "indivs": "28400", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "33600", 
+      "indivs": "23600", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MacAndrews & Forbes", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "32650", 
+      "indivs": "22650", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Raytheon Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "32649", 
+      "indivs": "30149", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Liberty Media Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "31200", 
+      "indivs": "21200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Airlines Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "26000", 
+      "indivs": "26000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PVS Chemicals", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "23050", 
+      "indivs": "13050", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "21400", 
+      "indivs": "11400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northrop Grumman", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "KKR & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "20200", 
+      "indivs": "20200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "19700", 
+      "indivs": "19700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MGM Resorts International", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "16650", 
+      "indivs": "16650", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Snell & Wilmer", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "16200", 
+      "indivs": "16200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tuttle-Click Automotive Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "16100", 
+      "indivs": "16100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "16000", 
+      "indivs": "12000", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Grand Canyon Education", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "10000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Centene Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "14850", 
+      "indivs": "14850", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Indigo Partners", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "14250", 
+      "indivs": "14250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Innitech", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "13750", 
+      "indivs": "3750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Salt River Project", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "6100", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Google Inc", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "13100", 
+      "indivs": "8100", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Crawford Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "12900", 
+      "indivs": "5400", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BAE Systems", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "12800", 
+      "indivs": "12800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hess Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "12800", 
+      "indivs": "12800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11700", 
+      "indivs": "9200", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Brownstein, Hyatt et al", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11600", 
+      "indivs": "11600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Arizona Diamondbacks", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11568", 
+      "indivs": "1568", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cox Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11475", 
+      "indivs": "3850", 
+      "pac": "7625", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Akin, Gump et al", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11100", 
+      "indivs": "11100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rubin & Rudman", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rio Tinto Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10800", 
+      "indivs": "10800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marcus Foundation", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10800", 
+      "indivs": "10800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harbour Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10700", 
+      "indivs": "10700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jdm Partners", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10600", 
+      "indivs": "5600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Steptoe & Johnson", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group Companies", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carruth Capital", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hermann Companies", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Aea Investments", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Johnson Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northwest Excavating", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JF Lehman & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Navigators Global", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Satter Investment Management", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Duchossois Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Icahn Assoc", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JAO Holding Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "5200", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Irvine Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rely on Your Beliefs", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "USAA", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Caci Intl", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Madison Dearborn Partners", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tenn PAC", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Home Depot", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rock City PAC", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Starr Insurance & Reinsurance", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bluegrass Cmte", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pilot Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "9250", 
+      "indivs": "250", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AT&T Inc", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "9000", 
+      "indivs": "0", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FedEx Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8500", 
+      "indivs": "0", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alliant Techsystems", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8450", 
+      "indivs": "6450", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "8000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Western Alliance Bancorp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "8000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BGR Group", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "8000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hensley & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "2000", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bryan Cave LLP", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "7900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CV Starr & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "7900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Stone Point Capital", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "5300", 
+      "pac": "2600", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gibson, Dunn & Crutcher", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mack-Cali Realty", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chartwell Partners", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7650", 
+      "indivs": "6750", 
+      "pac": "900", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gallagher & Kennedy", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7600", 
+      "indivs": "2600", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cisco Systems", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7600", 
+      "indivs": "3600", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7500", 
+      "indivs": "2000", 
+      "pac": "5500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DISH Network", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7250", 
+      "indivs": "250", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Bankers Assn", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7000", 
+      "indivs": "0", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Dynamics", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7000", 
+      "indivs": "0", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sierra Nevada Corp", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "7000", 
+      "indivs": "3500", 
+      "pac": "3500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DLA Piper", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6650", 
+      "indivs": "6650", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Arizona State University", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6600", 
+      "indivs": "6600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Intero Real Estate Services", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6500", 
+      "indivs": "0", 
+      "pac": "6500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Textron Inc", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6450", 
+      "indivs": "6450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bank of America", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6400", 
+      "indivs": "6400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MDC Holdings", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6200", 
+      "indivs": "6200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Longford Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6200", 
+      "indivs": "6200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Platte River Ventures", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6200", 
+      "indivs": "6200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sunstate Equipment", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6200", 
+      "indivs": "6200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of California", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6200", 
+      "indivs": "6200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Moelis & Co", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6000", 
+      "indivs": "1000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Mining Assn", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6000", 
+      "indivs": "0", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Squire Patton Boggs", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6000", 
+      "indivs": "1000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sempra Energy", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "6000", 
+      "indivs": "0", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rolls-Royce PLC", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "5900", 
+      "indivs": "5900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Diamond Ventures", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "5700", 
+      "indivs": "5700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "KPMG LLP", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }, 
+    {
+      "totals": "5700", 
+      "indivs": "5700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Perella Weinberg Partners", 
+      "cycle": "2016", 
+      "ID": "N00006424", 
+      "crpname": "John McCain (R)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "101"
+  }
+}

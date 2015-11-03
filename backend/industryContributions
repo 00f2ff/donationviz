@@ -16,6 +16,25 @@ import string
 import csv
 
 
+def findSenators():
+	senators = []
+	with open('data/114th.csv', 'rU') as csvfile:
+		reader = csv.reader(csvfile)
+		for row in reader:
+			if row[4][0] == "S":
+				candidate = {
+				'cid': row[0],
+				'first_name': row[1].split(',')[1],
+				'last_name': row[1].split(',')[0],
+				'party': row[2],
+				'state': row[3][:2],
+				'class': row[3][3], # class is because the elections are staggered
+				'fec_id': row[4]
+				}
+				senators.append(candidate)
+	return senators
+
+
 #function to go get/parse top industry contributors for a given senator
 def getIndustryInfo(cid):
 	industryOutput = []

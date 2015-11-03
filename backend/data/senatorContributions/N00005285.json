@@ -1,0 +1,1789 @@
+{
+  "records": [
+    {
+      "totals": "101100", 
+      "indivs": "93100", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Burns & McDonnell", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "70500", 
+      "indivs": "70500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Votesane PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "58450", 
+      "indivs": "48450", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Koch Industries", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "44300", 
+      "indivs": "40300", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "39800", 
+      "indivs": "39800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Novogradac & Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "33650", 
+      "indivs": "23650", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Select Medical Holdings", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "29176", 
+      "indivs": "15600", 
+      "pac": "13576", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citizens for Prosperity in America Today", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "26000", 
+      "indivs": "16000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "24250", 
+      "indivs": "15750", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DaVita HealthCare Partners", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "23600", 
+      "indivs": "7600", 
+      "pac": "16000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alston & Bird", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "23457", 
+      "indivs": "23457", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Club for Growth", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "23000", 
+      "indivs": "22000", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "22800", 
+      "indivs": "14800", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DuPont Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "21900", 
+      "indivs": "11900", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Waddell & Reed", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "21150", 
+      "indivs": "11150", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berkshire Hathaway", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "20400", 
+      "indivs": "10400", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Crawford Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Richie's Specialty Pharmacy", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "18750", 
+      "indivs": "8750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pfizer Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "9000", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AT&T Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "17400", 
+      "indivs": "11400", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "QC Holdings", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "17000", 
+      "indivs": "7000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fresenius Medical Care", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15900", 
+      "indivs": "15900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alliantgroup", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15900", 
+      "indivs": "5900", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Polsinelli PC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15750", 
+      "indivs": "10250", 
+      "pac": "5500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amgen Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15575", 
+      "indivs": "5575", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Murray Energy", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "15500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jennmar Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15325", 
+      "indivs": "5825", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bryan Cave LLP", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15200", 
+      "indivs": "5200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Home Depot", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Technologies", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Cattlemen's Beef Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Promoting Our Republican Team PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Onex Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "5000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Merck & Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bluegrass Cmte", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "14800", 
+      "indivs": "8300", 
+      "pac": "6500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northwestern Mutual", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "1750", 
+      "pac": "12750", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "14000", 
+      "indivs": "5000", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Monsanto Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "13200", 
+      "indivs": "13200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ritchie Exploration", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Russell Stover Candies", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Crossland Construction", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "3000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nickles Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12900", 
+      "indivs": "12900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Children's Mercy Hospital", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12806", 
+      "indivs": "7806", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hallmark Cards", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12600", 
+      "indivs": "4600", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kansas City Southern", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "0", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Farm Credit Council", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "5000", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AmerisourceBergen Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12400", 
+      "indivs": "12400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Palmer Manufacturing & Tank", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12250", 
+      "indivs": "2250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Husch Blackwell LLP", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "0", 
+      "pac": "12000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Council of Engineering Cos", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "0", 
+      "pac": "12000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Texas Farm Bureau", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "8500", 
+      "pac": "3500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BGR Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "2000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Black & Veatch", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11900", 
+      "indivs": "11900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Castle Harlan Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "1500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "500", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Council of Farmer Co-ops", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "500", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Archer Daniels Midland", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "1500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Motors", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "2500", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Textron Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11400", 
+      "indivs": "10400", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carlyle Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11200", 
+      "indivs": "1200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chevron Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11100", 
+      "indivs": "9100", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "YUM! Brands", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11100", 
+      "indivs": "11100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Slawson Companies", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Soybean Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BlackRock Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Dairy Foods Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ernst & Young", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Mills", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UBS AG", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10897", 
+      "indivs": "1250", 
+      "pac": "9647", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kansas Farm Bureau", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10750", 
+      "indivs": "750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10750", 
+      "indivs": "750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Verizon Communications", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "4500", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "SoftBank Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "0", 
+      "pac": "10500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Thrivent Financial for Lutherans", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "3500", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deere & Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PricewaterhouseCoopers", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Medical Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mid America Pipe", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Western Rim Properties", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Breitling Energy", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MAE Resources", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harbour Group Industries", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ferrellgas", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10300", 
+      "indivs": "7800", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Poet LLC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10250", 
+      "indivs": "250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boeing Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10250", 
+      "indivs": "250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AFLAC Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10250", 
+      "indivs": "750", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CME Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10205", 
+      "indivs": "10205", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northrock Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "1200", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New York Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10100", 
+      "indivs": "3850", 
+      "pac": "6250", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Altria Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Denali Leadership PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lead Your Nation Now PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Growth Energy", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Next Century Fund", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rely on Your Beliefs", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "KPMG LLP", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Associated Builders & Contractors", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cerner Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Securities Industry & Financial Mkt Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Country First PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Darden Restaurants", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Grant Thornton LLP", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "California Dairies Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CSX Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Realtors", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Save America PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tenn PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Defend America PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "John Bolton PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kelly PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fund for a Conservative Future", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fund for America's Future", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "21st Century Majority Fund", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Reschini Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marathon Petroleum", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Multi Housing Council", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Anheuser-Busch InBev", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Responsibility & Freedom Work PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Society of Plastic Surgeons", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Making Business Excel PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Stone, Sand & Gravel Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Legacy PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bi-County PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Corn Growers Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Norfolk Southern", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Procter & Gamble", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Auto Dealers Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "19th Star PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Assn of Nurse Anesthetists", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Republican Majority Fund", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hawkeye PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McKesson Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Chain Drug Stores", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Seniors Housing Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Cable & Telecommunications Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Time Warner Cable", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dr Pepper Snapple Group", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cox Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "2500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Google Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Indep Insurance Agents & Brokers/America", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Massachusetts Mutual Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Northrop Grumman", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Beer Wholesalers Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "HellerHighWater PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tallatchee Creek Inc", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Beechcraft Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dallas Entrepreneur PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Independent Petroleum Assn of America", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Laboratory Corp of America", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lincoln PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Home Builders", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "OrrinPAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Arkansas for Leadership", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Associated General Contractors", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Conservatives Organized to Advance Tmrw", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Bankers Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Veterinary Medical Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American College of Emergency Physicians", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American College of Radiology", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Union Pacific Corp", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Automotive Free International Trade PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wine & Spirits Wholesalers of America", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Academy of Family Physicians", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Academy of Nurse Practitioners", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exxon Mobil", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alamo PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Dental Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Restaurant Assn", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Free State PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Teva Pharmaceutical Industries", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Heartland Values PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Common Values PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "H&R Block", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rock City PAC", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "USAA", 
+      "cycle": "2016", 
+      "ID": "N00005285", 
+      "crpname": "Pat Roberts (R)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "178"
+  }
+}
