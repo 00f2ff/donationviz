@@ -1,3 +1,11 @@
+import json
+import urllib
+import urllib2
+import re
+import string
+import csv
+
+
 # Find Senator data (there are 102 for some reason)
 def findSenators():
 	senators = []
@@ -7,7 +15,8 @@ def findSenators():
 			if row[4][0] == "S":
 				candidate = {
 				'cid': row[0],
-				'name': row[1],
+				'first_name': row[1].split(',')[1],
+				'last_name': row[1].split(',')[0],
 				'party': row[2],
 				'state': row[3][:2],
 				'class': row[3][3], # class is because the elections are staggered
@@ -16,12 +25,22 @@ def findSenators():
 				senators.append(candidate)
 	return senators
 
-import json
-import urllib
-import urllib2
-import re
-import string
-import csv
+# Writes a JSON file comprised of senator names and cids for each state
+def writeStateSenatorsToFile():
+	senators = findSenators()
+	data = {}
+	for i in xrange(len(senators)):
+		s = senators[i]
+		full_name = "%s %s (%s)" % (s["first_name"], s["last_name"], s["party"])
+		senData = {"name":full_name, "cid":s["cid"], "state":s["state"]} # state is just there to check
+		if s["state"] in data.keys():
+			data[s["state"]].append(senData)
+		else:
+			data[s["state"]] = [senData]
+
+	data = str(json.dumps(data, indent=2))
+	with open("data/stateSenators.json","w") as f:
+		f.write(data)
 
 # Returns dictionary object of senator contributions 
 def findSenatorContributions(cid):
@@ -54,8 +73,6 @@ def writeSenContribsToSingleFile():
 	with open("data/senContribAll.json","w") as f:
 		f.write(data)
 
-# writeSenContribsToSingleFile()
-
 # This is fairly similar to previous function, but will create 102 small JSON files
 def writeSenContribsToIDFiles(): 
 	senators = findSenators()
@@ -68,5 +85,8 @@ def writeSenContribsToIDFiles():
 
 	print "~~~ fin ~~~"
 
-writeSenContribsToIDFiles()
+
+# writeStateSenatorsToFile()
+# writeSenContribsToSingleFile()
+# writeSenContribsToIDFiles()
 
