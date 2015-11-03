@@ -33,25 +33,7 @@ import csv
 # print cidDict
 # All above info is just repetitive, I wrote code before that can do the same thing assuming similar CSV formatting
 
-# Find Senator data (there are 102 for some reason)
-def findSenators():
-	candidates = []
-	with open('data/114th.csv', 'rU') as csvfile:
-		reader = csv.reader(csvfile)
-		for row in reader:
-			if row[4][0] == "S":
-				candidate = {
-				'cid': row[0],
-				'name': row[1],
-				'party': row[2],
-				'state': row[3][:2],
-				'class': row[3][3], # class is because the elections are staggered
-				'fec_id': row[4]
-				}
-				candidates.append(candidate)
-	return candidates
 
-# findSenators()
 
 def callAPI(method, cid):
 	# url = 
@@ -61,53 +43,7 @@ def callAPI(method, cid):
 	response = json.loads(con.read())['response']
 	return response
 
-# def findCandidateContributions():
-# 	candidates = findSenators()
-# 	candContribData = {'candContribData':[]}
-# 	# callAPI('candContrib',candidates[0]['cid'])
-# 	for i in xrange(2):
-# 		print candidates[i]['cid']
-# 		response = callAPI('candContrib',candidates[i]['cid'])
-# 		candContribData['candContribData'].append(response)
-
-# 	candContribData = str(json.dumps(candContribData, indent=2))
-# 	# write to JSON
-# 	with open("candContrib.json","w") as f:
-# 		f.write(candContribData)
-
-	# # finalData = 
-
-# findCandidateContributions()
-
-def findCandidateContributions():
-	candidates = findSenators()
-	data = {"candContrib": []}
-	headers = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"
-	for i in xrange(len(candidates)):
-		print i
-		print "starting %s..." % (candidates[i]["cid"])
-		url = "http://www.opensecrets.org/db2dl/?q=MemContrib&cid=%s&cycle=2016&output=JSON&type=I" % (candidates[i]["cid"])
-		try:
-			req = urllib2.Request(url, headers={'User-Agent' : headers}) 
-			con = urllib2.urlopen(req)
-			# convert into dictionary
-			response = json.loads(con.read())
-		except UnicodeDecodeError:
-			opener = urllib2.build_opener()
-			opener.addheaders = [('User-agent', headers)]
-			con = opener.open(url)
-			# convert into dictionary
-			response = json.loads(unicode(con.read(), "ISO-8859-1"))
-		# create better key (go by cid, since it's an easy way to go back through files)
-		response[candidates[i]["cid"]] = response.pop("records")
-		data["candContrib"].append(response)
-		print "finished %s" % (candidates[i]["cid"])
-	data = str(json.dumps(data, indent=2))
-	with open("data/candContribAll.json","w") as f:
-		f.write(data)
-
-# findCandidateContributions() # this function generates a 3.4 MB JSON file... just a warning
-
+# test function
 def findSingleCandidateContribution(cid):
 	url = "http://www.opensecrets.org/db2dl/?q=MemContrib&cid=%s&cycle=2016&output=JSON&type=I" % (cid)
 	headers = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30"

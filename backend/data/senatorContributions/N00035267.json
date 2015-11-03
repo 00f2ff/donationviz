@@ -1,0 +1,1009 @@
+{
+  "records": [
+    {
+      "totals": "158871", 
+      "indivs": "154044", 
+      "pac": "4827", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "153900", 
+      "indivs": "153900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Paul, Weiss et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "79600", 
+      "indivs": "79600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sullivan & Cromwell", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "73400", 
+      "indivs": "53400", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DLA Piper", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "72800", 
+      "indivs": "67800", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gibbons PC", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "68500", 
+      "indivs": "56000", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Prudential Financial", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "67100", 
+      "indivs": "67100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Henry Crown & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "63750", 
+      "indivs": "63750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Third Point LLC", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "62900", 
+      "indivs": "62900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pershing Square Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "62700", 
+      "indivs": "57700", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "59000", 
+      "indivs": "59000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Quinn, Emanuel et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "55400", 
+      "indivs": "54400", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Time Warner", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "55100", 
+      "indivs": "48100", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Greenberg Traurig LLP", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "52000", 
+      "indivs": "52000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kushner Companies", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "50950", 
+      "indivs": "45950", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citigroup Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "50050", 
+      "indivs": "37550", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Merck & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "47650", 
+      "indivs": "47650", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lowenstein Sandler LLP", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "44500", 
+      "indivs": "44500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Li & Fung USA", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "42000", 
+      "indivs": "39500", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Facebook Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "41850", 
+      "indivs": "26850", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Verizon Communications", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "41750", 
+      "indivs": "26750", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "41100", 
+      "indivs": "41100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Columbia University", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "40500", 
+      "indivs": "28500", 
+      "pac": "12000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Continental Holdings", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "39800", 
+      "indivs": "39800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Power Home Remodeling", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "39700", 
+      "indivs": "39700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lazard Ltd", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "38850", 
+      "indivs": "38850", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carella, Byrne et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "38450", 
+      "indivs": "25950", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Google Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "38088", 
+      "indivs": "19300", 
+      "pac": "18788", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Public Service Enterprise Group", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "37450", 
+      "indivs": "36450", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Walt Disney Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "36921", 
+      "indivs": "20816", 
+      "pac": "16105", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cozen O'Connor", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "35800", 
+      "indivs": "35800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pachulski, Stang et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "35450", 
+      "indivs": "35450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Yucaipa Companies", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "35032", 
+      "indivs": "35032", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kramer, Levin et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "35000", 
+      "indivs": "35000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Freepoint Commodities", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "34700", 
+      "indivs": "34700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kleiner, Perkins et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "33950", 
+      "indivs": "33950", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cole, Schotz et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "33800", 
+      "indivs": "33800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "32000", 
+      "indivs": "32000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Charmer Sunbelt Group", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31850", 
+      "indivs": "21850", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackrock Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31350", 
+      "indivs": "13350", 
+      "pac": "18000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Connell Foley LLP", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31300", 
+      "indivs": "31300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "SABA Capital", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31200", 
+      "indivs": "31200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Falcon Edge Capital", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31200", 
+      "indivs": "31200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Brand, Sonnenschine & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31000", 
+      "indivs": "31000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Ridge Capital", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "31000", 
+      "indivs": "31000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kirkland & Ellis", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "30900", 
+      "indivs": "30900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Loews Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "29900", 
+      "indivs": "29900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of California", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "28800", 
+      "indivs": "28800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Slate Path Capital", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "28600", 
+      "indivs": "28600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Greylock Partners", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "28200", 
+      "indivs": "21200", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Morgan Stanley", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "28200", 
+      "indivs": "28200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harvest Partners", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "27550", 
+      "indivs": "27550", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sills, Cummis & Gross", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "27500", 
+      "indivs": "27500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Simpson, Thacher & Bartlett", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "27474", 
+      "indivs": "27474", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Decotiis, Fitzpatrick & Cole", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "27350", 
+      "indivs": "27350", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Keker & Van Nest", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "26850", 
+      "indivs": "16850", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "26050", 
+      "indivs": "7050", 
+      "pac": "19000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pfizer Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "26000", 
+      "indivs": "26000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Seagate Technology", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "24900", 
+      "indivs": "24900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nowell, Amoroso et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "23550", 
+      "indivs": "19550", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Amusements Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "23400", 
+      "indivs": "23400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tudor Investment", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "23100", 
+      "indivs": "23100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Allen & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "23050", 
+      "indivs": "21050", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Salesforce.com", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "23000", 
+      "indivs": "15500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Express", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22900", 
+      "indivs": "22900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New York Giants", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22800", 
+      "indivs": "5200", 
+      "pac": "17600", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cablevision Systems", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22800", 
+      "indivs": "22800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hudson Media", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22400", 
+      "indivs": "22400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Atom Factory", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22200", 
+      "indivs": "22200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Susman Godfrey LLP", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22100", 
+      "indivs": "22100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Windels, Marx et al", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22000", 
+      "indivs": "22000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "William Morris Endeavor Entertainment", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "22000", 
+      "indivs": "22000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mack-Cali Realty", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "21500", 
+      "indivs": "21500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bio-Reference Laboratories", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "21400", 
+      "indivs": "21400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Edison Properties", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lauder Partners", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Virtu Financial", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Structural Wealth Management", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "SSG Film Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Spo Partners & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ziff Brothers Investments", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Linkedin Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fortress Investment Group", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kanders & Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tinicum Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ironstate Holdings", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fireman Capital Partners", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dolphin Capital Holdings", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Caxton Alternative Management", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Regal Bank", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20600", 
+      "indivs": "20600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berger Organization", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20400", 
+      "indivs": "20400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "A Cap Inc", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20150", 
+      "indivs": "20150", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Willkie, Farr & Gallagher", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20050", 
+      "indivs": "12550", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AmerisourceBergen Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sony Corp", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Helping Hands Care", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "12500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NRG Energy", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "0", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New Millennium PAC", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "20000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Connell Co", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "0", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Impact", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }, 
+    {
+      "totals": "20000", 
+      "indivs": "0", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Searchlight Leadership Fund", 
+      "cycle": "2016", 
+      "ID": "N00035267", 
+      "crpname": "Cory Booker (D)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "100"
+  }
+}
