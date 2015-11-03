@@ -1,8 +1,8 @@
-from crpapi import CRP, CRPApiError
+#from crpapi import CRP, CRPApiError
 from keys import Keys 
 
 keys = Keys()
-CRP.apikey = keys.apikey
+#CRP.apikey = keys.apikey
 apikey = keys.apikey
 # Remove the ones I don't need
 import argparse
@@ -65,6 +65,13 @@ def stuff():
 	response = json.loads(con.read())
 	print response
 
-stuff()
+#stuff()
 
 
+#testing api calls for industry
+def test():
+	senators = findSenators()
+	print(senators[0][cid])
+	callAPI("candIndustry",senators[0]['cid'])
+
+test()
