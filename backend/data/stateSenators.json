@@ -124,6 +124,11 @@
       "state": "TX", 
       "name": " John Cornyn (R)", 
       "cid": "N00024852"
+    },
+       {
+      "state": "TX", 
+      "name": " Ted Cruz (R)", 
+      "cid": "N00033085"
     }
   ], 
   "LA": [
@@ -304,6 +309,11 @@
       "state": "VT", 
       "name": " Patrick Leahy (D)", 
       "cid": "N00009918"
+    },
+    {
+      "state": "VT", 
+      "name": " Bernie Sanders (D)", 
+      "cid": "N00000528"
     }
   ], 
   "IL": [
@@ -583,6 +593,11 @@
       "state": "KY", 
       "name": " Mitch McConnell (R)", 
       "cid": "N00003389"
+    },
+        {
+      "state": "KY", 
+      "name": " Rand Paul (R)", 
+      "cid": "N00030836"
     }
   ], 
   "OR": [

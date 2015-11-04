@@ -1,0 +1,163 @@
+body {
+	position: relative;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+}
+
+#page { width: 1000px; margin: 0 auto;}
+
+#map-wrapper {
+	margin: 0 auto;
+	width: inherit;
+	height: 650px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#members {
+	font-size: 1.1em;
+}
+
+.prose {
+	text-align: center;
+}
+
+a { text-decoration: none; color: #2196F3; }
+
+/*h1 span::first-letter{text-transform: uppercase;}*/
+
+#map-nav {  
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+
+	-webkit-flex-flow: row wrap; /* flex-direction flex-wrap */
+	justify-content: space-around; /* how remaining space is distributed */
+
+	margin: 2% auto;
+}
+
+.map-input {
+	background-color: rgba(182,182,182,0.3);
+	height: 50px;
+	width: 14%;
+	margin: auto;
+	margin-top: 10px;
+	line-height: 50px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.selected {
+	background-color: rgba(182,182,182,1);
+	color: white;
+}
+
+.graph-input:hover {
+	background-color: rgba(182,182,182,1);
+}
+
+#comparison {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+#comparison div { width: 250px; margin-bottom: 10px;}
+#comparison span { font-weight: bold; }
+#comparison div:nth-child(odd) { float: left; }
+#comparison div:nth-child(even) { float: right; }
+
+#analysis { margin: 0 auto; width: 700px; }
+
+.state 
+{
+	fill: black;
+	stroke:white;
+	stroke-width:1;
+	stroke-opacity:1;
+}
+
+.territory /* I don't know where these are, but it probably doesn't matter */
+{
+	opacity:0;
+	fill: black;
+	stroke: black;
+	stroke-width:1;
+	stroke-opacity:1;
+}
+
+.territoryborder
+{
+	opacity:0;
+	fill:none;
+	stroke:#A9A9A9;
+	stroke-width:2;
+}
+
+.border
+{
+	opacity:1;
+	fill:none;
+	stroke:#A9A9A9;
+	stroke-width:2;
+}
+
+.circle
+{
+   opacity:1;
+   fill: black;
+   stroke: white;
+   stroke-width:1;
+}
+
+#map svg {
+	display: block;
+	margin: 0 auto;
+}
+
+#city { }
+table { margin: 0 auto; border-collapse: collapse; font-size: 12px;}
+td { height: 30px; line-height: 30px; padding: 0px 10px;}
+td:nth-child(odd) { width: 140px;  }
+td:nth-child(even) { width: 40px; }
+tr:nth-child(even) { background-color: #B6B6B6; }
+/*tr:nth-child(odd) { background-color: #F5F5F5; }*/
+
+#options {
+	border: 2px solid black;
+}
+
+
+
+
+
+
+#statistics {
+	float: left;
+}
+
+#col-wrapper {
+	margin-top: 10px;
+}
+
+.stats-col {
+	width: 450px;
+	height: 360px;
+	float: left;
+}
+.stats-col.col-text {
+	margin-left: 50px;
+}
+.stats-col.col-img{ 
+	margin-right: 50px;
+}
+
+
+.stats-col img {
+	width: 400px;
+}
