@@ -6,7 +6,7 @@ import string
 import csv
 import ast
 
-# Find Senator data (there are 102 for some reason)
+# Find Senator data (Note: this will return 3 missing and 5 extra. Just refer to stateSenators.json)
 def findSenators():
 	senators = []
 	with open('data/114th.csv', 'rU') as csvfile:
@@ -142,7 +142,7 @@ def writeOrganizationDataToFile():
 					
 
 
-writeOrganizationDataToFile()
+# writeOrganizationDataToFile()
 
 # writeStateSenatorsToFile()
 # writeSenContribsToSingleFile()
