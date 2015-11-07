@@ -86,7 +86,7 @@
     <g id="dc">
       <title>Washington, D.C.</title>
       <path class ="state dc" d="m 805.81945,250.84384 -1.85828,-1.82417 -1.23263,-0.68629 1.44301,-2.02247 2.88909,1.9485 -1.24119,2.58443 z" id="DC"/>
-      <circle class="circle dc" cx="805.81945" cy="250.84384" id="dc" r="6"/> 
+      <circle class="circle dc" cx="805.81945" cy="250.84384" id="dc" r="3"/> 
     </g>
     <g id="ma">
     <path d="m 899.62349,173.25394 2.17192,-0.68588 0.45726,-1.71467 1.0288,0.11431 1.0288,2.28624 -1.25742,0.45724 -3.8866,0.11432 0.45724,-0.57156 z m -9.37354,0.80018 2.28622,-2.62917 1.60037,0 1.82899,1.48605 -2.40054,1.0288 -2.17192,1.0288 -1.14312,-0.91448 z m -34.79913,-21.98819 17.64687,-4.64068 2.26326,-0.64664 1.91408,-2.79571 3.73677,-1.66331 2.88924,4.41284 -2.42491,5.17314 -0.32332,1.45494 1.93993,2.58657 1.13162,-0.8083 1.77827,0 2.26324,2.58656 3.87986,5.98144 3.55653,0.48498 2.26324,-0.96996 1.77827,-1.77827 -0.80831,-2.74822 -2.10158,-1.61661 -1.45495,0.8083 -0.96996,-1.29328 0.48498,-0.48498 2.10159,-0.16166 1.77826,0.8083 1.93993,2.42491 0.96996,2.90989 0.32332,2.4249 -4.20317,1.45495 -3.87985,1.93992 -3.87985,4.5265 -1.93993,1.45494 0,-0.96996 2.42491,-1.45495 0.48498,-1.77826 -0.8083,-3.07155 -2.90989,1.45494 -0.8083,1.45495 0.48498,2.26324 -2.06633,1.00043 -2.7472,-4.52713 -3.39488,-4.36484 -2.0705,-1.81247 -6.53327,1.8762 -5.09233,1.05079 -20.67516,4.59221 -0.66776,-4.76785 0.64664,-10.58877 4.28927,-0.88914 6.78975,-1.2933 z" id="MA" class="state ma" />
@@ -180,7 +180,8 @@
     <path class="border" d="M 211,493 V 548 L 247,593 M 0,425 H 144 L 211,493 H 297 L 350,547 V 593"/>
     <path class="territoryborder" d="M 559.77592,593 L 559.77592,515.6691 L 682.01719,515.6691 L 682.01719,593 M 632.77323,515.6691 L 632.77323,593 M 559.77592,557.52646 L 682.01719,557.52646M 597.89432,556.61302 L 597.89432,593.73613"/>
     </svg>
-    <div id="tooltip" class="map hidden">
+    <div id="tooltip" class="hidden">
+      <h2 id="state"></h2>
       <a href="#"><h3 id="senator1"></h3></a>
       <a href="#"><h3 id="senator2"></h3></a>
     </div>
@@ -188,6 +189,67 @@
   </div> <!-- map -->
     </body>
     <script type="text/javascript">
+    var statesAbbv={
+    "AL": "Alabama",
+    "AK": "Alaska",
+    "AS": "American Samoa",
+    "AZ": "Arizona",
+    "AR": "Arkansas",
+    "CA": "California",
+    "CO": "Colorado",
+    "CT": "Connecticut",
+    "DE": "Delaware",
+    "DC": "District Of Columbia",
+    "FM": "Federated States Of Micronesia",
+    "FL": "Florida",
+    "GA": "Georgia",
+    "GU": "Guam",
+    "HI": "Hawaii",
+    "ID": "Idaho",
+    "IL": "Illinois",
+    "IN": "Indiana",
+    "IA": "Iowa",
+    "KS": "Kansas",
+    "KY": "Kentucky",
+    "LA": "Louisiana",
+    "ME": "Maine",
+    "MH": "Marshall Islands",
+    "MD": "Maryland",
+    "MA": "Massachusetts",
+    "MI": "Michigan",
+    "MN": "Minnesota",
+    "MS": "Mississippi",
+    "MO": "Missouri",
+    "MT": "Montana",
+    "NE": "Nebraska",
+    "NV": "Nevada",
+    "NH": "New Hampshire",
+    "NJ": "New Jersey",
+    "NM": "New Mexico",
+    "NY": "New York",
+    "NC": "North Carolina",
+    "ND": "North Dakota",
+    "MP": "Northern Mariana Islands",
+    "OH": "Ohio",
+    "OK": "Oklahoma",
+    "OR": "Oregon",
+    "PW": "Palau",
+    "PA": "Pennsylvania",
+    "PR": "Puerto Rico",
+    "RI": "Rhode Island",
+    "SC": "South Carolina",
+    "SD": "South Dakota",
+    "TN": "Tennessee",
+    "TX": "Texas",
+    "UT": "Utah",
+    "VT": "Vermont",
+    "VI": "Virgin Islands",
+    "VA": "Virginia",
+    "WA": "Washington",
+    "WV": "West Virginia",
+    "WI": "Wisconsin",
+    "WY": "Wyoming"
+};
     $(function() {
       $.getJSON("/backend/data/stateSenators.json", function(data){
         for (var state in data) {
@@ -216,26 +278,29 @@
            }
     }
     $('svg g').click(function (e) {
-    var xPosition = e.pageX + 5;
-    var yPosition = e.pageY + 5;
+    var xPosition = e.pageX - 30;
+    var yPosition = e.pageY - 30;
 
-    $('#tooltip.map').css({'left': xPosition + "px", 'top': yPosition + "px"});
+    $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
     var state = $(this).find('path').attr('id');
-    console.log(state);
+    console.log(statesAbbv[state]);
     $('#map svg g').css('opacity',0.6);
     $(this).css('opacity',1);
-    $('#tooltip.map #senator1').text(data[state][0].name);
-    $('#tooltip.map #senator2').text(data[state][1].name);
+    $('#tooltip #senator1').text(data[state][0].name);
+    $('#tooltip #senator2').text(data[state][1].name);
+    $('#tooltip #state').text(statesAbbv[state]);
 
-    if ($('#tooltip.map').hasClass('hidden')) { 
-      $('#tooltip.map').removeClass('hidden'); 
+    if ($('#tooltip').hasClass('hidden')) { 
+      $('#tooltip').removeClass('hidden');
     }
+
+    $('#tooltip').on('mouseleave',function(){
+      $('svg g').css('opacity',1);
+      $("#tooltip").addClass('hidden');
+    });
     });
 
-    $('#tooltip.map').on('mouseout', function() {
-    $('svg g').css('opacity',1);
-    $("#tooltip.map").addClass('hidden');
-    })
+
     })
     })
     </script>
