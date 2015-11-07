@@ -273,11 +273,6 @@
       "state": "CA", 
       "name": " Dianne Feinstein (D)", 
       "cid": "N00007364"
-    }, 
-    {
-      "state": "CA", 
-      "name": " Loretta Sanchez (D)", 
-      "cid": "N00008274"
     }
   ], 
   "AL": [
@@ -317,11 +312,6 @@
     }
   ], 
   "IL": [
-    {
-      "state": "IL", 
-      "name": " Tammy Duckworth (D)", 
-      "cid": "N00027860"
-    }, 
     {
       "state": "IL", 
       "name": " Dick Durbin (D)", 
@@ -389,11 +379,6 @@
     }, 
     {
       "state": "AZ", 
-      "name": " Ann Kirkpatrick (D)", 
-      "cid": "N00029260"
-    }, 
-    {
-      "state": "AZ", 
       "name": " John McCain (R)", 
       "cid": "N00006424"
     }
@@ -442,18 +427,8 @@
     }, 
     {
       "state": "MD", 
-      "name": " Donna Edwards (D)", 
-      "cid": "N00028249"
-    }, 
-    {
-      "state": "MD", 
       "name": " Barbara A Mikulski (D)", 
       "cid": "N00001945"
-    }, 
-    {
-      "state": "MD", 
-      "name": " Chris Van Hollen (D)", 
-      "cid": "N00013820"
     }
   ], 
   "OK": [
