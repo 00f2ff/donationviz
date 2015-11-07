@@ -181,29 +181,8 @@
     <path class="territoryborder" d="M 559.77592,593 L 559.77592,515.6691 L 682.01719,515.6691 L 682.01719,593 M 632.77323,515.6691 L 632.77323,593 M 559.77592,557.52646 L 682.01719,557.52646M 597.89432,556.61302 L 597.89432,593.73613"/>
     </svg>
     <div id="tooltip" class="map hidden">
-      <p><strong id="header"></strong></p>
-      <table>
-        <tr>
-          <td><strong>Average Rating</strong></td>
-          <td><span id="rating"></span></td>
-        </tr>
-        <tr>
-          <td><strong># of Restaurants</strong></td>
-          <td><span id="restaurant_count"></span></td>
-        </tr>
-        <tr>
-          <td><strong># of Reviews</strong></td>
-          <td><span id="review_count"></span></td>
-        </tr>
-        <tr>
-          <td><strong>Population</strong></td>
-          <td><span id="population"></span></td>
-        </tr>
-        <!-- <tr> this might be confusing to explain / isn't worded well
-          <td><strong>Reviews by Population</strong></td>
-          <td><span id="reviews_by_pop"></span></td>
-        </tr> -->
-      </table>
+      <a href="#"><h3 id="senator1"></h3></a>
+      <a href="#"><h3 id="senator2"></h3></a>
     </div>
 
   </div> <!-- map -->
@@ -211,7 +190,6 @@
     <script type="text/javascript">
     $(function() {
       $.getJSON("/backend/data/stateSenators.json", function(data){
-        console.log($("#MI"));
         for (var state in data) {
             var senator1=data[state][0].name;
             var senator2=data[state][1].name;
@@ -237,6 +215,27 @@
             $("#"+state).next().css('fill',color);
            }
     }
+    $('svg g').click(function (e) {
+    var xPosition = e.pageX + 5;
+    var yPosition = e.pageY + 5;
+
+    $('#tooltip.map').css({'left': xPosition + "px", 'top': yPosition + "px"});
+    var state = $(this).find('path').attr('id');
+    console.log(state);
+    $('#map svg g').css('opacity',0.6);
+    $(this).css('opacity',1);
+    $('#tooltip.map #senator1').text(data[state][0].name);
+    $('#tooltip.map #senator2').text(data[state][1].name);
+
+    if ($('#tooltip.map').hasClass('hidden')) { 
+      $('#tooltip.map').removeClass('hidden'); 
+    }
+    });
+
+    $('#tooltip.map').on('mouseout', function() {
+    $('svg g').css('opacity',1);
+    $("#tooltip.map").addClass('hidden');
+    })
     })
     })
     </script>

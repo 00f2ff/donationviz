@@ -132,11 +132,6 @@ tr:nth-child(even) { background-color: #B6B6B6; }
 	border: 2px solid black;
 }
 
-
-
-
-
-
 #statistics {
 	float: left;
 }
@@ -160,4 +155,24 @@ tr:nth-child(even) { background-color: #B6B6B6; }
 
 .stats-col img {
 	width: 400px;
+}
+
+#tooltip {
+  position: absolute;
+  width: 220px;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  z-index: 5; /* put it in front of treemap */
+}
+
+#tooltip.hidden {
+  display: none;
 }
