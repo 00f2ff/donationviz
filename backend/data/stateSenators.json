@@ -124,6 +124,11 @@
       "state": "TX", 
       "name": " John Cornyn (R)", 
       "cid": "N00024852"
+    },
+       {
+      "state": "TX", 
+      "name": " Ted Cruz (R)", 
+      "cid": "N00033085"
     }
   ], 
   "LA": [
@@ -268,11 +273,6 @@
       "state": "CA", 
       "name": " Dianne Feinstein (D)", 
       "cid": "N00007364"
-    }, 
-    {
-      "state": "CA", 
-      "name": " Loretta Sanchez (D)", 
-      "cid": "N00008274"
     }
   ], 
   "AL": [
@@ -304,14 +304,14 @@
       "state": "VT", 
       "name": " Patrick Leahy (D)", 
       "cid": "N00009918"
+    },
+    {
+      "state": "VT", 
+      "name": " Bernie Sanders (D)", 
+      "cid": "N00000528"
     }
   ], 
   "IL": [
-    {
-      "state": "IL", 
-      "name": " Tammy Duckworth (D)", 
-      "cid": "N00027860"
-    }, 
     {
       "state": "IL", 
       "name": " Dick Durbin (D)", 
@@ -379,11 +379,6 @@
     }, 
     {
       "state": "AZ", 
-      "name": " Ann Kirkpatrick (D)", 
-      "cid": "N00029260"
-    }, 
-    {
-      "state": "AZ", 
       "name": " John McCain (R)", 
       "cid": "N00006424"
     }
@@ -432,18 +427,8 @@
     }, 
     {
       "state": "MD", 
-      "name": " Donna Edwards (D)", 
-      "cid": "N00028249"
-    }, 
-    {
-      "state": "MD", 
       "name": " Barbara A Mikulski (D)", 
       "cid": "N00001945"
-    }, 
-    {
-      "state": "MD", 
-      "name": " Chris Van Hollen (D)", 
-      "cid": "N00013820"
     }
   ], 
   "OK": [
@@ -583,6 +568,11 @@
       "state": "KY", 
       "name": " Mitch McConnell (R)", 
       "cid": "N00003389"
+    },
+        {
+      "state": "KY", 
+      "name": " Rand Paul (R)", 
+      "cid": "N00030836"
     }
   ], 
   "OR": [
