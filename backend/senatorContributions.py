@@ -141,11 +141,19 @@ def writeOrganizationDataToFile():
 			orgs = str(json.dumps(orgs, indent=2))
 			orgf.write(orgs)
 
-					
+
+def findOrgNames():
+	with open("data/organizations.json", "r") as f:
+		data = json.loads(f.read())["organizations"]
+		with open("data/orgNames.json", "w") as orgf:
+			orgs = {"organizations": data.keys()}
+			orgs = str(json.dumps(orgs, indent=2))
+			orgf.write(orgs)
 
 
-writeOrganizationDataToFile()
+findOrgNames()
 
+# writeOrganizationDataToFile()
 # writeStateSenatorsToFile()
 # writeSenContribsToSingleFile()
 # writeSenContribsToIDFiles()
