@@ -5,6 +5,7 @@ import re
 import string
 import csv
 import ast
+import pull
 
 # Find Senator data (Note: this will return 3 missing and 5 extra. Just refer to stateSenators.json)
 def findSenators():
