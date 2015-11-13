@@ -3,10 +3,10 @@ import json
 import csv
 import urllib2
 
-client = MongoClient() # default host
+# client = MongoClient() # default host
 
-db = client.test
-collection = db.senators
+# db = client.test
+# collection = db.senators
 
 
 # This is kind of convoluted, but since 114th.csv is incomplete:
@@ -63,9 +63,22 @@ def readSenatorsInDB():
 		with open("data/senatorContributions/{0}.json".format(cid), 'r') as j:
 			records = json.loads(j.read())["records"]
 			collection.update_one({"cid": cid}, { "$set": { "records": records } })
-			# print collection.find_one({"cid": cid})
-			# print records
-		# break
 
 # readSenatorsInDB()
+
+
+############### Organizations ###############
+
+# Writes all organizations to mongo ### Completed
+def readOrganizations():
+	client = MongoClient() # default host
+	db = client.test
+	collection = db.organizations
+	with open("data/organizations.json", 'r') as j:
+		records = json.loads(j.read())["organizations"]
+		for o in records.keys():
+			collection.insert_one({'name': o, 'states': records[o]["states"], 'donations': records[o]["donations"]})
+
+# readOrganizations()
+
 
