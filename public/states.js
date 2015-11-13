@@ -100,8 +100,12 @@ $(function() {
       $('#map svg g').css('opacity',0.6);
 
       $(this).css('opacity',1);
-      $('#tooltip #senator1').text(data[state][0].name);
-      $('#tooltip #senator2').text(data[state][1].name);
+      // add names and hrefs to link
+      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].cid);
+      $('#tooltip #senator1 h3').text(data[state][0].name);
+      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid);
+      $('#tooltip #senator2 h3').text(data[state][1].name);
+
       $('#tooltip #state').text(statesAbbv[state]);
 
       if ($('#tooltip').hasClass('hidden')) { 
