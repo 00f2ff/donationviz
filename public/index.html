@@ -5,7 +5,7 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     </head>
     <body>
-        <h1>abc</h1>
+        <h1>Senators by State</h1>
        <div id="map">
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="959" height="593">
 
@@ -251,7 +251,7 @@
     "WY": "Wyoming"
 };
     $(function() {
-      $.getJSON("../backend/data/stateSenators.json", function(data){
+      $.getJSON("./backend/data/stateSenators.json", function(data){
         for (var state in data) {
             var senator1=data[state][0].name;
             var senator2=data[state][1].name;
