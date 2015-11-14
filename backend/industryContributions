@@ -106,8 +106,6 @@ def writeIndustrydata():
 	
 	# data = {}
 	# # -- Parse through data to collect cid's (x to be replaced by 'data')
-	# dir1= os.path.dirname("backend")
-	# print dir1
 	# for key in x:
 	# 	sen1id = x[key][0]['cid']
 	# 	sen2id = x[key][1]['cid']
