@@ -3,8 +3,29 @@
         <meta charset="utf-8">
         <link href="css/style.css" rel="stylesheet">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
     </head>
     <body>
+    <div class="container">
+        <h1>Donation Viz</h1>
+      <div class="row">
+        <div class="col-md-4">    <label for="senatorList">Senators</label>
+    <input type="text" class="form-control" id="senatorList" placeholder="Type senator name"data-provide="typeahead"></div>
+        <div class="col-md-4"><label for="companyList">Organizations</label>
+    <input type="text" class="form-control"id="companyList" placeholder="Type organization name"data-provide="typeahead"></div>
+        <div class="col-md-4"><label for="industryList">Industries</label>
+    <input type="text" class="form-control"id="industryList" placeholder="Type industry"data-provide="typeahead"></div>
+
+      </div>
+            <!--<div class="row">-->
+<!--<div class="col-md-8"> -->
         <h1>Senators by State</h1>
        <div id="map">
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="959" height="593">
@@ -181,12 +202,19 @@
     <path class="territoryborder" d="M 559.77592,593 L 559.77592,515.6691 L 682.01719,515.6691 L 682.01719,593 M 632.77323,515.6691 L 632.77323,593 M 559.77592,557.52646 L 682.01719,557.52646M 597.89432,556.61302 L 597.89432,593.73613"/>
     </svg>
     <div id="tooltip" class="hidden">
-      <h2 id="state"></h2>
-      <a id="senator1" href="#"><h3></h3></a>
-      <a id="senator2" href="#"><h3></h3></a>
+      <h3 id="state"></h3>
+      <h5><a id="senator1" href="#"></a></h5>
+      <h5><a id="senator2" href="#"></a></h5>
     </div>
 
   </div> <!-- map -->
-<script src="states.js"></script>
-</body>
+  <!--</div><!--col-->
+
+  <!--</div><!--row-->
+  </div>
+    </body>
+    <script src="js/typeahead_min.js"></script>
+    <script src="js/map.js"></script>
+        <script src="js/company.js"></script>
+
 </html>
