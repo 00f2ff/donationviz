@@ -151,7 +151,7 @@ def findOrgNames():
 			orgf.write(orgs)
 
 
-findOrgNames()
+# findOrgNames()
 
 # writeOrganizationDataToFile()
 # writeStateSenatorsToFile()
