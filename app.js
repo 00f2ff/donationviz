@@ -16,7 +16,8 @@ app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public'));
 
 // My assumption is that companies don't have the same name since I don't have a good identifier
-app.get('/senator/:cid', dbRoutes.loadSenator)
+// Using senator names for simplicity
+app.get('/senator/:name', dbRoutes.loadSenator)
 app.get('/organization/:encodedname', dbRoutes.loadOrganization)
 
 

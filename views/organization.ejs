@@ -8,8 +8,33 @@
 <div id="data-holder" style="visibility:hidden;"><%= JSON.stringify(obj) %></div>
 <script>
   $(function() {
-    var data = JSON.parse($('#data-holder').html());
+    var data = JSON.parse($('#data-holder').html())[0];
     console.log(data);
+
+    function compareTotal(a,b) {
+      if (a.total < b.total)
+        return 1;
+      if (a.total > b.total)
+        return -1;
+      return 0;
+    }
+    function comparePAC(a,b) {
+      if (a.pac < b.pac)
+        return 1;
+      if (a.pac > b.pac)
+        return -1;
+      return 0;
+    }
+    function compareIndivs(a,b) {
+      if (a.indivs < b.indivs)
+        return 1;
+      if (a.indivs > b.indivs)
+        return -1;
+      return 0;
+    }
+
+    data.donations.sort(compareTotal); // didn't work?
+    console.log(data.donations);
   })
 
 </script>

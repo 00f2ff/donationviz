@@ -1,5 +1,4 @@
-$(function() {
-  var statesAbbv={
+ var statesAbbv={
     "AL": "Alabama",
     "AK": "Alaska",
     "AS": "American Samoa",
@@ -59,52 +58,58 @@ $(function() {
     "WV": "West Virginia",
     "WI": "Wisconsin",
     "WY": "Wyoming"
-  };
+};
 
-  // at some point, refactor this as an AJAX call so we can initialize the map as hidden, 
-  // stick a beforeLoad in with a loading animation, and then unhide the map when all the 
-  // colors are loaded in. This will avoid that black flash that occurs due to default coloring
-  $.getJSON("./backend/data/stateSenators.json", function(data){
-    for (var state in data) {
-      var senator1=data[state][0].name,
-          senator2=data[state][1].name,
-          party=senator1.charAt(senator1.length-2)+senator2.charAt(senator2.length-2),
-          color;
-
+/* 
+* At some point, refactor this into a normal AJAX call so we can use a loader instead
+* of seeing the map flash from black to colored
+*/
+$(function() {
+  $.getJSON("../backend/data/stateSenators.json", function(data){
+    var senators = [];
+    for (var state in data) {    
+      //for map
+      var senator1=data[state][0].name;
+      var senator2=data[state][1].name;
+      var party=senator1.charAt(senator1.length-2)+senator2.charAt(senator2.length-2);
+      var color;
       if(party==="RR"){
         color="#F44336";
-      } else if (party==="DD"){
+      } 
+      else if (party==="DD"){
         color="#2196F3";
-      } else if(party==="RD" || party==="DR"){
+      }
+      else if(party==="RD" || party==="DR"){
         color="#673AB7";
-      } else if(party==="RI"||party==="IR"){
+      }
+      else if(party==="RI"||party==="IR"){
         color="#EF9A9A"
-      } else if (party==="DI"||party==="ID"){
+      }
+      else if (party==="DI"||party==="ID"){
         color="#90CAF9"
       };
-
       $("#"+state).css('fill',color);
-
-      if(state==="MI"){ // why?
+      if(state==="MI"){
         $("#"+state).next().css('fill',color);
       }
+      //for auto complete 
+      senators.push(senator1);
+      senators.push(senator2);
     }
-
     $('svg g').click(function (e) {
-      var xPosition = e.pageX - 30,
-          yPosition = e.pageY - 30,
-          state = $(this).find('path').attr('id');
+      var xPosition = e.pageX - 30;
+      var yPosition = e.pageY - 30;
 
       $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
+      var state = $(this).find('path').attr('id');
       console.log(statesAbbv[state]);
       $('#map svg g').css('opacity',0.6);
-
       $(this).css('opacity',1);
-      // add names and hrefs to link
-      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].cid);
-      $('#tooltip #senator1 h3').text(data[state][0].name);
-      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid);
-      $('#tooltip #senator2 h3').text(data[state][1].name);
+
+      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].cid)
+                             .text(data[state][0].name);
+      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid)
+                             .text(data[state][1].name);
 
       $('#tooltip #state').text(statesAbbv[state]);
 
@@ -118,6 +123,13 @@ $(function() {
       });
     });
 
-  });
+    $("#senatorList").typeahead({ 
+      items: 'all', 
+      source: senators, 
+      updater: function(item) {
+        window.location.href = '/senator/'+item.substring(0,item.length-4);
+      } 
+    });
 
+  });
 })

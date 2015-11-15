@@ -8,7 +8,13 @@ function findDocument(collection, query, template, res) {
 }
 
 exports.loadSenator = function(req, res) {
-	var query = {"cid": req.params.cid}
+	var fl = req.params.name.split(' ');
+	console.log(fl);
+	var query = {
+		"first_name": ' '+fl[1], // db is meh
+		"last_name": fl[2]
+	}
+	console.log(query);
 	findDocument('senators', query, 'senator', res)
 }
 exports.loadOrganization = function(req, res) {
