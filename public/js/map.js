@@ -59,6 +59,11 @@
     "WI": "Wisconsin",
     "WY": "Wyoming"
 };
+
+    /* 
+     * At some point, refactor this into a normal AJAX call so we can use a loader instead
+     * of seeing the map flash from black to colored
+     */
     $(function() {
       $.getJSON("../backend/data/stateSenators.json", function(data){
         var senatorList=[];
@@ -100,8 +105,12 @@
     console.log(statesAbbv[state]);
     $('#map svg g').css('opacity',0.6);
     $(this).css('opacity',1);
-    $('#tooltip #senator1').text(data[state][0].name);
-    $('#tooltip #senator2').text(data[state][1].name);
+
+    $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].cid)
+                           .text(data[state][0].name);
+    $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid)
+                           .text(data[state][1].name);
+
     $('#tooltip #state').text(statesAbbv[state]);
 
     if ($('#tooltip').hasClass('hidden')) { 
