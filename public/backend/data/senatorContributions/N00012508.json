@@ -1,0 +1,1039 @@
+{
+  "records": [
+    {
+      "totals": "43200", 
+      "indivs": "33200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "JPMorgan Chase & Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "37000", 
+      "indivs": "36000", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "31260", 
+      "indivs": "21260", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "28950", 
+      "indivs": "16450", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AstraZeneca PLC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "27500", 
+      "indivs": "25500", 
+      "pac": "2000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ashland Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "23570", 
+      "indivs": "13250", 
+      "pac": "10320", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Discover Financial Services", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "22700", 
+      "indivs": "12400", 
+      "pac": "10300", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "19181", 
+      "indivs": "16000", 
+      "pac": "3181", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Akin, Gump et al", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "19000", 
+      "indivs": "18000", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "State Farm Insurance", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "18950", 
+      "indivs": "15550", 
+      "pac": "3400", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DuPont Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "18850", 
+      "indivs": "9350", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pfizer Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "17140", 
+      "indivs": "1000", 
+      "pac": "16140", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dow Chemical", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "17100", 
+      "indivs": "14600", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Skadden, Arps et al", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "6500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "11000", 
+      "pac": "4500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cigna Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Merck & Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "5000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WR Berkley Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Financial Services Institute", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "14800", 
+      "indivs": "7800", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Barclays", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "4500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackrock Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "4500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Capital Group Companies", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "13840", 
+      "indivs": "7450", 
+      "pac": "6390", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "King & Spalding", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "13750", 
+      "indivs": "3250", 
+      "pac": "10500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Calpine Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "13500", 
+      "indivs": "8500", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fresenius Medical Care", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "13350", 
+      "indivs": "2350", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "HSBC Holdings", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "2500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Citigroup Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "8500", 
+      "pac": "4000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Qualcomm Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "0", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UBS AG", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "2500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Express", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "0", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PG&E Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12100", 
+      "indivs": "8000", 
+      "pac": "4100", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "WPP Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "3500", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alston & Bird", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "12000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11900", 
+      "indivs": "11900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Buccini/Pollin Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "500", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Accenture", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "2500", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Deloitte LLP", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "5500", 
+      "pac": "6000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exelon Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11400", 
+      "indivs": "11400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tiber Creek Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11380", 
+      "indivs": "0", 
+      "pac": "11380", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "TIAA-CREF", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11250", 
+      "indivs": "7750", 
+      "pac": "3500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hogan Lovells", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11200", 
+      "indivs": "1200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cozen O'Connor", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11170", 
+      "indivs": "0", 
+      "pac": "11170", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Thermo Fisher Scientific", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Insurance & Financial Advisors", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Target Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Credit Suisse Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Transportation Union", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Amgen Inc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "3500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Loews Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Eli Lilly & Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "4000", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "FMC Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "11000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Newton One Advisors", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10930", 
+      "indivs": "2750", 
+      "pac": "8180", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McGuireWoods LLP", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10800", 
+      "indivs": "5800", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Squire Patton Boggs", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10660", 
+      "indivs": "0", 
+      "pac": "10660", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Eisai Co Ltd", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10550", 
+      "indivs": "10550", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Young, Conaway et al", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "0", 
+      "pac": "10400", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10250", 
+      "indivs": "250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Procter & Gamble", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10240", 
+      "indivs": "10240", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mehlman, Castagnetti et al", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tebec Assoc", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Institute of CPAs", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Impact", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CME Group", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Goldman Sachs", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McKesson Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Real Estate Investment Trusts", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Forward Together PAC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "5000", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Marriott International", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Multi Housing Council", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PAC for a Change", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Plumbers/Pipefitters Union", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wal-Mart Stores", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Moderate Democrats PAC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Vanguard Health Systems", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Beer Wholesalers Assn", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Priority PAC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Cable & Telecommunications Assn", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Assn of Orthodontists", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DANPAC", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Intel Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mortgage Bankers Assn", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Football League", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Council of Life Insurers", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NYSE Euronext", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Operating Engineers Union", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Real Estate Roundtable", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Searchlight Leadership Fund", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UNITE HERE", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Technologies", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Connell Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Follow the North Star Fund", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Federation of Govt Employees", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Fedn of St/Cnty/Munic Employees", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boeing Co", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Assn of Fire Fighters", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Hospital Assn", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Microsoft Corp", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sheet Metal Workers Union", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "KPMG LLP", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "9800", 
+      "indivs": "800", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Bankers Assn", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "9500", 
+      "indivs": "0", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Paper", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "9500", 
+      "indivs": "1000", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Trucking Assns", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "9500", 
+      "indivs": "0", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Council of Engineering Cos", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }, 
+    {
+      "totals": "9500", 
+      "indivs": "0", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "GlaxoSmithKline", 
+      "cycle": "2016", 
+      "ID": "N00012508", 
+      "crpname": "Tom Carper (D)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "103"
+  }
+}

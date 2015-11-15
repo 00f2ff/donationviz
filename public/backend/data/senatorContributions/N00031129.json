@@ -1,0 +1,1029 @@
+{
+  "records": [
+    {
+      "totals": "58110", 
+      "indivs": "38110", 
+      "pac": "20000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Devon Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "26400", 
+      "indivs": "26400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mathena Inc", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "23900", 
+      "indivs": "11400", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Koch Industries", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "22200", 
+      "indivs": "22200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Senior Star Living", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "21100", 
+      "indivs": "6100", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chesapeake Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "20590", 
+      "indivs": "10090", 
+      "pac": "10500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "OGE Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "19200", 
+      "indivs": "9200", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Honeywell International", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "18100", 
+      "indivs": "5600", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cox Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "17500", 
+      "indivs": "4000", 
+      "pac": "13500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams Companies", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "17025", 
+      "indivs": "7025", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Murray Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "17000", 
+      "indivs": "0", 
+      "pac": "17000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Cattlemen's Beef Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "16950", 
+      "indivs": "16950", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Oklahoma State University", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "16500", 
+      "indivs": "1500", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Cross/Blue Shield", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "15600", 
+      "indivs": "15600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Downing Wellhead Equipment", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "15500", 
+      "indivs": "15500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jma Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exxon Mobil", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "14900", 
+      "indivs": "14900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Continental Resources", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "14850", 
+      "indivs": "14850", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chickasaw Nation", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "14850", 
+      "indivs": "4850", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Bankers Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "14750", 
+      "indivs": "14750", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bancfirst", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "14200", 
+      "indivs": "14200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Melton Truck Lines", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13750", 
+      "indivs": "750", 
+      "pac": "13000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Dental Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13500", 
+      "indivs": "0", 
+      "pac": "13500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Paper", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13500", 
+      "indivs": "0", 
+      "pac": "13500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Insurance & Financial Advisors", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13200", 
+      "indivs": "1200", 
+      "pac": "12000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "ConocoPhillips", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13125", 
+      "indivs": "13125", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of Oklahoma", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13100", 
+      "indivs": "13100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alliance Resource Partners", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dental Depot", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ward Petroleum", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "0", 
+      "pac": "13000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Realtors", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "12700", 
+      "indivs": "5200", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Buffalo Wild Wings", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "0", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Phillips 66", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "0", 
+      "pac": "12500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Associated Builders & Contractors", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "1000", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berkshire Hathaway", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "0", 
+      "pac": "11500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Home Depot", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11383", 
+      "indivs": "9883", 
+      "pac": "1500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Williams & Jensen", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11250", 
+      "indivs": "11250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "McAfee & Taft", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11203", 
+      "indivs": "11203", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pelco Structural", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boeing Co", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "BP", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Halliburton Co", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "0", 
+      "pac": "11000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Union Pacific Corp", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10600", 
+      "indivs": "10600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Legacy Bank", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10600", 
+      "indivs": "10600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hall Capital", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "0", 
+      "pac": "10500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Spectra Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jay Courtney Co", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Fidelity Assurance", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "CE Harmon Oil", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10300", 
+      "indivs": "10300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mathis Brothers Furniture", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Gulfport Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Reschini Group", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "OrrinPAC", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Diversified Resources", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Texas & Southwestern Cattle Raisers", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Federal Aviation Admin Managers Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Alamo PAC", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Valero Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "IBM Corp", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ernst & Young", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Airlines Group", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Desert Caucus", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bluegrass Cmte", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dirigo PAC", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Every Republican is Crucial PAC", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Microsoft Corp", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9600", 
+      "indivs": "2600", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Occidental Petroleum", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9600", 
+      "indivs": "9600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Haskell Lemon Construction", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9600", 
+      "indivs": "2600", 
+      "pac": "7000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "General Electric", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9500", 
+      "indivs": "0", 
+      "pac": "9500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Trinity Industries", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9400", 
+      "indivs": "9400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Groendyke Transport", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9200", 
+      "indivs": "200", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "AT&T Inc", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9000", 
+      "indivs": "0", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Exelon Corp", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "9000", 
+      "indivs": "0", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Home Builders", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8800", 
+      "indivs": "8800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Midfirst Bank", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8700", 
+      "indivs": "8700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Residential Group", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8500", 
+      "indivs": "0", 
+      "pac": "8500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Indep Insurance Agents & Brokers/America", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8500", 
+      "indivs": "6000", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Stephens Group", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8400", 
+      "indivs": "8400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nadel & Gussman", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8400", 
+      "indivs": "3300", 
+      "pac": "5100", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Oklahoma Independent Petroleum Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8100", 
+      "indivs": "5600", 
+      "pac": "2500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wells Fargo", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8050", 
+      "indivs": "8050", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Love's Travel Stops", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "8000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Samson Resources", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "0", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Wal-Mart Stores", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Altria Group", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "500", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Newfield Exploration Co", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "0", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "8000", 
+      "indivs": "0", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Hospital Assn", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "7900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harrison Gypsum", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "7900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Silver Star Construction", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7900", 
+      "indivs": "7900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Young Energy", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7850", 
+      "indivs": "7850", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "HIS Coatings", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Elliott Management", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Prime Inc", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Arrow Oil & Gas", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Magnum Drilling Services", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Robson Companies", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Johnston Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7800", 
+      "indivs": "7800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Stevens Trucking Co", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7750", 
+      "indivs": "2750", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cameron Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7700", 
+      "indivs": "7700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lopez Foods", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7700", 
+      "indivs": "7700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Okc Rig Fabricators", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }, 
+    {
+      "totals": "7700", 
+      "indivs": "7700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cherokee Nation", 
+      "cycle": "2016", 
+      "ID": "N00031129", 
+      "crpname": "James Lankford (R)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "102"
+  }
+}

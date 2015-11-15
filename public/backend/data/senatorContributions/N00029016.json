@@ -1,0 +1,1379 @@
+{
+  "records": [
+    {
+      "totals": "76300", 
+      "indivs": "76300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Susman Godfrey LLP", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "35283", 
+      "indivs": "33000", 
+      "pac": "2283", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "League of Conservation Voters", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "33600", 
+      "indivs": "23600", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Robins, Kaplan et al", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "27994", 
+      "indivs": "27994", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of Minnesota", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "27048", 
+      "indivs": "22298", 
+      "pac": "4750", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DISH Network", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "25800", 
+      "indivs": "17800", 
+      "pac": "8000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "DLA Piper", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "25750", 
+      "indivs": "18150", 
+      "pac": "7600", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dorsey & Whitney", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "24500", 
+      "indivs": "24500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Comcast Corp", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "24200", 
+      "indivs": "24200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cooney & Conway", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "24067", 
+      "indivs": "16979", 
+      "pac": "7088", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lockridge Grindal Nauen PLLP", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "23500", 
+      "indivs": "23500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Thornton & Naumes", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "22800", 
+      "indivs": "15300", 
+      "pac": "7500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Microsoft Corp", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "22164", 
+      "indivs": "17164", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "NorPAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "22100", 
+      "indivs": "22100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apollo Global Management", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "21360", 
+      "indivs": "20360", 
+      "pac": "1000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Time Warner", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "21300", 
+      "indivs": "21300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Grant & Eisenhofer", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "20800", 
+      "indivs": "20800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Artery Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "20400", 
+      "indivs": "20400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UnitedHealth Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "20100", 
+      "indivs": "20100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "University of California", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "19850", 
+      "indivs": "10850", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Medtronic Inc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "19750", 
+      "indivs": "9750", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nextera Energy", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "19200", 
+      "indivs": "19200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Robbins, Geller et al", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "18425", 
+      "indivs": "18425", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Harvard University", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "18100", 
+      "indivs": "18100", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Clifford Law Offices", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "18000", 
+      "indivs": "8000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Holland & Knight", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "17300", 
+      "indivs": "12300", 
+      "pac": "5000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Moveon.org", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "16025", 
+      "indivs": "16025", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Mayo Clinic", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "15800", 
+      "indivs": "15800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pohlad Companies", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "15600", 
+      "indivs": "15600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Pederson Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "15299", 
+      "indivs": "5300", 
+      "pac": "9999", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Planned Parenthood", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "15000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Labaton Sucharow LLP", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "15000", 
+      "indivs": "0", 
+      "pac": "15000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Federation of Teachers", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "14500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "21st Century Fox", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "14500", 
+      "indivs": "14500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Saxena White PA", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13885", 
+      "indivs": "11300", 
+      "pac": "2585", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Voices for Progress", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13600", 
+      "indivs": "13600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Hemenway & Barnes", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13300", 
+      "indivs": "13300", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bain Capital", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13250", 
+      "indivs": "10250", 
+      "pac": "3000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Amusements Inc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13150", 
+      "indivs": "10400", 
+      "pac": "2750", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "People for the American Way", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "13000", 
+      "indivs": "13000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Sankaty Advisors", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12885", 
+      "indivs": "3885", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Google Inc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12800", 
+      "indivs": "12800", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Waters & Kraus", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12700", 
+      "indivs": "12700", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cornerstone Government Affairs", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12500", 
+      "indivs": "1000", 
+      "pac": "11500", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Level 3 Communications", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12439", 
+      "indivs": "12439", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lieff, Cabraser et al", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12420", 
+      "indivs": "2420", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Education Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12400", 
+      "indivs": "12400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Antsy Inc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12200", 
+      "indivs": "12200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berger & Montague", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "12000", 
+      "indivs": "12000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Realogy Corp", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "1500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Assn for Justice", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11500", 
+      "indivs": "11500", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Heins, Mills & Olson", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11450", 
+      "indivs": "11450", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Young, Conaway et al", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11400", 
+      "indivs": "11400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "State of Minnesota", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11250", 
+      "indivs": "11250", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Kempner Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11099", 
+      "indivs": "1100", 
+      "pac": "9999", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Crystal Sugar", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "11000", 
+      "indivs": "1000", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "St Jude Medical", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10900", 
+      "indivs": "10900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Minneapolis Radiation Oncology", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10900", 
+      "indivs": "10900", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Richloom Fabrics", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10650", 
+      "indivs": "1650", 
+      "pac": "9000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boston Scientific Corp", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10600", 
+      "indivs": "10600", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Live Nation Entertainment", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10500", 
+      "indivs": "500", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "New York Life Insurance", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Coastal Construction Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Berkshire Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Addiction Centers", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Apatow Co", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Aitken, Aitken & Cohn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blackstone Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Quality Metalcraft", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Promontory Financial Group", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10400", 
+      "indivs": "10400", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Forest City Enterprises", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10250", 
+      "indivs": "250", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Glacier PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blenheim Capital Management", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Power, Rogers & Smith", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10200", 
+      "indivs": "10200", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Boies, Schiller & Flexner", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10150", 
+      "indivs": "10150", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Schwebel, Goetz & Sieben", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10025", 
+      "indivs": "10025", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bristol Bay Native Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10010", 
+      "indivs": "0", 
+      "pac": "10010", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Realtors", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "International Assn of Fire Fighters", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Holding Onto Oregon's Priorities", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Empire PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Geller & Co", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Assn of Letter Carriers", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Beer Wholesalers Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Palisades Assoc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Common Ground PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Food & Commercial Workers Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Steelworkers", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Credit Union National Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Lobo PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Oceans PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "National Community Action Foundation", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Human Rights Campaign", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Moving America Forward", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Nutmeg PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Supervalu Inc", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PAC for a Level Playing Field", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Tudor Investment", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Rising Realty Partners", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Long Leaf Pine PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Dakota Prairie PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Honeywell International", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "M-PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Common Sense Colorado", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Desert Caucus", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Ironworkers Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Laborers Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Operating Engineers Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Cozen O'Connor", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Carpenters & Joiners Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Forward Together PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Medical Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "United Auto Workers", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Plumbers/Pipefitters Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Green Mountain PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Machinists/Aerospace Workers Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "A New Direction PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "PAC for a Change", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Communications Workers of America", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Jazz PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "America's Leadership PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Chavez Properties", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Air Line Pilots Assn", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "American Fedn of St/Cnty/Munic Employees", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Blue Hen PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "UNITE HERE", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Writers Guild of America West", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Great Land PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Impact", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Peak PAC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Service Employees International Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Poet LLC", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Painters & Allied Trades Union", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Fund for the Majority", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Searchlight Leadership Fund", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Warland Investments", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "0", 
+      "pac": "10000", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "MURPHPA", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }, 
+    {
+      "totals": "10000", 
+      "indivs": "10000", 
+      "pac": "0", 
+      "sourcedate": "Sep 18 2015 12:00AM", 
+      "organization": "Bone Adventure", 
+      "cycle": "2016", 
+      "ID": "N00029016", 
+      "crpname": "Al Franken (D)"
+    }
+  ], 
+  "response": {
+    "origin": "Center for Responsive Politics", 
+    "source": "", 
+    "num_recs": "137"
+  }
+}
