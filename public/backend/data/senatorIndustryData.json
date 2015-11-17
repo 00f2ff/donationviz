@@ -1,0 +1,7202 @@
+{
+  "N00031820": [
+    {
+      "total": "1096083", 
+      "indivs": "943494", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "152589"
+    }, 
+    {
+      "total": "380199", 
+      "indivs": "298199", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "82000"
+    }, 
+    {
+      "total": "314500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "314500"
+    }, 
+    {
+      "total": "271777", 
+      "indivs": "249447", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "22330"
+    }, 
+    {
+      "total": "208800", 
+      "indivs": "49300", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "159500"
+    }, 
+    {
+      "total": "166250", 
+      "indivs": "72700", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "93550"
+    }, 
+    {
+      "total": "161252", 
+      "indivs": "29752", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "131500"
+    }, 
+    {
+      "total": "147750", 
+      "indivs": "102750", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "45000"
+    }, 
+    {
+      "total": "135050", 
+      "indivs": "98850", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "36200"
+    }, 
+    {
+      "total": "129457", 
+      "indivs": "86600", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "42857"
+    }
+  ], 
+  "N00009771": [
+    {
+      "total": "443215", 
+      "indivs": "383815", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "59400"
+    }, 
+    {
+      "total": "436086", 
+      "indivs": "436086", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "353513", 
+      "indivs": "307750", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "45763"
+    }, 
+    {
+      "total": "328100", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "328100"
+    }, 
+    {
+      "total": "317349", 
+      "indivs": "223974", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "93375"
+    }, 
+    {
+      "total": "272866", 
+      "indivs": "110866", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "162000"
+    }, 
+    {
+      "total": "252675", 
+      "indivs": "126675", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "126000"
+    }, 
+    {
+      "total": "249588", 
+      "indivs": "75988", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "173600"
+    }, 
+    {
+      "total": "227866", 
+      "indivs": "123366", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "104500"
+    }, 
+    {
+      "total": "206128", 
+      "indivs": "156628", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "49500"
+    }
+  ], 
+  "N00001093": [
+    {
+      "total": "1772555", 
+      "indivs": "1592855", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "179700"
+    }, 
+    {
+      "total": "1043334", 
+      "indivs": "883783", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "159551"
+    }, 
+    {
+      "total": "977849", 
+      "indivs": "918849", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "59000"
+    }, 
+    {
+      "total": "491245", 
+      "indivs": "252745", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "238500"
+    }, 
+    {
+      "total": "384400", 
+      "indivs": "384400", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "345850", 
+      "indivs": "331650", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "14200"
+    }, 
+    {
+      "total": "315500", 
+      "indivs": "243300", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "72200"
+    }, 
+    {
+      "total": "276950", 
+      "indivs": "247850", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "29100"
+    }, 
+    {
+      "total": "257100", 
+      "indivs": "229200", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "27900"
+    }, 
+    {
+      "total": "249700", 
+      "indivs": "114200", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "135500"
+    }
+  ], 
+  "N00000528": [
+    {
+      "total": "588335", 
+      "indivs": "588335", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "230085", 
+      "indivs": "219085", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "11000"
+    }, 
+    {
+      "total": "116800", 
+      "indivs": "800", 
+      "industry_code": "P04", 
+      "industry_name": "Public Sector Unions", 
+      "pacs": "116000"
+    }, 
+    {
+      "total": "94214", 
+      "indivs": "82214", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "12000"
+    }, 
+    {
+      "total": "69976", 
+      "indivs": "38476", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "31500"
+    }, 
+    {
+      "total": "64000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "64000"
+    }, 
+    {
+      "total": "58248", 
+      "indivs": "58248", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "53750", 
+      "indivs": "3750", 
+      "industry_code": "P05", 
+      "industry_name": "Misc Unions", 
+      "pacs": "50000"
+    }, 
+    {
+      "total": "47797", 
+      "indivs": "44790", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "3007"
+    }, 
+    {
+      "total": "46700", 
+      "indivs": "800", 
+      "industry_code": "P02", 
+      "industry_name": "Industrial Unions", 
+      "pacs": "45900"
+    }
+  ], 
+  "N00027658": [
+    {
+      "total": "2360269", 
+      "indivs": "2193569", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "166700"
+    }, 
+    {
+      "total": "1581652", 
+      "indivs": "1409652", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "172000"
+    }, 
+    {
+      "total": "731202", 
+      "indivs": "655702", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "75500"
+    }, 
+    {
+      "total": "648292", 
+      "indivs": "648292", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "585380", 
+      "indivs": "570880", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "14500"
+    }, 
+    {
+      "total": "449901", 
+      "indivs": "399401", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "50500"
+    }, 
+    {
+      "total": "398225", 
+      "indivs": "380380", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "17845"
+    }, 
+    {
+      "total": "374954", 
+      "indivs": "364854", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "10100"
+    }, 
+    {
+      "total": "366303", 
+      "indivs": "337303", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "29000"
+    }, 
+    {
+      "total": "363641", 
+      "indivs": "168525", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "195116"
+    }
+  ], 
+  "N00024852": [
+    {
+      "total": "1080543", 
+      "indivs": "917043", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "163500"
+    }, 
+    {
+      "total": "1047106", 
+      "indivs": "769606", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "277500"
+    }, 
+    {
+      "total": "756196", 
+      "indivs": "546150", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "210046"
+    }, 
+    {
+      "total": "595957", 
+      "indivs": "425657", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "170300"
+    }, 
+    {
+      "total": "542567", 
+      "indivs": "542567", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "497449", 
+      "indivs": "418449", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "79000"
+    }, 
+    {
+      "total": "368153", 
+      "indivs": "157300", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "210853"
+    }, 
+    {
+      "total": "331358", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "331358"
+    }, 
+    {
+      "total": "329315", 
+      "indivs": "211315", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "118000"
+    }, 
+    {
+      "total": "296350", 
+      "indivs": "95600", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "200750"
+    }
+  ], 
+  "N00009573": [
+    {
+      "total": "1332204", 
+      "indivs": "1270637", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "61567"
+    }, 
+    {
+      "total": "672163", 
+      "indivs": "672163", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "348929", 
+      "indivs": "332929", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "16000"
+    }, 
+    {
+      "total": "339647", 
+      "indivs": "319147", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "20500"
+    }, 
+    {
+      "total": "328868", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "328868"
+    }, 
+    {
+      "total": "223322", 
+      "indivs": "220822", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "217952", 
+      "indivs": "173202", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "44750"
+    }, 
+    {
+      "total": "188602", 
+      "indivs": "129602", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "59000"
+    }, 
+    {
+      "total": "184307", 
+      "indivs": "134807", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "49500"
+    }, 
+    {
+      "total": "159860", 
+      "indivs": "62360", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "97500"
+    }
+  ], 
+  "N00013873": [
+    {
+      "total": "121000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "121000"
+    }, 
+    {
+      "total": "94050", 
+      "indivs": "94050", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "76800", 
+      "indivs": "57300", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "19500"
+    }, 
+    {
+      "total": "68350", 
+      "indivs": "43850", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "24500"
+    }, 
+    {
+      "total": "52700", 
+      "indivs": "29700", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "23000"
+    }, 
+    {
+      "total": "39080", 
+      "indivs": "17580", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "21500"
+    }, 
+    {
+      "total": "36600", 
+      "indivs": "6600", 
+      "industry_code": "A10", 
+      "industry_name": "Forestry & Forest Products", 
+      "pacs": "30000"
+    }, 
+    {
+      "total": "36050", 
+      "indivs": "8050", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "28000"
+    }, 
+    {
+      "total": "35600", 
+      "indivs": "10100", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "25500"
+    }, 
+    {
+      "total": "35115", 
+      "indivs": "18615", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "16500"
+    }
+  ], 
+  "N00004981": [
+    {
+      "total": "1287362", 
+      "indivs": "1186692", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "100670"
+    }, 
+    {
+      "total": "304391", 
+      "indivs": "304391", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "296300", 
+      "indivs": "263800", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "32500"
+    }, 
+    {
+      "total": "268717", 
+      "indivs": "224217", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "44500"
+    }, 
+    {
+      "total": "222381", 
+      "indivs": "208881", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "13500"
+    }, 
+    {
+      "total": "219311", 
+      "indivs": "93111", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "126200"
+    }, 
+    {
+      "total": "204999", 
+      "indivs": "90499", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "114500"
+    }, 
+    {
+      "total": "197840", 
+      "indivs": "168190", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "29650"
+    }, 
+    {
+      "total": "188049", 
+      "indivs": "138550", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "49499"
+    }, 
+    {
+      "total": "176600", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "176600"
+    }
+  ], 
+  "N00002593": [
+    {
+      "total": "387600", 
+      "indivs": "323100", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "64500"
+    }, 
+    {
+      "total": "276600", 
+      "indivs": "122100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "154500"
+    }, 
+    {
+      "total": "245968", 
+      "indivs": "178268", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "67700"
+    }, 
+    {
+      "total": "231354", 
+      "indivs": "231354", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "197900", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "197900"
+    }, 
+    {
+      "total": "185600", 
+      "indivs": "139100", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "46500"
+    }, 
+    {
+      "total": "153700", 
+      "indivs": "11700", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "142000"
+    }, 
+    {
+      "total": "148900", 
+      "indivs": "114400", 
+      "industry_code": "M01", 
+      "industry_name": "Air Transport", 
+      "pacs": "34500"
+    }, 
+    {
+      "total": "148500", 
+      "indivs": "148500", 
+      "industry_code": "Q10", 
+      "industry_name": "Misc Issues", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "145000", 
+      "indivs": "55600", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "89400"
+    }
+  ], 
+  "N00001955": [
+    {
+      "total": "446011", 
+      "indivs": "335511", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "110500"
+    }, 
+    {
+      "total": "395350", 
+      "indivs": "237850", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "157500"
+    }, 
+    {
+      "total": "370007", 
+      "indivs": "121460", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "248547"
+    }, 
+    {
+      "total": "355670", 
+      "indivs": "302670", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "53000"
+    }, 
+    {
+      "total": "286100", 
+      "indivs": "71100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "215000"
+    }, 
+    {
+      "total": "223510", 
+      "indivs": "223510", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "220166", 
+      "indivs": "209800", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10366"
+    }, 
+    {
+      "total": "218793", 
+      "indivs": "159513", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "59280"
+    }, 
+    {
+      "total": "205609", 
+      "indivs": "69050", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "136559"
+    }, 
+    {
+      "total": "187000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "187000"
+    }
+  ], 
+  "N00028139": [
+    {
+      "total": "649769", 
+      "indivs": "596019", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "53750"
+    }, 
+    {
+      "total": "339772", 
+      "indivs": "310272", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "29500"
+    }, 
+    {
+      "total": "207407", 
+      "indivs": "207407", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "199000", 
+      "indivs": "1000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "198000"
+    }, 
+    {
+      "total": "152394", 
+      "indivs": "145644", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "6750"
+    }, 
+    {
+      "total": "147598", 
+      "indivs": "133098", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "14500"
+    }, 
+    {
+      "total": "131150", 
+      "indivs": "1400", 
+      "industry_code": "P03", 
+      "industry_name": "Transportation Unions", 
+      "pacs": "129750"
+    }, 
+    {
+      "total": "128385", 
+      "indivs": "67885", 
+      "industry_code": "M05", 
+      "industry_name": "Sea Transport", 
+      "pacs": "60500"
+    }, 
+    {
+      "total": "117000", 
+      "indivs": "1000", 
+      "industry_code": "P04", 
+      "industry_name": "Public Sector Unions", 
+      "pacs": "116000"
+    }, 
+    {
+      "total": "89099", 
+      "indivs": "72599", 
+      "industry_code": "C04", 
+      "industry_name": "Construction Services", 
+      "pacs": "16500"
+    }
+  ], 
+  "N00028138": [
+    {
+      "total": "768207", 
+      "indivs": "686658", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "81549"
+    }, 
+    {
+      "total": "420978", 
+      "indivs": "378978", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "42000"
+    }, 
+    {
+      "total": "306200", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "306200"
+    }, 
+    {
+      "total": "222570", 
+      "indivs": "207570", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "15000"
+    }, 
+    {
+      "total": "195866", 
+      "indivs": "158165", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "37701"
+    }, 
+    {
+      "total": "175995", 
+      "indivs": "161445", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "14550"
+    }, 
+    {
+      "total": "169900", 
+      "indivs": "97250", 
+      "industry_code": "M05", 
+      "industry_name": "Sea Transport", 
+      "pacs": "72650"
+    }, 
+    {
+      "total": "168114", 
+      "indivs": "168114", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "155449", 
+      "indivs": "155449", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "155000", 
+      "indivs": "118300", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "36700"
+    }
+  ], 
+  "N00006692": [
+    {
+      "total": "39550", 
+      "indivs": "38550", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "36300", 
+      "indivs": "33800", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "22075", 
+      "indivs": "22075", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "21000", 
+      "indivs": "0", 
+      "industry_code": "M04", 
+      "industry_name": "Railroads", 
+      "pacs": "21000"
+    }, 
+    {
+      "total": "20000", 
+      "indivs": "0", 
+      "industry_code": "P01", 
+      "industry_name": "Building Trade Unions", 
+      "pacs": "20000"
+    }, 
+    {
+      "total": "16760", 
+      "indivs": "15750", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "1010"
+    }, 
+    {
+      "total": "13500", 
+      "indivs": "0", 
+      "industry_code": "C05", 
+      "industry_name": "Building Materials & Equipment", 
+      "pacs": "13500"
+    }, 
+    {
+      "total": "13325", 
+      "indivs": "13325", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "11300", 
+      "indivs": "11300", 
+      "industry_code": "B01", 
+      "industry_name": "Printing & Publishing", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "7050", 
+      "indivs": "7050", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "0"
+    }
+  ], 
+  "N00012508": [
+    {
+      "total": "306100", 
+      "indivs": "119220", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "186880"
+    }, 
+    {
+      "total": "293350", 
+      "indivs": "73850", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "219500"
+    }, 
+    {
+      "total": "252645", 
+      "indivs": "148474", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "104171"
+    }, 
+    {
+      "total": "187910", 
+      "indivs": "29500", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "158410"
+    }, 
+    {
+      "total": "181952", 
+      "indivs": "174352", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "7600"
+    }, 
+    {
+      "total": "170310", 
+      "indivs": "75320", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "94990"
+    }, 
+    {
+      "total": "134577", 
+      "indivs": "52037", 
+      "industry_code": "N13", 
+      "industry_name": "Chemical & Related Manufacturing", 
+      "pacs": "82540"
+    }, 
+    {
+      "total": "132500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "132500"
+    }, 
+    {
+      "total": "129450", 
+      "indivs": "17950", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "111500"
+    }, 
+    {
+      "total": "116000", 
+      "indivs": "52000", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "64000"
+    }
+  ], 
+  "N00033782": [
+    {
+      "total": "676911", 
+      "indivs": "594550", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "82361"
+    }, 
+    {
+      "total": "323918", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "323918"
+    }, 
+    {
+      "total": "228674", 
+      "indivs": "86674", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "142000"
+    }, 
+    {
+      "total": "184349", 
+      "indivs": "116849", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "67500"
+    }, 
+    {
+      "total": "182085", 
+      "indivs": "178085", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4000"
+    }, 
+    {
+      "total": "174494", 
+      "indivs": "165994", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "8500"
+    }, 
+    {
+      "total": "152316", 
+      "indivs": "152316", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "132188", 
+      "indivs": "25000", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "107188"
+    }, 
+    {
+      "total": "115150", 
+      "indivs": "84150", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "31000"
+    }, 
+    {
+      "total": "113167", 
+      "indivs": "96417", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "16750"
+    }
+  ], 
+  "N00006267": [
+    {
+      "total": "292400", 
+      "indivs": "15200", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "277200"
+    }, 
+    {
+      "total": "291050", 
+      "indivs": "99400", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "191650"
+    }, 
+    {
+      "total": "218700", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "218700"
+    }, 
+    {
+      "total": "159500", 
+      "indivs": "24400", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "135100"
+    }, 
+    {
+      "total": "100600", 
+      "indivs": "28600", 
+      "industry_code": "F06", 
+      "industry_name": "Finance/Credit Companies", 
+      "pacs": "72000"
+    }, 
+    {
+      "total": "98850", 
+      "indivs": "31600", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "67250"
+    }, 
+    {
+      "total": "89100", 
+      "indivs": "30600", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "58500"
+    }, 
+    {
+      "total": "85250", 
+      "indivs": "1250", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "84000"
+    }, 
+    {
+      "total": "69963", 
+      "indivs": "53963", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "16000"
+    }, 
+    {
+      "total": "65419", 
+      "indivs": "18419", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "47000"
+    }
+  ], 
+  "N00030836": [
+    {
+      "total": "265087", 
+      "indivs": "265087", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "161097", 
+      "indivs": "103097", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "58000"
+    }, 
+    {
+      "total": "147502", 
+      "indivs": "138002", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "9500"
+    }, 
+    {
+      "total": "85744", 
+      "indivs": "73489", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "12255"
+    }, 
+    {
+      "total": "56900", 
+      "indivs": "54900", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "2000"
+    }, 
+    {
+      "total": "54553", 
+      "indivs": "41303", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "13250"
+    }, 
+    {
+      "total": "41000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "41000"
+    }, 
+    {
+      "total": "40400", 
+      "indivs": "38400", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "2000"
+    }, 
+    {
+      "total": "39550", 
+      "indivs": "7050", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "32500"
+    }, 
+    {
+      "total": "38850", 
+      "indivs": "3100", 
+      "industry_code": "Q10", 
+      "industry_name": "Misc Issues", 
+      "pacs": "35750"
+    }
+  ], 
+  "N00001489": [
+    {
+      "total": "1113837", 
+      "indivs": "869999", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "243838"
+    }, 
+    {
+      "total": "623355", 
+      "indivs": "623355", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "592797", 
+      "indivs": "430341", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "162456"
+    }, 
+    {
+      "total": "538835", 
+      "indivs": "188635", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "350200"
+    }, 
+    {
+      "total": "422970", 
+      "indivs": "364370", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "58600"
+    }, 
+    {
+      "total": "411043", 
+      "indivs": "389149", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "21894"
+    }, 
+    {
+      "total": "329948", 
+      "indivs": "154448", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "175500"
+    }, 
+    {
+      "total": "309891", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "309891"
+    }, 
+    {
+      "total": "291000", 
+      "indivs": "99900", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "191100"
+    }, 
+    {
+      "total": "258750", 
+      "indivs": "133050", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "125700"
+    }
+  ], 
+  "N00029835": [
+    {
+      "total": "691141", 
+      "indivs": "621716", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "69425"
+    }, 
+    {
+      "total": "533575", 
+      "indivs": "533575", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "334292", 
+      "indivs": "331818", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "2474"
+    }, 
+    {
+      "total": "261119", 
+      "indivs": "231453", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "29666"
+    }, 
+    {
+      "total": "222500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "222500"
+    }, 
+    {
+      "total": "185879", 
+      "indivs": "102379", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "83500"
+    }, 
+    {
+      "total": "162543", 
+      "indivs": "156043", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "6500"
+    }, 
+    {
+      "total": "158373", 
+      "indivs": "134380", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "23993"
+    }, 
+    {
+      "total": "140950", 
+      "indivs": "132450", 
+      "industry_code": "N07", 
+      "industry_name": "Casinos/Gambling", 
+      "pacs": "8500"
+    }, 
+    {
+      "total": "120971", 
+      "indivs": "101711", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "19260"
+    }
+  ], 
+  "N00027566": [
+    {
+      "total": "1144047", 
+      "indivs": "1144047", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "957308", 
+      "indivs": "902158", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "55150"
+    }, 
+    {
+      "total": "702570", 
+      "indivs": "615070", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "87500"
+    }, 
+    {
+      "total": "371525", 
+      "indivs": "117525", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "254000"
+    }, 
+    {
+      "total": "339916", 
+      "indivs": "279416", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "60500"
+    }, 
+    {
+      "total": "323025", 
+      "indivs": "170115", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "152910"
+    }, 
+    {
+      "total": "302500", 
+      "indivs": "15000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "287500"
+    }, 
+    {
+      "total": "267018", 
+      "indivs": "142771", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "124247"
+    }, 
+    {
+      "total": "265459", 
+      "indivs": "258459", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "7000"
+    }, 
+    {
+      "total": "252551", 
+      "indivs": "252551", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }
+  ], 
+  "N00031685": [
+    {
+      "total": "591080", 
+      "indivs": "512899", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "78181"
+    }, 
+    {
+      "total": "266800", 
+      "indivs": "226300", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "40500"
+    }, 
+    {
+      "total": "197374", 
+      "indivs": "197374", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "181413", 
+      "indivs": "170913", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "10500"
+    }, 
+    {
+      "total": "171150", 
+      "indivs": "159100", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "12050"
+    }, 
+    {
+      "total": "155100", 
+      "indivs": "92850", 
+      "industry_code": "B09", 
+      "industry_name": "Telecom Services", 
+      "pacs": "62250"
+    }, 
+    {
+      "total": "109000", 
+      "indivs": "38000", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "71000"
+    }, 
+    {
+      "total": "100502", 
+      "indivs": "87802", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "12700"
+    }, 
+    {
+      "total": "85000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "85000"
+    }, 
+    {
+      "total": "82750", 
+      "indivs": "78750", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "4000"
+    }
+  ], 
+  "N00031688": [
+    {
+      "total": "186340", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "186340"
+    }, 
+    {
+      "total": "145273", 
+      "indivs": "45575", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "99698"
+    }, 
+    {
+      "total": "77050", 
+      "indivs": "11300", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "65750"
+    }, 
+    {
+      "total": "60700", 
+      "indivs": "10200", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "50500"
+    }, 
+    {
+      "total": "48675", 
+      "indivs": "35050", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "13625"
+    }, 
+    {
+      "total": "43750", 
+      "indivs": "750", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "43000"
+    }, 
+    {
+      "total": "41750", 
+      "indivs": "21750", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "20000"
+    }, 
+    {
+      "total": "40200", 
+      "indivs": "16450", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "23750"
+    }, 
+    {
+      "total": "39260", 
+      "indivs": "36760", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "33400", 
+      "indivs": "19900", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "13500"
+    }
+  ], 
+  "N00035187": [
+    {
+      "total": "282500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "282500"
+    }, 
+    {
+      "total": "232050", 
+      "indivs": "227550", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "4500"
+    }, 
+    {
+      "total": "226760", 
+      "indivs": "129660", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "97100"
+    }, 
+    {
+      "total": "210200", 
+      "indivs": "210200", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "178150", 
+      "indivs": "59150", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "119000"
+    }, 
+    {
+      "total": "177920", 
+      "indivs": "41170", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "136750"
+    }, 
+    {
+      "total": "154900", 
+      "indivs": "118400", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "36500"
+    }, 
+    {
+      "total": "99200", 
+      "indivs": "39100", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "60100"
+    }, 
+    {
+      "total": "94650", 
+      "indivs": "30650", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "64000"
+    }, 
+    {
+      "total": "90305", 
+      "indivs": "76305", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "14000"
+    }
+  ], 
+  "N00000491": [
+    {
+      "total": "406400", 
+      "indivs": "406400", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "353406", 
+      "indivs": "239656", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "113750"
+    }, 
+    {
+      "total": "349450", 
+      "indivs": "289850", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "59600"
+    }, 
+    {
+      "total": "324000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "324000"
+    }, 
+    {
+      "total": "278450", 
+      "indivs": "58150", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "220300"
+    }, 
+    {
+      "total": "259013", 
+      "indivs": "249513", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9500"
+    }, 
+    {
+      "total": "217000", 
+      "indivs": "35500", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "181500"
+    }, 
+    {
+      "total": "185650", 
+      "indivs": "132650", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "53000"
+    }, 
+    {
+      "total": "116650", 
+      "indivs": "56150", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "60500"
+    }, 
+    {
+      "total": "110310", 
+      "indivs": "73410", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "36900"
+    }
+  ], 
+  "N00003280": [
+    {
+      "total": "216500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "216500"
+    }, 
+    {
+      "total": "197346", 
+      "indivs": "118275", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "79071"
+    }, 
+    {
+      "total": "188116", 
+      "indivs": "69116", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "119000"
+    }, 
+    {
+      "total": "160315", 
+      "indivs": "79665", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "80650"
+    }, 
+    {
+      "total": "157750", 
+      "indivs": "41500", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "116250"
+    }, 
+    {
+      "total": "128250", 
+      "indivs": "58250", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "70000"
+    }, 
+    {
+      "total": "126878", 
+      "indivs": "118878", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "8000"
+    }, 
+    {
+      "total": "112650", 
+      "indivs": "69150", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "43500"
+    }, 
+    {
+      "total": "106250", 
+      "indivs": "28750", 
+      "industry_code": "B09", 
+      "industry_name": "Telecom Services", 
+      "pacs": "77500"
+    }, 
+    {
+      "total": "77361", 
+      "indivs": "18791", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "58570"
+    }
+  ], 
+  "N00031696": [
+    {
+      "total": "272729", 
+      "indivs": "248935", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "23794"
+    }, 
+    {
+      "total": "185000", 
+      "indivs": "172500", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "12500"
+    }, 
+    {
+      "total": "173183", 
+      "indivs": "117583", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "55600"
+    }, 
+    {
+      "total": "158550", 
+      "indivs": "158550", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "134765", 
+      "indivs": "100265", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "34500"
+    }, 
+    {
+      "total": "96700", 
+      "indivs": "89700", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "7000"
+    }, 
+    {
+      "total": "90600", 
+      "indivs": "64900", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "25700"
+    }, 
+    {
+      "total": "64610", 
+      "indivs": "61100", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "3510"
+    }, 
+    {
+      "total": "64570", 
+      "indivs": "38250", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "26320"
+    }, 
+    {
+      "total": "63463", 
+      "indivs": "58963", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4500"
+    }
+  ], 
+  "N00003682": [
+    {
+      "total": "1169744", 
+      "indivs": "1029244", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "140500"
+    }, 
+    {
+      "total": "862445", 
+      "indivs": "862445", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "596500", 
+      "indivs": "289550", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "306950"
+    }, 
+    {
+      "total": "555526", 
+      "indivs": "443278", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "112248"
+    }, 
+    {
+      "total": "408292", 
+      "indivs": "358792", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "49500"
+    }, 
+    {
+      "total": "339695", 
+      "indivs": "249333", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "90362"
+    }, 
+    {
+      "total": "335200", 
+      "indivs": "325200", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10000"
+    }, 
+    {
+      "total": "325050", 
+      "indivs": "214600", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "110450"
+    }, 
+    {
+      "total": "311249", 
+      "indivs": "98100", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "213149"
+    }, 
+    {
+      "total": "243650", 
+      "indivs": "116550", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "127100"
+    }
+  ], 
+  "N00035516": [
+    {
+      "total": "1616577", 
+      "indivs": "1616577", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "615632", 
+      "indivs": "591632", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "24000"
+    }, 
+    {
+      "total": "427441", 
+      "indivs": "407441", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "20000"
+    }, 
+    {
+      "total": "316700", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "316700"
+    }, 
+    {
+      "total": "278292", 
+      "indivs": "231042", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "47250"
+    }, 
+    {
+      "total": "240245", 
+      "indivs": "171745", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "68500"
+    }, 
+    {
+      "total": "214650", 
+      "indivs": "213650", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "198378", 
+      "indivs": "173002", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "25376"
+    }, 
+    {
+      "total": "189350", 
+      "indivs": "161850", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "27500"
+    }, 
+    {
+      "total": "182975", 
+      "indivs": "102100", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "80875"
+    }
+  ], 
+  "N00006249": [
+    {
+      "total": "305572", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "305572"
+    }, 
+    {
+      "total": "233850", 
+      "indivs": "20350", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "213500"
+    }, 
+    {
+      "total": "203650", 
+      "indivs": "26650", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "177000"
+    }, 
+    {
+      "total": "196283", 
+      "indivs": "43450", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "152833"
+    }, 
+    {
+      "total": "178494", 
+      "indivs": "82500", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "95994"
+    }, 
+    {
+      "total": "169500", 
+      "indivs": "26500", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "143000"
+    }, 
+    {
+      "total": "105850", 
+      "indivs": "3850", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "102000"
+    }, 
+    {
+      "total": "91050", 
+      "indivs": "34550", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "56500"
+    }, 
+    {
+      "total": "88142", 
+      "indivs": "87642", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "500"
+    }, 
+    {
+      "total": "80700", 
+      "indivs": "31200", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "49500"
+    }
+  ], 
+  "N00001758": [
+    {
+      "total": "141250", 
+      "indivs": "86550", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "54700"
+    }, 
+    {
+      "total": "134600", 
+      "indivs": "105600", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "29000"
+    }, 
+    {
+      "total": "128700", 
+      "indivs": "110213", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "18487"
+    }, 
+    {
+      "total": "118436", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "118436"
+    }, 
+    {
+      "total": "109050", 
+      "indivs": "14550", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "94500"
+    }, 
+    {
+      "total": "87450", 
+      "indivs": "87450", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "87250", 
+      "indivs": "5550", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "81700"
+    }, 
+    {
+      "total": "76300", 
+      "indivs": "19800", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "56500"
+    }, 
+    {
+      "total": "75400", 
+      "indivs": "22900", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "52500"
+    }, 
+    {
+      "total": "72141", 
+      "indivs": "13641", 
+      "industry_code": "E07", 
+      "industry_name": "Misc Energy", 
+      "pacs": "58500"
+    }
+  ], 
+  "N00003062": [
+    {
+      "total": "100500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "100500"
+    }, 
+    {
+      "total": "93000", 
+      "indivs": "2000", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "91000"
+    }, 
+    {
+      "total": "88250", 
+      "indivs": "1250", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "87000"
+    }, 
+    {
+      "total": "70003", 
+      "indivs": "23805", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "46198"
+    }, 
+    {
+      "total": "62900", 
+      "indivs": "39900", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "23000"
+    }, 
+    {
+      "total": "57500", 
+      "indivs": "0", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "57500"
+    }, 
+    {
+      "total": "53000", 
+      "indivs": "25400", 
+      "industry_code": "D03", 
+      "industry_name": "Misc Defense", 
+      "pacs": "27600"
+    }, 
+    {
+      "total": "48950", 
+      "indivs": "11450", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "37500"
+    }, 
+    {
+      "total": "42250", 
+      "indivs": "5750", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "36500"
+    }, 
+    {
+      "total": "41300", 
+      "indivs": "16800", 
+      "industry_code": "M03", 
+      "industry_name": "Trucking", 
+      "pacs": "24500"
+    }
+  ], 
+  "N00000270": [
+    {
+      "total": "1993511", 
+      "indivs": "1853248", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "140263"
+    }, 
+    {
+      "total": "1051076", 
+      "indivs": "998576", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "52500"
+    }, 
+    {
+      "total": "820350", 
+      "indivs": "784350", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "36000"
+    }, 
+    {
+      "total": "569471", 
+      "indivs": "534522", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "34949"
+    }, 
+    {
+      "total": "517270", 
+      "indivs": "509470", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "7800"
+    }, 
+    {
+      "total": "497050", 
+      "indivs": "438050", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "59000"
+    }, 
+    {
+      "total": "489196", 
+      "indivs": "489196", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "419350", 
+      "indivs": "222650", 
+      "industry_code": "B09", 
+      "industry_name": "Telecom Services", 
+      "pacs": "196700"
+    }, 
+    {
+      "total": "402250", 
+      "indivs": "394650", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "7600"
+    }, 
+    {
+      "total": "346800", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "346800"
+    }
+  ], 
+  "N00007364": [
+    {
+      "total": "445479", 
+      "indivs": "334479", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "111000"
+    }, 
+    {
+      "total": "323108", 
+      "indivs": "323108", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "278433", 
+      "indivs": "212433", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "66000"
+    }, 
+    {
+      "total": "259154", 
+      "indivs": "243503", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "15651"
+    }, 
+    {
+      "total": "248545", 
+      "indivs": "224195", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "24350"
+    }, 
+    {
+      "total": "242721", 
+      "indivs": "211721", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "31000"
+    }, 
+    {
+      "total": "230450", 
+      "indivs": "148850", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "81600"
+    }, 
+    {
+      "total": "229365", 
+      "indivs": "157365", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "72000"
+    }, 
+    {
+      "total": "212449", 
+      "indivs": "201449", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "11000"
+    }, 
+    {
+      "total": "159939", 
+      "indivs": "71650", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "88289"
+    }
+  ], 
+  "N00009888": [
+    {
+      "total": "309215", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "309215"
+    }, 
+    {
+      "total": "300300", 
+      "indivs": "31200", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "269100"
+    }, 
+    {
+      "total": "259400", 
+      "indivs": "54900", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "204500"
+    }, 
+    {
+      "total": "251350", 
+      "indivs": "158350", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "93000"
+    }, 
+    {
+      "total": "247650", 
+      "indivs": "210650", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "37000"
+    }, 
+    {
+      "total": "230415", 
+      "indivs": "230415", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "219227", 
+      "indivs": "123239", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "95988"
+    }, 
+    {
+      "total": "197350", 
+      "indivs": "54350", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "143000"
+    }, 
+    {
+      "total": "192267", 
+      "indivs": "84000", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "108267"
+    }, 
+    {
+      "total": "149786", 
+      "indivs": "49853", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "99933"
+    }
+  ], 
+  "N00032546": [
+    {
+      "total": "770898", 
+      "indivs": "770898", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "365825", 
+      "indivs": "334825", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "31000"
+    }, 
+    {
+      "total": "216401", 
+      "indivs": "215401", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "177775", 
+      "indivs": "158775", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "19000"
+    }, 
+    {
+      "total": "175009", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "175009"
+    }, 
+    {
+      "total": "150000", 
+      "indivs": "132000", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "18000"
+    }, 
+    {
+      "total": "127998", 
+      "indivs": "89998", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "38000"
+    }, 
+    {
+      "total": "115650", 
+      "indivs": "31900", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "83750"
+    }, 
+    {
+      "total": "91600", 
+      "indivs": "50600", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "41000"
+    }, 
+    {
+      "total": "79975", 
+      "indivs": "70975", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "9000"
+    }
+  ], 
+  "N00030612": [
+    {
+      "total": "878747", 
+      "indivs": "878747", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "376579", 
+      "indivs": "346179", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "30400"
+    }, 
+    {
+      "total": "219194", 
+      "indivs": "217694", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "1500"
+    }, 
+    {
+      "total": "207952", 
+      "indivs": "185952", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "22000"
+    }, 
+    {
+      "total": "168701", 
+      "indivs": "63951", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "104750"
+    }, 
+    {
+      "total": "165227", 
+      "indivs": "112877", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "52350"
+    }, 
+    {
+      "total": "112380", 
+      "indivs": "100880", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "11500"
+    }, 
+    {
+      "total": "101858", 
+      "indivs": "100340", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "1518"
+    }, 
+    {
+      "total": "98100", 
+      "indivs": "92600", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "5500"
+    }, 
+    {
+      "total": "97840", 
+      "indivs": "55840", 
+      "industry_code": "N01", 
+      "industry_name": "Food & Beverage", 
+      "pacs": "42000"
+    }
+  ], 
+  "N00027500": [
+    {
+      "total": "642808", 
+      "indivs": "521404", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "121404"
+    }, 
+    {
+      "total": "394906", 
+      "indivs": "394906", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "270777", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "270777"
+    }, 
+    {
+      "total": "254283", 
+      "indivs": "224283", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "30000"
+    }, 
+    {
+      "total": "216225", 
+      "indivs": "192625", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "23600"
+    }, 
+    {
+      "total": "195110", 
+      "indivs": "179516", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "15594"
+    }, 
+    {
+      "total": "182211", 
+      "indivs": "141211", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "41000"
+    }, 
+    {
+      "total": "179675", 
+      "indivs": "75525", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "104150"
+    }, 
+    {
+      "total": "150750", 
+      "indivs": "69750", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "81000"
+    }, 
+    {
+      "total": "147683", 
+      "indivs": "89683", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "58000"
+    }
+  ], 
+  "N00027503": [
+    {
+      "total": "1598690", 
+      "indivs": "1418607", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "180083"
+    }, 
+    {
+      "total": "403100", 
+      "indivs": "263000", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "140100"
+    }, 
+    {
+      "total": "365129", 
+      "indivs": "83400", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "281729"
+    }, 
+    {
+      "total": "349708", 
+      "indivs": "302708", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "47000"
+    }, 
+    {
+      "total": "325151", 
+      "indivs": "316851", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "8300"
+    }, 
+    {
+      "total": "315796", 
+      "indivs": "315796", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "301860", 
+      "indivs": "151110", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "150750"
+    }, 
+    {
+      "total": "281285", 
+      "indivs": "174785", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "106500"
+    }, 
+    {
+      "total": "273650", 
+      "indivs": "104400", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "169250"
+    }, 
+    {
+      "total": "233364", 
+      "indivs": "1000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "232364"
+    }
+  ], 
+  "N00007876": [
+    {
+      "total": "346196", 
+      "indivs": "266678", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "79518"
+    }, 
+    {
+      "total": "275085", 
+      "indivs": "275085", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "235200", 
+      "indivs": "17600", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "217600"
+    }, 
+    {
+      "total": "219881", 
+      "indivs": "216162", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "3719"
+    }, 
+    {
+      "total": "188900", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "188900"
+    }, 
+    {
+      "total": "183032", 
+      "indivs": "45150", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "137882"
+    }, 
+    {
+      "total": "173098", 
+      "indivs": "34600", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "138498"
+    }, 
+    {
+      "total": "153473", 
+      "indivs": "106223", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "47250"
+    }, 
+    {
+      "total": "124250", 
+      "indivs": "69750", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "54500"
+    }, 
+    {
+      "total": "122225", 
+      "indivs": "79881", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "42344"
+    }
+  ], 
+  "N00033492": [
+    {
+      "total": "3591841", 
+      "indivs": "3591841", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "2223772", 
+      "indivs": "2199772", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "24000"
+    }, 
+    {
+      "total": "1598383", 
+      "indivs": "1577911", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "20472"
+    }, 
+    {
+      "total": "1383008", 
+      "indivs": "1383008", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "1335572", 
+      "indivs": "974039", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "361533"
+    }, 
+    {
+      "total": "617500", 
+      "indivs": "612500", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "5000"
+    }, 
+    {
+      "total": "498981", 
+      "indivs": "498981", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "481241", 
+      "indivs": "478741", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "460006", 
+      "indivs": "456506", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "3500"
+    }, 
+    {
+      "total": "387331", 
+      "indivs": "387331", 
+      "industry_code": "B01", 
+      "industry_name": "Printing & Publishing", 
+      "pacs": "0"
+    }
+  ], 
+  "N00009869": [
+    {
+      "total": "1133046", 
+      "indivs": "924475", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "208571"
+    }, 
+    {
+      "total": "646777", 
+      "indivs": "247450", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "399327"
+    }, 
+    {
+      "total": "486174", 
+      "indivs": "130000", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "356174"
+    }, 
+    {
+      "total": "441615", 
+      "indivs": "98165", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "343450"
+    }, 
+    {
+      "total": "421611", 
+      "indivs": "220395", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "201216"
+    }, 
+    {
+      "total": "413300", 
+      "indivs": "171900", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "241400"
+    }, 
+    {
+      "total": "410016", 
+      "indivs": "307116", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "102900"
+    }, 
+    {
+      "total": "401878", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "401878"
+    }, 
+    {
+      "total": "386031", 
+      "indivs": "372377", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "13654"
+    }, 
+    {
+      "total": "337480", 
+      "indivs": "134082", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "203398"
+    }
+  ], 
+  "N00000362": [
+    {
+      "total": "431596", 
+      "indivs": "341576", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "90020"
+    }, 
+    {
+      "total": "297150", 
+      "indivs": "150650", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "146500"
+    }, 
+    {
+      "total": "259500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "259500"
+    }, 
+    {
+      "total": "182546", 
+      "indivs": "171496", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "11050"
+    }, 
+    {
+      "total": "174400", 
+      "indivs": "54900", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "119500"
+    }, 
+    {
+      "total": "149168", 
+      "indivs": "91168", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "58000"
+    }, 
+    {
+      "total": "130750", 
+      "indivs": "21250", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "109500"
+    }, 
+    {
+      "total": "123304", 
+      "indivs": "123304", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "88513", 
+      "indivs": "24013", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "64500"
+    }, 
+    {
+      "total": "88150", 
+      "indivs": "23900", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "64250"
+    }
+  ], 
+  "N00024790": [
+    {
+      "total": "787688", 
+      "indivs": "753188", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "34500"
+    }, 
+    {
+      "total": "755179", 
+      "indivs": "656104", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "99075"
+    }, 
+    {
+      "total": "616009", 
+      "indivs": "616009", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "474100", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "474100"
+    }, 
+    {
+      "total": "331058", 
+      "indivs": "280518", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "50540"
+    }, 
+    {
+      "total": "312991", 
+      "indivs": "263658", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "49333"
+    }, 
+    {
+      "total": "257268", 
+      "indivs": "247268", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10000"
+    }, 
+    {
+      "total": "221982", 
+      "indivs": "203982", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "18000"
+    }, 
+    {
+      "total": "218313", 
+      "indivs": "180828", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "37485"
+    }, 
+    {
+      "total": "202149", 
+      "indivs": "160838", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "41311"
+    }
+  ], 
+  "N00003389": [
+    {
+      "total": "2211812", 
+      "indivs": "1945212", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "266600"
+    }, 
+    {
+      "total": "1280845", 
+      "indivs": "1280845", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "1049158", 
+      "indivs": "682559", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "366599"
+    }, 
+    {
+      "total": "984389", 
+      "indivs": "701089", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "283300"
+    }, 
+    {
+      "total": "956195", 
+      "indivs": "682195", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "274000"
+    }, 
+    {
+      "total": "892100", 
+      "indivs": "553100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "339000"
+    }, 
+    {
+      "total": "886775", 
+      "indivs": "809675", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "77100"
+    }, 
+    {
+      "total": "586280", 
+      "indivs": "538280", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "48000"
+    }, 
+    {
+      "total": "564137", 
+      "indivs": "533741", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "30396"
+    }, 
+    {
+      "total": "553089", 
+      "indivs": "363139", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "189950"
+    }
+  ], 
+  "N00027694": [
+    {
+      "total": "2256984", 
+      "indivs": "2116818", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "140166"
+    }, 
+    {
+      "total": "1350964", 
+      "indivs": "1350964", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "1198915", 
+      "indivs": "1172415", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "26500"
+    }, 
+    {
+      "total": "523434", 
+      "indivs": "483434", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "40000"
+    }, 
+    {
+      "total": "397455", 
+      "indivs": "397455", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "344731", 
+      "indivs": "314231", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "30500"
+    }, 
+    {
+      "total": "309500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "309500"
+    }, 
+    {
+      "total": "309053", 
+      "indivs": "284028", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "25025"
+    }, 
+    {
+      "total": "306934", 
+      "indivs": "270684", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "36250"
+    }, 
+    {
+      "total": "275377", 
+      "indivs": "230877", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "44500"
+    }
+  ], 
+  "N00006561": [
+    {
+      "total": "655783", 
+      "indivs": "570136", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "85647"
+    }, 
+    {
+      "total": "434765", 
+      "indivs": "434765", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "297100", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "297100"
+    }, 
+    {
+      "total": "256622", 
+      "indivs": "224022", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "32600"
+    }, 
+    {
+      "total": "196455", 
+      "indivs": "174455", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "22000"
+    }, 
+    {
+      "total": "189363", 
+      "indivs": "101863", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "87500"
+    }, 
+    {
+      "total": "183851", 
+      "indivs": "174551", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9300"
+    }, 
+    {
+      "total": "170644", 
+      "indivs": "150101", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "20543"
+    }, 
+    {
+      "total": "158340", 
+      "indivs": "103340", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "55000"
+    }, 
+    {
+      "total": "154909", 
+      "indivs": "154909", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }
+  ], 
+  "N00030608": [
+    {
+      "total": "861400", 
+      "indivs": "717700", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "143700"
+    }, 
+    {
+      "total": "668527", 
+      "indivs": "530815", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "137712"
+    }, 
+    {
+      "total": "239934", 
+      "indivs": "225734", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "14200"
+    }, 
+    {
+      "total": "224600", 
+      "indivs": "159700", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "64900"
+    }, 
+    {
+      "total": "184600", 
+      "indivs": "18600", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "166000"
+    }, 
+    {
+      "total": "181313", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "181313"
+    }, 
+    {
+      "total": "179850", 
+      "indivs": "22350", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "157500"
+    }, 
+    {
+      "total": "139032", 
+      "indivs": "139032", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "136275", 
+      "indivs": "123775", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "12500"
+    }, 
+    {
+      "total": "130850", 
+      "indivs": "112350", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "18500"
+    }
+  ], 
+  "N00002097": [
+    {
+      "total": "1567128", 
+      "indivs": "1353028", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "214100"
+    }, 
+    {
+      "total": "1287664", 
+      "indivs": "1098040", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "189624"
+    }, 
+    {
+      "total": "1071023", 
+      "indivs": "1071023", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "726950", 
+      "indivs": "639824", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "87126"
+    }, 
+    {
+      "total": "542700", 
+      "indivs": "242200", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "300500"
+    }, 
+    {
+      "total": "440600", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "440600"
+    }, 
+    {
+      "total": "389989", 
+      "indivs": "361189", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "28800"
+    }, 
+    {
+      "total": "346388", 
+      "indivs": "336288", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10100"
+    }, 
+    {
+      "total": "342528", 
+      "indivs": "305428", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "37100"
+    }, 
+    {
+      "total": "332750", 
+      "indivs": "185650", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "147100"
+    }
+  ], 
+  "N00033054": [
+    {
+      "total": "601279", 
+      "indivs": "601279", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "520175", 
+      "indivs": "480175", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "40000"
+    }, 
+    {
+      "total": "422556", 
+      "indivs": "243556", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "179000"
+    }, 
+    {
+      "total": "334267", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "334267"
+    }, 
+    {
+      "total": "267825", 
+      "indivs": "244325", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "23500"
+    }, 
+    {
+      "total": "188250", 
+      "indivs": "165750", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "22500"
+    }, 
+    {
+      "total": "184559", 
+      "indivs": "120708", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "63851"
+    }, 
+    {
+      "total": "154800", 
+      "indivs": "68700", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "86100"
+    }, 
+    {
+      "total": "152100", 
+      "indivs": "92350", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "59750"
+    }, 
+    {
+      "total": "144925", 
+      "indivs": "126425", 
+      "industry_code": "A06", 
+      "industry_name": "Livestock", 
+      "pacs": "18500"
+    }
+  ], 
+  "N00004572": [
+    {
+      "total": "423739", 
+      "indivs": "423739", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "264802", 
+      "indivs": "185302", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "79500"
+    }, 
+    {
+      "total": "254800", 
+      "indivs": "54100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "200700"
+    }, 
+    {
+      "total": "214685", 
+      "indivs": "210185", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4500"
+    }, 
+    {
+      "total": "167615", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "167615"
+    }, 
+    {
+      "total": "152250", 
+      "indivs": "21750", 
+      "industry_code": "M01", 
+      "industry_name": "Air Transport", 
+      "pacs": "130500"
+    }, 
+    {
+      "total": "141433", 
+      "indivs": "85733", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "55700"
+    }, 
+    {
+      "total": "131914", 
+      "indivs": "99904", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "32010"
+    }, 
+    {
+      "total": "119900", 
+      "indivs": "13400", 
+      "industry_code": "B09", 
+      "industry_name": "Telecom Services", 
+      "pacs": "106500"
+    }, 
+    {
+      "total": "118450", 
+      "indivs": "57950", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "60500"
+    }
+  ], 
+  "N00009975": [
+    {
+      "total": "934739", 
+      "indivs": "853489", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "81250"
+    }, 
+    {
+      "total": "836510", 
+      "indivs": "788528", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "47982"
+    }, 
+    {
+      "total": "625433", 
+      "indivs": "625433", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "522766", 
+      "indivs": "482016", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "40750"
+    }, 
+    {
+      "total": "303500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "303500"
+    }, 
+    {
+      "total": "286350", 
+      "indivs": "220150", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "66200"
+    }, 
+    {
+      "total": "223984", 
+      "indivs": "120984", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "103000"
+    }, 
+    {
+      "total": "216610", 
+      "indivs": "207610", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "9000"
+    }, 
+    {
+      "total": "210325", 
+      "indivs": "172325", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "38000"
+    }, 
+    {
+      "total": "197388", 
+      "indivs": "187888", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9500"
+    }
+  ], 
+  "N00004118": [
+    {
+      "total": "500700", 
+      "indivs": "376094", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "124606"
+    }, 
+    {
+      "total": "416869", 
+      "indivs": "274619", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "142250"
+    }, 
+    {
+      "total": "388989", 
+      "indivs": "388989", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "345253", 
+      "indivs": "154543", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "190710"
+    }, 
+    {
+      "total": "328305", 
+      "indivs": "316305", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "12000"
+    }, 
+    {
+      "total": "313076", 
+      "indivs": "99411", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "213665"
+    }, 
+    {
+      "total": "270321", 
+      "indivs": "110100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "160221"
+    }, 
+    {
+      "total": "237418", 
+      "indivs": "29850", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "207568"
+    }, 
+    {
+      "total": "229500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "229500"
+    }, 
+    {
+      "total": "201629", 
+      "indivs": "191414", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10215"
+    }
+  ], 
+  "N00009918": [
+    {
+      "total": "352314", 
+      "indivs": "283614", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "68700"
+    }, 
+    {
+      "total": "226950", 
+      "indivs": "163700", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "63250"
+    }, 
+    {
+      "total": "117700", 
+      "indivs": "111950", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "5750"
+    }, 
+    {
+      "total": "109200", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "109200"
+    }, 
+    {
+      "total": "79950", 
+      "indivs": "72000", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "7950"
+    }, 
+    {
+      "total": "73350", 
+      "indivs": "34350", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "39000"
+    }, 
+    {
+      "total": "51650", 
+      "indivs": "51650", 
+      "industry_code": "W02", 
+      "industry_name": "Non-Profit Institutions", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "51200", 
+      "indivs": "24700", 
+      "industry_code": "B13", 
+      "industry_name": "Internet", 
+      "pacs": "26500"
+    }, 
+    {
+      "total": "45700", 
+      "indivs": "4250", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "41450"
+    }, 
+    {
+      "total": "38065", 
+      "indivs": "38065", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }
+  ], 
+  "N00027605": [
+    {
+      "total": "1358209", 
+      "indivs": "1186765", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "171444"
+    }, 
+    {
+      "total": "826501", 
+      "indivs": "826501", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "777231", 
+      "indivs": "535231", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "242000"
+    }, 
+    {
+      "total": "566717", 
+      "indivs": "553862", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "12855"
+    }, 
+    {
+      "total": "422918", 
+      "indivs": "206618", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "216300"
+    }, 
+    {
+      "total": "385500", 
+      "indivs": "15000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "370500"
+    }, 
+    {
+      "total": "363604", 
+      "indivs": "296284", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "67320"
+    }, 
+    {
+      "total": "347277", 
+      "indivs": "68883", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "278394"
+    }, 
+    {
+      "total": "268685", 
+      "indivs": "250871", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "17814"
+    }, 
+    {
+      "total": "267073", 
+      "indivs": "151173", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "115900"
+    }
+  ], 
+  "N00002221": [
+    {
+      "total": "263360", 
+      "indivs": "25850", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "237510"
+    }, 
+    {
+      "total": "252200", 
+      "indivs": "190200", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "62000"
+    }, 
+    {
+      "total": "218700", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "218700"
+    }, 
+    {
+      "total": "208156", 
+      "indivs": "130906", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "77250"
+    }, 
+    {
+      "total": "178800", 
+      "indivs": "178800", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "158400", 
+      "indivs": "47900", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "110500"
+    }, 
+    {
+      "total": "154350", 
+      "indivs": "60850", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "93500"
+    }, 
+    {
+      "total": "148713", 
+      "indivs": "144713", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4000"
+    }, 
+    {
+      "total": "114000", 
+      "indivs": "39500", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "74500"
+    }, 
+    {
+      "total": "106950", 
+      "indivs": "60950", 
+      "industry_code": "N03", 
+      "industry_name": "Retail Sales", 
+      "pacs": "46000"
+    }
+  ], 
+  "N00029441": [
+    {
+      "total": "192373", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "192373"
+    }, 
+    {
+      "total": "112050", 
+      "indivs": "15300", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "96750"
+    }, 
+    {
+      "total": "83326", 
+      "indivs": "83326", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "76060", 
+      "indivs": "43860", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "32200"
+    }, 
+    {
+      "total": "72650", 
+      "indivs": "43900", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "28750"
+    }, 
+    {
+      "total": "69750", 
+      "indivs": "5750", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "64000"
+    }, 
+    {
+      "total": "65300", 
+      "indivs": "40300", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "25000"
+    }, 
+    {
+      "total": "61500", 
+      "indivs": "8750", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "52750"
+    }, 
+    {
+      "total": "60900", 
+      "indivs": "31900", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "29000"
+    }, 
+    {
+      "total": "56000", 
+      "indivs": "2500", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "53500"
+    }
+  ], 
+  "N00031129": [
+    {
+      "total": "552150", 
+      "indivs": "305050", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "247100"
+    }, 
+    {
+      "total": "380685", 
+      "indivs": "380685", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "212275", 
+      "indivs": "156775", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "55500"
+    }, 
+    {
+      "total": "190703", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "190703"
+    }, 
+    {
+      "total": "126077", 
+      "indivs": "84577", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "41500"
+    }, 
+    {
+      "total": "113885", 
+      "indivs": "42285", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "71600"
+    }, 
+    {
+      "total": "112203", 
+      "indivs": "87703", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "24500"
+    }, 
+    {
+      "total": "105800", 
+      "indivs": "96550", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "9250"
+    }, 
+    {
+      "total": "94930", 
+      "indivs": "71430", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "23500"
+    }, 
+    {
+      "total": "83075", 
+      "indivs": "67575", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "15500"
+    }
+  ], 
+  "N00027522": [
+    {
+      "total": "552642", 
+      "indivs": "552642", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "460065", 
+      "indivs": "340365", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "119700"
+    }, 
+    {
+      "total": "451092", 
+      "indivs": "500", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "450592"
+    }, 
+    {
+      "total": "352232", 
+      "indivs": "260732", 
+      "industry_code": "N07", 
+      "industry_name": "Casinos/Gambling", 
+      "pacs": "91500"
+    }, 
+    {
+      "total": "333315", 
+      "indivs": "284815", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "48500"
+    }, 
+    {
+      "total": "329605", 
+      "indivs": "87105", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "242500"
+    }, 
+    {
+      "total": "263100", 
+      "indivs": "155275", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "107825"
+    }, 
+    {
+      "total": "256434", 
+      "indivs": "126934", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "129500"
+    }, 
+    {
+      "total": "252950", 
+      "indivs": "103700", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "149250"
+    }, 
+    {
+      "total": "225812", 
+      "indivs": "212812", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "13000"
+    }
+  ], 
+  "N00003845": [
+    {
+      "total": "72800", 
+      "indivs": "46450", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "26350"
+    }, 
+    {
+      "total": "65000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "65000"
+    }, 
+    {
+      "total": "57550", 
+      "indivs": "12100", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "45450"
+    }, 
+    {
+      "total": "49350", 
+      "indivs": "45850", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "3500"
+    }, 
+    {
+      "total": "46750", 
+      "indivs": "7750", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "39000"
+    }, 
+    {
+      "total": "42750", 
+      "indivs": "11000", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "31750"
+    }, 
+    {
+      "total": "42350", 
+      "indivs": "9850", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "32500"
+    }, 
+    {
+      "total": "33950", 
+      "indivs": "2750", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "31200"
+    }, 
+    {
+      "total": "33000", 
+      "indivs": "10000", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "23000"
+    }, 
+    {
+      "total": "32350", 
+      "indivs": "23850", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "8500"
+    }
+  ], 
+  "N00035483": [
+    {
+      "total": "1063713", 
+      "indivs": "1063713", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "641698", 
+      "indivs": "635698", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "6000"
+    }, 
+    {
+      "total": "611873", 
+      "indivs": "524303", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "87570"
+    }, 
+    {
+      "total": "363600", 
+      "indivs": "2000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "361600"
+    }, 
+    {
+      "total": "315305", 
+      "indivs": "300305", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "15000"
+    }, 
+    {
+      "total": "278648", 
+      "indivs": "187648", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "91000"
+    }, 
+    {
+      "total": "240049", 
+      "indivs": "224049", 
+      "industry_code": "N12", 
+      "industry_name": "Misc Business", 
+      "pacs": "16000"
+    }, 
+    {
+      "total": "205375", 
+      "indivs": "202875", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "196674", 
+      "indivs": "173174", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "23500"
+    }, 
+    {
+      "total": "179700", 
+      "indivs": "142500", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "37200"
+    }
+  ], 
+  "N00027441": [
+    {
+      "total": "909533", 
+      "indivs": "742863", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "166670"
+    }, 
+    {
+      "total": "573313", 
+      "indivs": "493713", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "79600"
+    }, 
+    {
+      "total": "445808", 
+      "indivs": "445808", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "413319", 
+      "indivs": "319819", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "93500"
+    }, 
+    {
+      "total": "374297", 
+      "indivs": "297297", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "77000"
+    }, 
+    {
+      "total": "368570", 
+      "indivs": "344070", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "24500"
+    }, 
+    {
+      "total": "357925", 
+      "indivs": "167225", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "190700"
+    }, 
+    {
+      "total": "355190", 
+      "indivs": "221390", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "133800"
+    }, 
+    {
+      "total": "247000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "247000"
+    }, 
+    {
+      "total": "236690", 
+      "indivs": "230690", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "6000"
+    }
+  ], 
+  "N00030245": [
+    {
+      "total": "1051765", 
+      "indivs": "732165", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "319600"
+    }, 
+    {
+      "total": "908278", 
+      "indivs": "908278", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "731401", 
+      "indivs": "728901", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "668903", 
+      "indivs": "554903", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "114000"
+    }, 
+    {
+      "total": "601794", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "601794"
+    }, 
+    {
+      "total": "347600", 
+      "indivs": "342200", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "5400"
+    }, 
+    {
+      "total": "264839", 
+      "indivs": "152225", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "112614"
+    }, 
+    {
+      "total": "242250", 
+      "indivs": "209750", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "32500"
+    }, 
+    {
+      "total": "204392", 
+      "indivs": "143792", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "60600"
+    }, 
+    {
+      "total": "203935", 
+      "indivs": "186435", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "17500"
+    }
+  ], 
+  "N00012539": [
+    {
+      "total": "624550", 
+      "indivs": "512550", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "112000"
+    }, 
+    {
+      "total": "471495", 
+      "indivs": "471495", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "253336", 
+      "indivs": "211286", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "42050"
+    }, 
+    {
+      "total": "229800", 
+      "indivs": "53100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "176700"
+    }, 
+    {
+      "total": "196777", 
+      "indivs": "148827", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "47950"
+    }, 
+    {
+      "total": "195400", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "195400"
+    }, 
+    {
+      "total": "189800", 
+      "indivs": "166800", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "23000"
+    }, 
+    {
+      "total": "174825", 
+      "indivs": "68225", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "106600"
+    }, 
+    {
+      "total": "130700", 
+      "indivs": "110700", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "20000"
+    }, 
+    {
+      "total": "112450", 
+      "indivs": "21950", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "90500"
+    }
+  ], 
+  "N00009922": [
+    {
+      "total": "350986", 
+      "indivs": "270686", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "80300"
+    }, 
+    {
+      "total": "244050", 
+      "indivs": "125550", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "118500"
+    }, 
+    {
+      "total": "206500", 
+      "indivs": "117500", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "89000"
+    }, 
+    {
+      "total": "202265", 
+      "indivs": "194743", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "7522"
+    }, 
+    {
+      "total": "170300", 
+      "indivs": "24800", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "145500"
+    }, 
+    {
+      "total": "158600", 
+      "indivs": "122500", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "36100"
+    }, 
+    {
+      "total": "130150", 
+      "indivs": "53150", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "77000"
+    }, 
+    {
+      "total": "128831", 
+      "indivs": "81331", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "47500"
+    }, 
+    {
+      "total": "121750", 
+      "indivs": "41800", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "79950"
+    }, 
+    {
+      "total": "106600", 
+      "indivs": "70600", 
+      "industry_code": "N07", 
+      "industry_name": "Casinos/Gambling", 
+      "pacs": "36000"
+    }
+  ], 
+  "N00007724": [
+    {
+      "total": "485500", 
+      "indivs": "342974", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "142526"
+    }, 
+    {
+      "total": "440100", 
+      "indivs": "317100", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "123000"
+    }, 
+    {
+      "total": "336375", 
+      "indivs": "126135", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "210240"
+    }, 
+    {
+      "total": "320600", 
+      "indivs": "103100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "217500"
+    }, 
+    {
+      "total": "300541", 
+      "indivs": "72391", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "228150"
+    }, 
+    {
+      "total": "251335", 
+      "indivs": "204975", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "46360"
+    }, 
+    {
+      "total": "246842", 
+      "indivs": "237792", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9050"
+    }, 
+    {
+      "total": "243350", 
+      "indivs": "23350", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "220000"
+    }, 
+    {
+      "total": "237400", 
+      "indivs": "96150", 
+      "industry_code": "H03", 
+      "industry_name": "Health Services/HMOs", 
+      "pacs": "141250"
+    }, 
+    {
+      "total": "196200", 
+      "indivs": "88700", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "107500"
+    }
+  ], 
+  "N00003535": [
+    {
+      "total": "1830724", 
+      "indivs": "1653351", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "177373"
+    }, 
+    {
+      "total": "1186378", 
+      "indivs": "1186378", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "576594", 
+      "indivs": "575594", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "520862", 
+      "indivs": "470362", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "50500"
+    }, 
+    {
+      "total": "517945", 
+      "indivs": "326145", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "191800"
+    }, 
+    {
+      "total": "403934", 
+      "indivs": "402434", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "1500"
+    }, 
+    {
+      "total": "395358", 
+      "indivs": "149358", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "246000"
+    }, 
+    {
+      "total": "381445", 
+      "indivs": "365345", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "16100"
+    }, 
+    {
+      "total": "373269", 
+      "indivs": "335704", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "37565"
+    }, 
+    {
+      "total": "351700", 
+      "indivs": "200", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "351500"
+    }
+  ], 
+  "N00009926": [
+    {
+      "total": "2014463", 
+      "indivs": "1856060", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "158403"
+    }, 
+    {
+      "total": "855382", 
+      "indivs": "855382", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "448049", 
+      "indivs": "403549", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "44500"
+    }, 
+    {
+      "total": "439365", 
+      "indivs": "385615", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "53750"
+    }, 
+    {
+      "total": "395600", 
+      "indivs": "375600", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "20000"
+    }, 
+    {
+      "total": "357081", 
+      "indivs": "335975", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "21106"
+    }, 
+    {
+      "total": "331500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "331500"
+    }, 
+    {
+      "total": "312822", 
+      "indivs": "191440", 
+      "industry_code": "H02", 
+      "industry_name": "Hospitals/Nursing Homes", 
+      "pacs": "121382"
+    }, 
+    {
+      "total": "277758", 
+      "indivs": "167858", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "109900"
+    }, 
+    {
+      "total": "218850", 
+      "indivs": "169600", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "49250"
+    }
+  ], 
+  "N00034580": [
+    {
+      "total": "313186", 
+      "indivs": "313186", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "291948", 
+      "indivs": "268948", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "23000"
+    }, 
+    {
+      "total": "130294", 
+      "indivs": "121294", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "9000"
+    }, 
+    {
+      "total": "94500", 
+      "indivs": "46500", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "48000"
+    }, 
+    {
+      "total": "89916", 
+      "indivs": "78200", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "11716"
+    }, 
+    {
+      "total": "58983", 
+      "indivs": "58983", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "56500", 
+      "indivs": "28000", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "28500"
+    }, 
+    {
+      "total": "53273", 
+      "indivs": "53273", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "47050", 
+      "indivs": "47050", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "46500", 
+      "indivs": "29500", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "17000"
+    }
+  ], 
+  "N00009920": [
+    {
+      "total": "205650", 
+      "indivs": "23900", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "181750"
+    }, 
+    {
+      "total": "203950", 
+      "indivs": "54950", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "149000"
+    }, 
+    {
+      "total": "154000", 
+      "indivs": "11400", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "142600"
+    }, 
+    {
+      "total": "140000", 
+      "indivs": "45500", 
+      "industry_code": "F06", 
+      "industry_name": "Finance/Credit Companies", 
+      "pacs": "94500"
+    }, 
+    {
+      "total": "101000", 
+      "indivs": "36000", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "65000"
+    }, 
+    {
+      "total": "81600", 
+      "indivs": "30600", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "51000"
+    }, 
+    {
+      "total": "75350", 
+      "indivs": "28600", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "46750"
+    }, 
+    {
+      "total": "66000", 
+      "indivs": "17500", 
+      "industry_code": "D02", 
+      "industry_name": "Defense Electronics", 
+      "pacs": "48500"
+    }, 
+    {
+      "total": "62500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "62500"
+    }, 
+    {
+      "total": "56950", 
+      "indivs": "56950", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "0"
+    }
+  ], 
+  "N00030780": [
+    {
+      "total": "1359580", 
+      "indivs": "1359580", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "792862", 
+      "indivs": "774362", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "18500"
+    }, 
+    {
+      "total": "709649", 
+      "indivs": "433949", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "275700"
+    }, 
+    {
+      "total": "516416", 
+      "indivs": "481916", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "34500"
+    }, 
+    {
+      "total": "419694", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "419694"
+    }, 
+    {
+      "total": "354484", 
+      "indivs": "296882", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "57602"
+    }, 
+    {
+      "total": "258586", 
+      "indivs": "240486", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "18100"
+    }, 
+    {
+      "total": "231148", 
+      "indivs": "215148", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "16000"
+    }, 
+    {
+      "total": "219706", 
+      "indivs": "132206", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "87500"
+    }, 
+    {
+      "total": "212550", 
+      "indivs": "178950", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "33600"
+    }
+  ], 
+  "N00029277": [
+    {
+      "total": "790048", 
+      "indivs": "735548", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "54500"
+    }, 
+    {
+      "total": "511950", 
+      "indivs": "42100", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "469850"
+    }, 
+    {
+      "total": "423029", 
+      "indivs": "311529", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "111500"
+    }, 
+    {
+      "total": "356306", 
+      "indivs": "356306", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "284775", 
+      "indivs": "236275", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "48500"
+    }, 
+    {
+      "total": "274834", 
+      "indivs": "245187", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "29647"
+    }, 
+    {
+      "total": "264398", 
+      "indivs": "218898", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "45500"
+    }, 
+    {
+      "total": "252750", 
+      "indivs": "69050", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "183700"
+    }, 
+    {
+      "total": "205818", 
+      "indivs": "203568", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "2250"
+    }, 
+    {
+      "total": "172701", 
+      "indivs": "164151", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "8550"
+    }
+  ], 
+  "N00009659": [
+    {
+      "total": "183400", 
+      "indivs": "90000", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "93400"
+    }, 
+    {
+      "total": "141892", 
+      "indivs": "65392", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "76500"
+    }, 
+    {
+      "total": "98400", 
+      "indivs": "57400", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "41000"
+    }, 
+    {
+      "total": "89942", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "89942"
+    }, 
+    {
+      "total": "89684", 
+      "indivs": "89684", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "86450", 
+      "indivs": "80450", 
+      "industry_code": "C01", 
+      "industry_name": "General Contractors", 
+      "pacs": "6000"
+    }, 
+    {
+      "total": "80850", 
+      "indivs": "19350", 
+      "industry_code": "C05", 
+      "industry_name": "Building Materials & Equipment", 
+      "pacs": "61500"
+    }, 
+    {
+      "total": "78100", 
+      "indivs": "8000", 
+      "industry_code": "N13", 
+      "industry_name": "Chemical & Related Manufacturing", 
+      "pacs": "70100"
+    }, 
+    {
+      "total": "76250", 
+      "indivs": "70750", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "5500"
+    }, 
+    {
+      "total": "73500", 
+      "indivs": "67500", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "6000"
+    }
+  ], 
+  "N00005582": [
+    {
+      "total": "455700", 
+      "indivs": "196050", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "259650"
+    }, 
+    {
+      "total": "247425", 
+      "indivs": "247425", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "216524", 
+      "indivs": "3000", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "213524"
+    }, 
+    {
+      "total": "128731", 
+      "indivs": "119231", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9500"
+    }, 
+    {
+      "total": "125350", 
+      "indivs": "4750", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "120600"
+    }, 
+    {
+      "total": "118000", 
+      "indivs": "13500", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "104500"
+    }, 
+    {
+      "total": "112900", 
+      "indivs": "59775", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "53125"
+    }, 
+    {
+      "total": "102775", 
+      "indivs": "48775", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "54000"
+    }, 
+    {
+      "total": "96435", 
+      "indivs": "69935", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "26500"
+    }, 
+    {
+      "total": "91825", 
+      "indivs": "19325", 
+      "industry_code": "M03", 
+      "industry_name": "Trucking", 
+      "pacs": "72500"
+    }
+  ], 
+  "N00006236": [
+    {
+      "total": "508493", 
+      "indivs": "311743", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "196750"
+    }, 
+    {
+      "total": "413166", 
+      "indivs": "193266", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "219900"
+    }, 
+    {
+      "total": "260271", 
+      "indivs": "185200", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "75071"
+    }, 
+    {
+      "total": "239250", 
+      "indivs": "60750", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "178500"
+    }, 
+    {
+      "total": "233706", 
+      "indivs": "160206", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "73500"
+    }, 
+    {
+      "total": "227493", 
+      "indivs": "220993", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "6500"
+    }, 
+    {
+      "total": "220240", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "220240"
+    }, 
+    {
+      "total": "206000", 
+      "indivs": "13500", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "192500"
+    }, 
+    {
+      "total": "162875", 
+      "indivs": "41000", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "121875"
+    }, 
+    {
+      "total": "104249", 
+      "indivs": "41249", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "63000"
+    }
+  ], 
+  "N00033443": [
+    {
+      "total": "339917", 
+      "indivs": "339917", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "259682", 
+      "indivs": "200", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "259482"
+    }, 
+    {
+      "total": "194271", 
+      "indivs": "148771", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "45500"
+    }, 
+    {
+      "total": "182612", 
+      "indivs": "128560", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "54052"
+    }, 
+    {
+      "total": "178500", 
+      "indivs": "76500", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "102000"
+    }, 
+    {
+      "total": "158050", 
+      "indivs": "80250", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "77800"
+    }, 
+    {
+      "total": "146699", 
+      "indivs": "105699", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "41000"
+    }, 
+    {
+      "total": "134000", 
+      "indivs": "66500", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "67500"
+    }, 
+    {
+      "total": "130737", 
+      "indivs": "83987", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "46750"
+    }, 
+    {
+      "total": "127542", 
+      "indivs": "118042", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "9500"
+    }
+  ], 
+  "N00027533": [
+    {
+      "total": "601676", 
+      "indivs": "508526", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "93150"
+    }, 
+    {
+      "total": "263191", 
+      "indivs": "255191", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "8000"
+    }, 
+    {
+      "total": "239000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "239000"
+    }, 
+    {
+      "total": "209785", 
+      "indivs": "171785", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "38000"
+    }, 
+    {
+      "total": "202910", 
+      "indivs": "197907", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "5003"
+    }, 
+    {
+      "total": "189227", 
+      "indivs": "189227", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "139287", 
+      "indivs": "114287", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "25000"
+    }, 
+    {
+      "total": "137183", 
+      "indivs": "30183", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "107000"
+    }, 
+    {
+      "total": "123933", 
+      "indivs": "28933", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "95000"
+    }, 
+    {
+      "total": "116100", 
+      "indivs": "72600", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "43500"
+    }
+  ], 
+  "N00032838": [
+    {
+      "total": "341850", 
+      "indivs": "257350", 
+      "industry_code": "E04", 
+      "industry_name": "Mining", 
+      "pacs": "84500"
+    }, 
+    {
+      "total": "321900", 
+      "indivs": "248650", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "73250"
+    }, 
+    {
+      "total": "262750", 
+      "indivs": "125000", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "137750"
+    }, 
+    {
+      "total": "193000", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "193000"
+    }, 
+    {
+      "total": "175250", 
+      "indivs": "59000", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "116250"
+    }, 
+    {
+      "total": "168800", 
+      "indivs": "68300", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "100500"
+    }, 
+    {
+      "total": "155238", 
+      "indivs": "146018", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "9220"
+    }, 
+    {
+      "total": "150000", 
+      "indivs": "95500", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "54500"
+    }, 
+    {
+      "total": "140600", 
+      "indivs": "29100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "111500"
+    }, 
+    {
+      "total": "124348", 
+      "indivs": "55850", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "68498"
+    }
+  ], 
+  "N00035492": [
+    {
+      "total": "1274714", 
+      "indivs": "1274714", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "597309", 
+      "indivs": "575809", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "21500"
+    }, 
+    {
+      "total": "575850", 
+      "indivs": "563350", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "12500"
+    }, 
+    {
+      "total": "398875", 
+      "indivs": "361125", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "37750"
+    }, 
+    {
+      "total": "372275", 
+      "indivs": "30600", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "341675"
+    }, 
+    {
+      "total": "359199", 
+      "indivs": "266999", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "92200"
+    }, 
+    {
+      "total": "252600", 
+      "indivs": "123500", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "129100"
+    }, 
+    {
+      "total": "221084", 
+      "indivs": "151234", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "69850"
+    }, 
+    {
+      "total": "218844", 
+      "indivs": "208844", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "10000"
+    }, 
+    {
+      "total": "189950", 
+      "indivs": "143950", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "46000"
+    }
+  ], 
+  "N00006424": [
+    {
+      "total": "439275", 
+      "indivs": "429275", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "10000"
+    }, 
+    {
+      "total": "375118", 
+      "indivs": "375118", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "253064", 
+      "indivs": "185013", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "68051"
+    }, 
+    {
+      "total": "245225", 
+      "indivs": "226125", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "19100"
+    }, 
+    {
+      "total": "132500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "132500"
+    }, 
+    {
+      "total": "127100", 
+      "indivs": "120000", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "7100"
+    }, 
+    {
+      "total": "111400", 
+      "indivs": "110400", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "108200", 
+      "indivs": "61700", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "46500"
+    }, 
+    {
+      "total": "94426", 
+      "indivs": "93426", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "66800", 
+      "indivs": "25800", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "41000"
+    }
+  ], 
+  "N00026050": [
+    {
+      "total": "443096", 
+      "indivs": "184896", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "258200"
+    }, 
+    {
+      "total": "349650", 
+      "indivs": "67150", 
+      "industry_code": "E08", 
+      "industry_name": "Electric Utilities", 
+      "pacs": "282500"
+    }, 
+    {
+      "total": "136453", 
+      "indivs": "122453", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "14000"
+    }, 
+    {
+      "total": "132593", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "132593"
+    }, 
+    {
+      "total": "130800", 
+      "indivs": "56800", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "74000"
+    }, 
+    {
+      "total": "115404", 
+      "indivs": "111904", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "3500"
+    }, 
+    {
+      "total": "92450", 
+      "indivs": "38950", 
+      "industry_code": "N01", 
+      "industry_name": "Food & Beverage", 
+      "pacs": "53500"
+    }, 
+    {
+      "total": "79318", 
+      "indivs": "32850", 
+      "industry_code": "E07", 
+      "industry_name": "Misc Energy", 
+      "pacs": "46468"
+    }, 
+    {
+      "total": "78800", 
+      "indivs": "78800", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "70400", 
+      "indivs": "54900", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "15500"
+    }
+  ], 
+  "N00033177": [
+    {
+      "total": "2250410", 
+      "indivs": "2137774", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "112636"
+    }, 
+    {
+      "total": "1921635", 
+      "indivs": "1921635", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "819816", 
+      "indivs": "793316", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "26500"
+    }, 
+    {
+      "total": "564044", 
+      "indivs": "559044", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "5000"
+    }, 
+    {
+      "total": "545599", 
+      "indivs": "536699", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "8900"
+    }, 
+    {
+      "total": "526265", 
+      "indivs": "526265", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "406320", 
+      "indivs": "392145", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "14175"
+    }, 
+    {
+      "total": "375080", 
+      "indivs": "371887", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "3193"
+    }, 
+    {
+      "total": "322500", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "322500"
+    }, 
+    {
+      "total": "305793", 
+      "indivs": "282293", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "23500"
+    }
+  ], 
+  "N00004367": [
+    {
+      "total": "919498", 
+      "indivs": "882526", 
+      "industry_code": "Q08", 
+      "industry_name": "Women's Issues", 
+      "pacs": "36972"
+    }, 
+    {
+      "total": "853567", 
+      "indivs": "853567", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "655507", 
+      "indivs": "626157", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "29350"
+    }, 
+    {
+      "total": "556292", 
+      "indivs": "382527", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "173765"
+    }, 
+    {
+      "total": "335975", 
+      "indivs": "333475", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "309430", 
+      "indivs": "8750", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "300680"
+    }, 
+    {
+      "total": "240204", 
+      "indivs": "176454", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "63750"
+    }, 
+    {
+      "total": "218239", 
+      "indivs": "184746", 
+      "industry_code": "Q09", 
+      "industry_name": "Human Rights", 
+      "pacs": "33493"
+    }, 
+    {
+      "total": "191390", 
+      "indivs": "189390", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "2000"
+    }, 
+    {
+      "total": "177980", 
+      "indivs": "153265", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "24715"
+    }
+  ], 
+  "N00003328": [
+    {
+      "total": "503475", 
+      "indivs": "264625", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "238850"
+    }, 
+    {
+      "total": "475800", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "475800"
+    }, 
+    {
+      "total": "292200", 
+      "indivs": "157950", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "134250"
+    }, 
+    {
+      "total": "242800", 
+      "indivs": "21300", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "221500"
+    }, 
+    {
+      "total": "226405", 
+      "indivs": "87405", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "139000"
+    }, 
+    {
+      "total": "214626", 
+      "indivs": "207625", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "7001"
+    }, 
+    {
+      "total": "204300", 
+      "indivs": "60300", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "144000"
+    }, 
+    {
+      "total": "184204", 
+      "indivs": "184204", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "164409", 
+      "indivs": "55259", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "109150"
+    }, 
+    {
+      "total": "159900", 
+      "indivs": "45600", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "114300"
+    }
+  ], 
+  "N00035774": [
+    {
+      "total": "1038105", 
+      "indivs": "1038105", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "692633", 
+      "indivs": "692633", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "569727", 
+      "indivs": "523527", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "46200"
+    }, 
+    {
+      "total": "376933", 
+      "indivs": "364433", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "12500"
+    }, 
+    {
+      "total": "319900", 
+      "indivs": "250200", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "69700"
+    }, 
+    {
+      "total": "297600", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "297600"
+    }, 
+    {
+      "total": "243031", 
+      "indivs": "241781", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "1250"
+    }, 
+    {
+      "total": "231170", 
+      "indivs": "230170", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "162300", 
+      "indivs": "149800", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "12500"
+    }, 
+    {
+      "total": "138475", 
+      "indivs": "119975", 
+      "industry_code": "N13", 
+      "industry_name": "Chemical & Related Manufacturing", 
+      "pacs": "18500"
+    }
+  ], 
+  "N00005285": [
+    {
+      "total": "486576", 
+      "indivs": "15600", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "470976"
+    }, 
+    {
+      "total": "392325", 
+      "indivs": "229575", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "162750"
+    }, 
+    {
+      "total": "379950", 
+      "indivs": "182500", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "197450"
+    }, 
+    {
+      "total": "292468", 
+      "indivs": "65218", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "227250"
+    }, 
+    {
+      "total": "284914", 
+      "indivs": "34050", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "250864"
+    }, 
+    {
+      "total": "278399", 
+      "indivs": "61900", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "216499"
+    }, 
+    {
+      "total": "271236", 
+      "indivs": "271236", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "262222", 
+      "indivs": "126560", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "135662"
+    }, 
+    {
+      "total": "252850", 
+      "indivs": "52900", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "199950"
+    }, 
+    {
+      "total": "222560", 
+      "indivs": "169060", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "53500"
+    }
+  ], 
+  "N00005282": [
+    {
+      "total": "189700", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "189700"
+    }, 
+    {
+      "total": "176402", 
+      "indivs": "71050", 
+      "industry_code": "A01", 
+      "industry_name": "Crop Production & Basic Processing", 
+      "pacs": "105352"
+    }, 
+    {
+      "total": "146900", 
+      "indivs": "48000", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "98900"
+    }, 
+    {
+      "total": "126350", 
+      "indivs": "53850", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "72500"
+    }, 
+    {
+      "total": "113750", 
+      "indivs": "113750", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "112600", 
+      "indivs": "29150", 
+      "industry_code": "A07", 
+      "industry_name": "Agricultural Services/Products", 
+      "pacs": "83450"
+    }, 
+    {
+      "total": "111550", 
+      "indivs": "67550", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "44000"
+    }, 
+    {
+      "total": "111150", 
+      "indivs": "29150", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "82000"
+    }, 
+    {
+      "total": "109700", 
+      "indivs": "71200", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "38500"
+    }, 
+    {
+      "total": "107665", 
+      "indivs": "54915", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "52750"
+    }
+  ], 
+  "N00033085": [
+    {
+      "total": "1599057", 
+      "indivs": "1486726", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "112331"
+    }, 
+    {
+      "total": "952382", 
+      "indivs": "773382", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "179000"
+    }, 
+    {
+      "total": "938747", 
+      "indivs": "881498", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "57249"
+    }, 
+    {
+      "total": "843155", 
+      "indivs": "843155", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "758427", 
+      "indivs": "733927", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "24500"
+    }, 
+    {
+      "total": "601730", 
+      "indivs": "577730", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "24000"
+    }, 
+    {
+      "total": "479289", 
+      "indivs": "474789", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "4500"
+    }, 
+    {
+      "total": "362571", 
+      "indivs": "324571", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "38000"
+    }, 
+    {
+      "total": "303227", 
+      "indivs": "292727", 
+      "industry_code": "N12", 
+      "industry_name": "Misc Business", 
+      "pacs": "10500"
+    }, 
+    {
+      "total": "302362", 
+      "indivs": "293362", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "9000"
+    }
+  ], 
+  "N00033363": [
+    {
+      "total": "1185623", 
+      "indivs": "1120873", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "64750"
+    }, 
+    {
+      "total": "1139152", 
+      "indivs": "1139152", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "988727", 
+      "indivs": "906744", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "81983"
+    }, 
+    {
+      "total": "467055", 
+      "indivs": "383455", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "83600"
+    }, 
+    {
+      "total": "455720", 
+      "indivs": "429720", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "26000"
+    }, 
+    {
+      "total": "444971", 
+      "indivs": "17300", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "427671"
+    }, 
+    {
+      "total": "408920", 
+      "indivs": "366555", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "42365"
+    }, 
+    {
+      "total": "340098", 
+      "indivs": "282098", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "58000"
+    }, 
+    {
+      "total": "325551", 
+      "indivs": "174301", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "151250"
+    }, 
+    {
+      "total": "302150", 
+      "indivs": "289650", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "12500"
+    }
+  ], 
+  "N00026586": [
+    {
+      "total": "778609", 
+      "indivs": "728515", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "50094"
+    }, 
+    {
+      "total": "350500", 
+      "indivs": "2750", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "347750"
+    }, 
+    {
+      "total": "300118", 
+      "indivs": "300118", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "214355", 
+      "indivs": "144855", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "69500"
+    }, 
+    {
+      "total": "179910", 
+      "indivs": "150910", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "29000"
+    }, 
+    {
+      "total": "165433", 
+      "indivs": "62862", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "102571"
+    }, 
+    {
+      "total": "147768", 
+      "indivs": "117768", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "30000"
+    }, 
+    {
+      "total": "143413", 
+      "indivs": "140913", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "122201", 
+      "indivs": "20701", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "101500"
+    }, 
+    {
+      "total": "110440", 
+      "indivs": "3440", 
+      "industry_code": "P01", 
+      "industry_name": "Building Trade Unions", 
+      "pacs": "107000"
+    }
+  ], 
+  "N00029303": [
+    {
+      "total": "417784", 
+      "indivs": "356884", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "60900"
+    }, 
+    {
+      "total": "383147", 
+      "indivs": "383147", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "373600", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "373600"
+    }, 
+    {
+      "total": "184206", 
+      "indivs": "166706", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "17500"
+    }, 
+    {
+      "total": "177366", 
+      "indivs": "92866", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "84500"
+    }, 
+    {
+      "total": "164458", 
+      "indivs": "112458", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "52000"
+    }, 
+    {
+      "total": "149848", 
+      "indivs": "148848", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "1000"
+    }, 
+    {
+      "total": "140849", 
+      "indivs": "124668", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "16181"
+    }, 
+    {
+      "total": "105991", 
+      "indivs": "101491", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4500"
+    }, 
+    {
+      "total": "105025", 
+      "indivs": "78025", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "27000"
+    }
+  ], 
+  "N00029016": [
+    {
+      "total": "1291902", 
+      "indivs": "1197214", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "94688"
+    }, 
+    {
+      "total": "1216984", 
+      "indivs": "1216984", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "496450", 
+      "indivs": "472946", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "23504"
+    }, 
+    {
+      "total": "378150", 
+      "indivs": "250", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "377900"
+    }, 
+    {
+      "total": "357171", 
+      "indivs": "350171", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "7000"
+    }, 
+    {
+      "total": "306973", 
+      "indivs": "291963", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "15010"
+    }, 
+    {
+      "total": "222289", 
+      "indivs": "220289", 
+      "industry_code": "B01", 
+      "industry_name": "Printing & Publishing", 
+      "pacs": "2000"
+    }, 
+    {
+      "total": "220831", 
+      "indivs": "153431", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "67400"
+    }, 
+    {
+      "total": "212745", 
+      "indivs": "193128", 
+      "industry_code": "Q02", 
+      "industry_name": "Democratic/Liberal", 
+      "pacs": "19617"
+    }, 
+    {
+      "total": "203374", 
+      "indivs": "201374", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "2000"
+    }
+  ], 
+  "N00007836": [
+    {
+      "total": "681109", 
+      "indivs": "670359", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "10750"
+    }, 
+    {
+      "total": "592472", 
+      "indivs": "592472", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "413436", 
+      "indivs": "413436", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "279014", 
+      "indivs": "279014", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "210100", 
+      "indivs": "210100", 
+      "industry_code": "N07", 
+      "industry_name": "Casinos/Gambling", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "201585", 
+      "indivs": "199085", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "2500"
+    }, 
+    {
+      "total": "174549", 
+      "indivs": "171049", 
+      "industry_code": "B12", 
+      "industry_name": "Electronics Mfg & Equip", 
+      "pacs": "3500"
+    }, 
+    {
+      "total": "157877", 
+      "indivs": "157877", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "153162", 
+      "indivs": "146412", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "6750"
+    }, 
+    {
+      "total": "120713", 
+      "indivs": "120713", 
+      "industry_code": "Q11", 
+      "industry_name": "Environment", 
+      "pacs": "0"
+    }
+  ], 
+  "N00035544": [
+    {
+      "total": "687752", 
+      "indivs": "609257", 
+      "industry_code": "Q01", 
+      "industry_name": "Republican/Conservative", 
+      "pacs": "78495"
+    }, 
+    {
+      "total": "368597", 
+      "indivs": "368597", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "314988", 
+      "indivs": "289988", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "25000"
+    }, 
+    {
+      "total": "190382", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "190382"
+    }, 
+    {
+      "total": "166810", 
+      "indivs": "71850", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "94960"
+    }, 
+    {
+      "total": "166085", 
+      "indivs": "96585", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "69500"
+    }, 
+    {
+      "total": "157650", 
+      "indivs": "112400", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "45250"
+    }, 
+    {
+      "total": "152938", 
+      "indivs": "133938", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "19000"
+    }, 
+    {
+      "total": "149250", 
+      "indivs": "146650", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "2600"
+    }, 
+    {
+      "total": "147588", 
+      "indivs": "99988", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "47600"
+    }
+  ], 
+  "N00005195": [
+    {
+      "total": "271647", 
+      "indivs": "8100", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "263547"
+    }, 
+    {
+      "total": "254200", 
+      "indivs": "249650", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "4550"
+    }, 
+    {
+      "total": "248300", 
+      "indivs": "156600", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "91700"
+    }, 
+    {
+      "total": "234525", 
+      "indivs": "120937", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "113588"
+    }, 
+    {
+      "total": "185146", 
+      "indivs": "63146", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "122000"
+    }, 
+    {
+      "total": "181620", 
+      "indivs": "181620", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "149450", 
+      "indivs": "56950", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "92500"
+    }, 
+    {
+      "total": "128950", 
+      "indivs": "103950", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "25000"
+    }, 
+    {
+      "total": "118950", 
+      "indivs": "66950", 
+      "industry_code": "N15", 
+      "industry_name": "Misc Manufacturing & Distributing", 
+      "pacs": "52000"
+    }, 
+    {
+      "total": "115700", 
+      "indivs": "52200", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "63500"
+    }
+  ], 
+  "N00031782": [
+    {
+      "total": "670834", 
+      "indivs": "530025", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "140809"
+    }, 
+    {
+      "total": "487950", 
+      "indivs": "158950", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "329000"
+    }, 
+    {
+      "total": "371101", 
+      "indivs": "188001", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "183100"
+    }, 
+    {
+      "total": "327459", 
+      "indivs": "260609", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "66850"
+    }, 
+    {
+      "total": "327405", 
+      "indivs": "259665", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "67740"
+    }, 
+    {
+      "total": "282265", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "282265"
+    }, 
+    {
+      "total": "276300", 
+      "indivs": "132800", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "143500"
+    }, 
+    {
+      "total": "269900", 
+      "indivs": "269900", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "247300", 
+      "indivs": "31350", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "215950"
+    }, 
+    {
+      "total": "172095", 
+      "indivs": "50095", 
+      "industry_code": "F03", 
+      "industry_name": "Commercial Banks", 
+      "pacs": "122000"
+    }
+  ], 
+  "N00030980": [
+    {
+      "total": "528866", 
+      "indivs": "479166", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "49700"
+    }, 
+    {
+      "total": "268044", 
+      "indivs": "257457", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "10587"
+    }, 
+    {
+      "total": "231460", 
+      "indivs": "231460", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "204641", 
+      "indivs": "123891", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "80750"
+    }, 
+    {
+      "total": "199100", 
+      "indivs": "49100", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "150000"
+    }, 
+    {
+      "total": "190239", 
+      "indivs": "53851", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "136388"
+    }, 
+    {
+      "total": "178450", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "178450"
+    }, 
+    {
+      "total": "163110", 
+      "indivs": "146600", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "16510"
+    }, 
+    {
+      "total": "136450", 
+      "indivs": "67450", 
+      "industry_code": "E01", 
+      "industry_name": "Oil & Gas", 
+      "pacs": "69000"
+    }, 
+    {
+      "total": "122500", 
+      "indivs": "12000", 
+      "industry_code": "M01", 
+      "industry_name": "Air Transport", 
+      "pacs": "110500"
+    }
+  ], 
+  "N00035267": [
+    {
+      "total": "2072470", 
+      "indivs": "1918170", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "154300"
+    }, 
+    {
+      "total": "2040870", 
+      "indivs": "1984370", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "56500"
+    }, 
+    {
+      "total": "1024020", 
+      "indivs": "998020", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "26000"
+    }, 
+    {
+      "total": "638500", 
+      "indivs": "613000", 
+      "industry_code": "B02", 
+      "industry_name": "TV/Movies/Music", 
+      "pacs": "25500"
+    }, 
+    {
+      "total": "417650", 
+      "indivs": "404150", 
+      "industry_code": "F13", 
+      "industry_name": "Misc Finance", 
+      "pacs": "13500"
+    }, 
+    {
+      "total": "417485", 
+      "indivs": "412485", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "5000"
+    }, 
+    {
+      "total": "364876", 
+      "indivs": "328349", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "36527"
+    }, 
+    {
+      "total": "331650", 
+      "indivs": "147150", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "184500"
+    }, 
+    {
+      "total": "311600", 
+      "indivs": "204600", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "107000"
+    }, 
+    {
+      "total": "281281", 
+      "indivs": "276281", 
+      "industry_code": "W04", 
+      "industry_name": "Education", 
+      "pacs": "5000"
+    }
+  ], 
+  "N00001945": [
+    {
+      "total": "118061", 
+      "indivs": "2250", 
+      "industry_code": "H04", 
+      "industry_name": "Pharmaceuticals/Health Products", 
+      "pacs": "115811"
+    }, 
+    {
+      "total": "98900", 
+      "indivs": "62400", 
+      "industry_code": "D02", 
+      "industry_name": "Defense Electronics", 
+      "pacs": "36500"
+    }, 
+    {
+      "total": "77200", 
+      "indivs": "-2050", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "79250"
+    }, 
+    {
+      "total": "76212", 
+      "indivs": "69586", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "6626"
+    }, 
+    {
+      "total": "63950", 
+      "indivs": "19450", 
+      "industry_code": "D01", 
+      "industry_name": "Defense Aerospace", 
+      "pacs": "44500"
+    }, 
+    {
+      "total": "50350", 
+      "indivs": "12850", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "37500"
+    }, 
+    {
+      "total": "42700", 
+      "indivs": "7700", 
+      "industry_code": "D03", 
+      "industry_name": "Misc Defense", 
+      "pacs": "35000"
+    }, 
+    {
+      "total": "35000", 
+      "indivs": "11500", 
+      "industry_code": "M01", 
+      "industry_name": "Air Transport", 
+      "pacs": "23500"
+    }, 
+    {
+      "total": "33000", 
+      "indivs": "0", 
+      "industry_code": "P03", 
+      "industry_name": "Transportation Unions", 
+      "pacs": "33000"
+    }, 
+    {
+      "total": "27000", 
+      "indivs": "0", 
+      "industry_code": "P04", 
+      "industry_name": "Public Sector Unions", 
+      "pacs": "27000"
+    }
+  ], 
+  "N00000699": [
+    {
+      "total": "1464340", 
+      "indivs": "1284691", 
+      "industry_code": "K01", 
+      "industry_name": "Lawyers/Law Firms", 
+      "pacs": "179649"
+    }, 
+    {
+      "total": "901582", 
+      "indivs": "820317", 
+      "industry_code": "F10", 
+      "industry_name": "Real Estate", 
+      "pacs": "81265"
+    }, 
+    {
+      "total": "630960", 
+      "indivs": "529460", 
+      "industry_code": "H01", 
+      "industry_name": "Health Professionals", 
+      "pacs": "101500"
+    }, 
+    {
+      "total": "588251", 
+      "indivs": "485251", 
+      "industry_code": "F07", 
+      "industry_name": "Securities & Investment", 
+      "pacs": "103000"
+    }, 
+    {
+      "total": "493270", 
+      "indivs": "493270", 
+      "industry_code": "W06", 
+      "industry_name": "Retired", 
+      "pacs": "0"
+    }, 
+    {
+      "total": "411672", 
+      "indivs": "393812", 
+      "industry_code": "K02", 
+      "industry_name": "Lobbyists", 
+      "pacs": "17860"
+    }, 
+    {
+      "total": "348170", 
+      "indivs": "250070", 
+      "industry_code": "Q05", 
+      "industry_name": "Pro-Israel", 
+      "pacs": "98100"
+    }, 
+    {
+      "total": "336744", 
+      "indivs": "0", 
+      "industry_code": "Q03", 
+      "industry_name": "Leadership PACs", 
+      "pacs": "336744"
+    }, 
+    {
+      "total": "288650", 
+      "indivs": "163050", 
+      "industry_code": "F09", 
+      "industry_name": "Insurance", 
+      "pacs": "125600"
+    }, 
+    {
+      "total": "283100", 
+      "indivs": "258600", 
+      "industry_code": "N05", 
+      "industry_name": "Business Services", 
+      "pacs": "24500"
+    }
+  ]
+}
