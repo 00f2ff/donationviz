@@ -14,13 +14,23 @@
           <% include partials/dropdowns.ejs %>
           <!--<div class="row">-->
       <!--<div class="col-md-8"> -->
-          <h1><%= header %></h1>
+          <h1><%= header %> Contributions</h1>
           <div id="map">
             <% include partials/america.ejs %>
           <div id="tooltip" class="hidden">
               <h3 id="state"></h3>
-              <h5><a id="senator1" href="#"></a></h5>
-              <h5><a id="senator2" href="#"></a></h5>
+              <h5> <!-- figure out good way to connect to rep -->
+                <table class="table">
+                  <tr>
+                    <th>Individual</th>
+                    <th>PAC</th>
+                  </tr>
+                  <tr>
+                    <td id="indivs"></td>
+                    <td id="pac"></td>
+                  </tr>
+                </table>
+              </h5>
           </div>
       </div> <!-- map -->
       </div> 
@@ -34,38 +44,9 @@
     <script src="/js/typeahead_min.js"></script>
     <script src="/js/company_typeahead.js"></script>
     <script src="/js/senator_typeahead.js"></script>
-  <script>
-  $(function() {
-    var data = JSON.parse($('#data-holder').html())[0];
-    console.log(data);
-
-    function compareTotal(a,b) {
-      if (a.total < b.total)
-        return 1;
-      if (a.total > b.total)
-        return -1;
-      return 0;
-    }
-    function comparePAC(a,b) {
-      if (a.pac < b.pac)
-        return 1;
-      if (a.pac > b.pac)
-        return -1;
-      return 0;
-    }
-    function compareIndivs(a,b) {
-      if (a.indivs < b.indivs)
-        return 1;
-      if (a.indivs > b.indivs)
-        return -1;
-      return 0;
-    }
-
-    data.donations.sort(compareTotal); // didn't work?
-    console.log(data.donations);
-  })
-
-  </script>
+    <script src="/js/d3/d3.min.js"></script>
+    <script src="/js/statesAbbv.js"></script>
+    <script src="/js/organization.js"></script>
 
 </body>
 </html>
