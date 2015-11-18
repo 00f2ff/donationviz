@@ -49,9 +49,7 @@ def writeSenatorDataToDB():
 	result = collection.insert_many(senators)
 	print result.inserted_ids
 
-writeSenatorDataToDB()
-
-# writeSenContribsToIDFiles()
+# writeSenatorDataToDB()
 
 # Writes records in each senator's JSON file to the database as part of their document
 def readSenatorsInDB():
@@ -64,7 +62,6 @@ def readSenatorsInDB():
 			records = json.loads(j.read())["records"]
 			collection.update_one({"cid": cid}, { "$set": { "records": records } })
 
-# readSenatorsInDB()
 
 
 ############### Organizations ###############
@@ -79,6 +76,27 @@ def readOrganizations():
 		for o in records.keys():
 			collection.insert_one({'name': o, 'states': records[o]["states"], 'donations': records[o]["donations"]})
 
-readOrganizations()
+# readOrganizations()
+
+# Copies donations into state BSON to make map tooltips easier to process
+def copyDonations():
+	client = MongoClient()
+	db = client.test
+	collection = db.organizations
+	for org in collection.find():
+		print org
+		# break
+		# copy donations into state
+		for d in org["donations"]:
+			stateData = org["states"][d["state"]]
+			# print org["states"][state]
+			if "donation" in stateData.keys():
+				stateData["donation"].append(d)
+			else:
+				stateData["donation"] = [d]
+		collection.update_one({"name": org["name"]}, { "$set": { "states": org["states"] } } )
+		print org["states"]
+
+# copyDonations()
 
 
