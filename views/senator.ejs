@@ -5,7 +5,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body>
-<div id="data-holder" style="visibility:hidden;"><%= JSON.stringify(obj) %></div>
+<div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
 <script>
   $(function() {
     var data = JSON.parse($('#data-holder').html());

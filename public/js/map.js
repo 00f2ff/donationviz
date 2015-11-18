@@ -106,7 +106,7 @@ $(function() {
       $('#map svg g').css('opacity',0.6);
       $(this).css('opacity',1);
 
-      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].cid)
+      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name.substring(0,data[state][0].name.length-4))
                              .text(data[state][0].name);
       $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid)
                              .text(data[state][1].name);

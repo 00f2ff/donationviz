@@ -2,15 +2,39 @@
 <head>
     <meta charset="utf-8">
     <link href="/css/style.css" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
 </head>
 <body>
-<% include partials/america.ejs %>
-
-
-
-<div id="data-holder" style="visibility:hidden;"><%= JSON.stringify(obj) %></div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script>
+<div class="container">
+        <h1>Donation Viz</h1>
+        <div class="row">
+          <% include partials/dropdowns.ejs %>
+          <!--<div class="row">-->
+      <!--<div class="col-md-8"> -->
+          <h1><%= header %></h1>
+          <div id="map">
+            <% include partials/america.ejs %>
+          <div id="tooltip" class="hidden">
+              <h3 id="state"></h3>
+              <h5><a id="senator1" href="#"></a></h5>
+              <h5><a id="senator2" href="#"></a></h5>
+          </div>
+      </div> <!-- map -->
+      </div> 
+      <!--</div><!--col-->
+      <!--</div><!--row-->
+    </div>
+    <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script src="/js/typeahead_min.js"></script>
+    <script src="/js/company_typeahead.js"></script>
+    <script src="/js/senator_typeahead.js"></script>
+  <script>
   $(function() {
     var data = JSON.parse($('#data-holder').html())[0];
     console.log(data);
@@ -41,7 +65,7 @@
     console.log(data.donations);
   })
 
-</script>
+  </script>
 
 </body>
 </html>

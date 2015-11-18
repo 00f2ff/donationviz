@@ -2,8 +2,14 @@ var mongo = require('../models/mongo.js');
 
 // modify this to send title as well
 function findDocument(collection, query, template, res) {
+	var header;
+	if (query.first_name) {
+		header = query.first_name + ' ' + query.last_name;
+	} else {
+		header = query.name;
+	}
 	mongo.find(collection, query, function(doc) {
-		res.render(template, {obj: doc});
+		res.render(template, {obj: doc, header: header});
 	});
 }
 
