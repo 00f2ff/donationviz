@@ -15,7 +15,7 @@ exports.loadSenator = function(req, res) {
 		"last_name": fl[2]
 	}
 	console.log(query);
-	findDocument('senators', query, 'senator', res)
+	findDocument('senators', query, 'senator', res);
 }
 exports.loadOrganization = function(req, res) {
 	var query = {"name": req.params.encodedname}
