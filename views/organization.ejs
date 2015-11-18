@@ -1,10 +1,14 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="../public/css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body>
+<% include partials/america.ejs %>
+
+
+
 <div id="data-holder" style="visibility:hidden;"><%= JSON.stringify(obj) %></div>
 <script>
   $(function() {
