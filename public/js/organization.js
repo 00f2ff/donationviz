@@ -5,7 +5,6 @@ $(function() {
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max;
   for (var state in data.states) {
-    console.log(data.states[state]);
     if (!min) { // base case
       min = data.states[state].total;
       max = data.states[state].total;
@@ -34,25 +33,48 @@ $(function() {
       var xPosition = e.pageX - 30;
       var yPosition = e.pageY - 30;
 
+      // style
       $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
       var state = $(this).find('path').attr('id');
-      console.log(statesAbbv[state]);
-      $('#map svg g').css('opacity',0.6);
-      $(this).css('opacity',1);
+      // Only allow changes / tooltip if state is in data
+      if (data.states[state]) {
+        $('#map svg g').css('opacity',0.6);
+        $(this).css('opacity',1);
 
-      $('#tooltip #indivs').text('$'+data.states[state].indivs); // add commas
-      $('#tooltip #pac').text('$'+data.states[state].pac);
+        // populate table
+        console.log(data.states[state].donations);
+        var senator1 = data.states[state].donations[0],
+            senator2 = data.states[state].donations[1],
+            fullname;
+        if (senator1) {
+          console.log(senator1);
+          fullname = senator1.first_name+' '+senator1.last_name+' ('+senator1.party+')';
+          $('#tooltip #senator1 .name').attr('href', '/senator/'+fullname.substring(0,fullname.length-4))
+                               .text(fullname);
+          $('#tooltip #senator1 .indivs').text(senator1.indivs);
+          $('#tooltip #senator1 .pac').text(senator1.pac);
+          $('#tooltip #senator1 .total').text(senator1.total);
+        }
+        if (senator2) {
+          fullname = senator2.first_name+' '+senator2.last_name+' ('+senator2.party+')';
+          $('#tooltip #senator2 .name').attr('href', '/senator/'+fullname)
+                               .text(fullname);
+          $('#tooltip #senator2 .indivs').text(senator2.indivs);
+          $('#tooltip #senator2 .pac').text(senator2.pac);
+          $('#tooltip #senator2 .total').text(senator2.total);
+        }
 
-      $('#tooltip #state').text(statesAbbv[state]);
+        $('#tooltip #state').text(statesAbbv[state]);
 
-      if ($('#tooltip').hasClass('hidden')) { 
-        $('#tooltip').removeClass('hidden');
+        if ($('#tooltip').hasClass('hidden')) { 
+          $('#tooltip').removeClass('hidden');
+        }
+
+        $('#tooltip').on('mouseleave',function(){
+          $('svg g').css('opacity',1);
+          $("#tooltip").addClass('hidden');
+        });
       }
-
-      $('#tooltip').on('mouseleave',function(){
-        $('svg g').css('opacity',1);
-        $("#tooltip").addClass('hidden');
-      });
   });
 
 

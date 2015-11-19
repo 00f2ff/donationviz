@@ -48,7 +48,7 @@ $(function() {
 
       $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name.substring(0,data[state][0].name.length-4))
                              .text(data[state][0].name);
-      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].cid)
+      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].name.substring(0,data[state][1].name.length-4))
                              .text(data[state][1].name);
 
       $('#tooltip #state').text(statesAbbv[state]);
