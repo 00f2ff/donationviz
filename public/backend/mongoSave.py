@@ -3,12 +3,6 @@ import json
 import csv
 import urllib2
 
-# client = MongoClient() # default host
-
-# db = client.test
-# collection = db.senators
-
-
 # This is kind of convoluted, but since 114th.csv is incomplete:
 # Query stateSenators.json for cid
 # Find remainder of data in 114th.csv
@@ -49,9 +43,7 @@ def writeSenatorDataToDB():
 	# duplicate safety check
 	if collection.find().count() == 100: return
 	result = collection.insert_many(senators)
-	print result.inserted_ids
 
-# writeSenatorDataToDB()
 
 # Writes records in each senator's JSON file to the database as part of their document
 def readSenatorsInDB():
@@ -60,13 +52,10 @@ def readSenatorsInDB():
 	collection = client.test.senators
 
 	for cid in cids:
-		print cid
 		# print collection.find_one({"cid": ["cid"]})
 		with open("data/senatorContributions/{0}.json".format(cid), 'r') as j:
 			records = json.loads(j.read())["records"]
 			collection.update_one({"cid": cid}, { "$set": { "records": records } })
-
-readSenatorsInDB() #*** issues: can't find file; loading wrong senators?
 
 ############### Organizations ###############
 
@@ -82,15 +71,12 @@ def readOrganizations():
 		for o in records.keys():
 			collection.insert_one({'name': o, 'states': records[o]["states"], 'donations': records[o]["donations"]})
 
-# readOrganizations()
-
 # Copies donations into state BSON to make map tooltips easier to process
 def copyDonations():
 	client = MongoClient()
 	db = client.test
 	collection = db.organizations
 	for org in collection.find():
-		print org
 		# break
 		# copy donations into state
 		for d in org["donations"]:
@@ -101,8 +87,22 @@ def copyDonations():
 			else:
 				stateData["donations"] = [d]
 		collection.update_one({"name": org["name"]}, { "$set": { "states": org["states"] } } )
-		print org["states"]
 
-# copyDonations()
+# This drops collections and recreates them from files -- later: move senatorContributions to non-app
+def recreateDB():
+	client = MongoClient()
+	db = client.test
+	# Organizations
+	db.drop_collection('organizations')
+	readOrganizations()
+	copyDonations() # could refactor, but this format isn't set in stone yet
+	print "There are %d organizations" % (db.organizations.find().count())
+	# Senators
+	db.drop_collection('senators')
+	writeSenatorDataToDB()
+	readSenatorsInDB()
+	print "There are %d senators" % (db.senators.find().count())
+
+# recreateDB()
 
 
