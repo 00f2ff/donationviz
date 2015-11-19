@@ -49,7 +49,7 @@ def writeSenatorDataToDB():
 	result = collection.insert_many(senators)
 	print result.inserted_ids
 
-# writeSenatorDataToDB()
+writeSenatorDataToDB()
 
 # writeSenContribsToIDFiles()
 
@@ -79,6 +79,6 @@ def readOrganizations():
 		for o in records.keys():
 			collection.insert_one({'name': o, 'states': records[o]["states"], 'donations': records[o]["donations"]})
 
-# readOrganizations()
+readOrganizations()
 
 
