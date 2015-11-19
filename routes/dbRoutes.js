@@ -9,7 +9,6 @@ function findDocument(collection, query, template, res) {
 
 exports.loadSenator = function(req, res) {
 	var fl = req.params.name.split(' ');
-	console.log(fl);
 	var query = {
 		"first_name": ' '+fl[1], // db is meh
 		"last_name": fl[2]

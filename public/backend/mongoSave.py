@@ -49,9 +49,9 @@ def writeSenatorDataToDB():
 	result = collection.insert_many(senators)
 	print result.inserted_ids
 
-writeSenatorDataToDB()
+#writeSenatorDataToDB()
 
-# writeSenContribsToIDFiles()
+#writeSenContribsToIDFiles()
 
 # Writes records in each senator's JSON file to the database as part of their document
 def readSenatorsInDB():
@@ -64,7 +64,7 @@ def readSenatorsInDB():
 			records = json.loads(j.read())["records"]
 			collection.update_one({"cid": cid}, { "$set": { "records": records } })
 
-# readSenatorsInDB()
+readSenatorsInDB()
 
 
 ############### Organizations ###############
@@ -79,6 +79,6 @@ def readOrganizations():
 		for o in records.keys():
 			collection.insert_one({'name': o, 'states': records[o]["states"], 'donations': records[o]["donations"]})
 
-readOrganizations()
+#readOrganizations()
 
 
