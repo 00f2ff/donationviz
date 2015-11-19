@@ -1,43 +1,62 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="../public/css/style.css" rel="stylesheet">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link href="/css/style.css" rel="stylesheet">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
 </head>
 <body>
-<div id="data-holder" style="visibility:hidden;"><%= JSON.stringify(obj) %></div>
-<script>
-  $(function() {
-    var data = JSON.parse($('#data-holder').html())[0];
-    console.log(data);
-
-    function compareTotal(a,b) {
-      if (a.total < b.total)
-        return 1;
-      if (a.total > b.total)
-        return -1;
-      return 0;
-    }
-    function comparePAC(a,b) {
-      if (a.pac < b.pac)
-        return 1;
-      if (a.pac > b.pac)
-        return -1;
-      return 0;
-    }
-    function compareIndivs(a,b) {
-      if (a.indivs < b.indivs)
-        return 1;
-      if (a.indivs > b.indivs)
-        return -1;
-      return 0;
-    }
-
-    data.donations.sort(compareTotal); // didn't work?
-    console.log(data.donations);
-  })
-
-</script>
+<div class="container">
+        <h1>Donation Viz</h1>
+        <div class="row">
+          <% include partials/dropdowns.ejs %>
+          <!--<div class="row">-->
+      <!--<div class="col-md-8"> -->
+          <h1><%= header %> Contributions</h1>
+          <div id="map">
+            <% include partials/america.ejs %>
+          <div id="tooltip" class="hidden" style="width: 400px">
+              <h3 id="state"></h3>
+              <h5> <!-- figure out good way to connect to rep -->
+                <table class="table">
+                  <tr>
+                    <th>Senator</th>
+                    <th>Individual</th>
+                    <th>PAC</th>
+                    <th>Total</th>
+                  </tr>
+                  <tr id="senator1">
+                    <td><a href="#" class="name"></a></td>
+                    <td class="indivs"></td>
+                    <td class="pac"></td>
+                    <td class="total"></td>
+                  </tr>
+                  <tr id="senator2">
+                    <td><a href="#" class="name"></a></td>
+                    <td class="indivs"></td>
+                    <td class="pac"></td>
+                    <td class="total"></td>
+                  </tr>
+                </table>
+              </h5>
+          </div>
+      </div> <!-- map -->
+      </div> 
+      <!--</div><!--col-->
+      <!--</div><!--row-->
+    </div>
+    <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script src="/js/typeahead_min.js"></script>
+    <script src="/js/company_typeahead.js"></script>
+    <script src="/js/senator_typeahead.js"></script>
+    <script src="/js/d3/d3.min.js"></script>
+    <script src="/js/statesAbbv.js"></script>
+    <script src="/js/organization.js"></script>
 
 </body>
 </html>
