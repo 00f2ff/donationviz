@@ -46,6 +46,8 @@ def writeSenatorDataToDB():
 	client = MongoClient() # default host
 	db = client.test
 	collection = db.senators
+	# duplicate safety check
+	if collection.find().count() == 100: return
 	result = collection.insert_many(senators)
 	print result.inserted_ids
 
@@ -56,13 +58,15 @@ def readSenatorsInDB():
 	cids = findSenatorCIDs()
 	client = MongoClient()
 	collection = client.test.senators
+
 	for cid in cids:
-		# print collection.find_one({"cid": s["cid"]})
+		print cid
+		# print collection.find_one({"cid": ["cid"]})
 		with open("data/senatorContributions/{0}.json".format(cid), 'r') as j:
 			records = json.loads(j.read())["records"]
 			collection.update_one({"cid": cid}, { "$set": { "records": records } })
 
-
+readSenatorsInDB() #*** issues: can't find file; loading wrong senators?
 
 ############### Organizations ###############
 
@@ -71,6 +75,8 @@ def readOrganizations():
 	client = MongoClient() # default host
 	db = client.test
 	collection = db.organizations
+	# duplicate safety check
+	if collection.find().count() == 2870: return
 	with open("data/organizations.json", 'r') as j:
 		records = json.loads(j.read())["organizations"]
 		for o in records.keys():
@@ -90,10 +96,10 @@ def copyDonations():
 		for d in org["donations"]:
 			stateData = org["states"][d["state"]]
 			# print org["states"][state]
-			if "donation" in stateData.keys():
-				stateData["donation"].append(d)
+			if "donations" in stateData.keys():
+				stateData["donations"].append(d)
 			else:
-				stateData["donation"] = [d]
+				stateData["donations"] = [d]
 		collection.update_one({"name": org["name"]}, { "$set": { "states": org["states"] } } )
 		print org["states"]
 
