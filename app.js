@@ -18,7 +18,7 @@ app.use(express.static(__dirname + '/public'));
 app.get('/', function(req, res) { res.render('index', {'header': 'Senators by State'}); });
 // My assumption is that companies don't have the same name since I don't have a good identifier
 // Using senator names for simplicity
-app.get('/senator/:name', dbRoutes.loadSenator);
+app.get('/senator/:cid', dbRoutes.loadSenator);
 app.get('/organization/:encodedname', dbRoutes.loadOrganization);
 
 

@@ -2,24 +2,19 @@ var mongo = require('../models/mongo.js');
 
 // modify this to send title as well
 function findDocument(collection, query, template, res) {
-	var header;
-	if (query.first_name) {
-		header = query.first_name + ' ' + query.last_name;
-	} else {
-		header = query.name;
-	}
 	mongo.find(collection, query, function(doc) {
+		var header;
+		if (query.cid) {
+			header = doc[0].first_name + ' ' + doc[0].last_name;
+		} else {
+			header = query.name;
+		}
 		res.render(template, {obj: doc, header: header});
 	});
 }
 
 exports.loadSenator = function(req, res) {
-	var fl = req.params.name.split(' ');
-	var query = {
-		"first_name": ' '+fl[1], // db is meh
-		"last_name": fl[2]
-	}
-	console.log(query);
+	var query = {"cid": req.params.cid}
 	findDocument('senators', query, 'senator', res);
 }
 exports.loadOrganization = function(req, res) {

@@ -1,17 +1,18 @@
 // call when senator map isn't called
 $(function() {
 	$.getJSON("../backend/data/stateSenators.json", function(data){
-		var senators = [];
+		var senators = {};
 		for (var state in data) {
 			for (var sen in data[state]) {
-				senators.push(data[state][sen].name);
+				// console.log(data[state][sen].cid)
+				senators[data[state][sen].name] = data[state][sen].cid;
 			}
 		}
 	 	$("#senatorList").typeahead({ 
 	 		items: 'all', 
-		    source: senators, 
+		    source: Object.keys(senators), 
 		    updater: function(item) {
-		      window.location.href = '/senator/'+item.substring(0,item.length-4);
+		      window.location.href = '/senator/'+senators[item];
 		    } 
 	 	});
 	});

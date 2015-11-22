@@ -6,7 +6,7 @@
 */
 $(function() {
   $.getJSON("../backend/data/stateSenators.json", function(data){
-    var senators = [];
+    var senators = {};
     for (var state in data) {    
       //for map
       var senator1=data[state][0].name;
@@ -33,8 +33,8 @@ $(function() {
         $("#"+state).next().css('fill',color);
       }
       //for auto complete 
-      senators.push(senator1);
-      senators.push(senator2);
+      senators[senator1] = data[state][0].cid;
+      senators[senator2] = data[state][1].cid;
     }
     $('svg g').click(function (e) {
       var xPosition = e.pageX - 30;
@@ -46,9 +46,9 @@ $(function() {
       $('#map svg g').css('opacity',0.6);
       $(this).css('opacity',1);
 
-      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name.substring(0,data[state][0].name.length-4))
+      $('#tooltip #senator1').attr('href', '/senator/'+senators[data[state][0].name])
                              .text(data[state][0].name);
-      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].name.substring(0,data[state][1].name.length-4))
+      $('#tooltip #senator2').attr('href', '/senator/'+senators[data[state][1].name])
                              .text(data[state][1].name);
 
       $('#tooltip #state').text(statesAbbv[state]);
@@ -65,9 +65,9 @@ $(function() {
 
     $("#senatorList").typeahead({ 
       items: 'all', 
-      source: senators, 
+      source: Object.keys(senators), 
       updater: function(item) {
-        window.location.href = '/senator/'+item.substring(0,item.length-4);
+        window.location.href = '/senator/'+senators[item];
       } 
     });
 
