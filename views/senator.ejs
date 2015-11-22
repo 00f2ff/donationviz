@@ -12,8 +12,6 @@
         <h1>Donation Viz</h1>
         <div class="row">
           <% include partials/dropdowns.ejs %>
-
-
       </div> 
       <div class="row">
       <div class="col-md-3">
@@ -22,7 +20,13 @@
       <div class="col-md-4">
        <h1>Sen. <%= header %></h1>
        <h3 id="breif"></h3>
-		</div>
+	 </div>
+	  <div class="col-md-5">
+       <h1>Top 5 contributor</h1>
+       <ul id="topContributor">
+       	
+       </ul>
+	 </div>
       </div><!--row-->
     </div>
     <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
