@@ -104,5 +104,3 @@ def copyDonations():
 		print org["states"]
 
 # copyDonations()
-
-
