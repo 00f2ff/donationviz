@@ -17,7 +17,7 @@ app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(req, res) { res.render('index', {'header': 'Senators by State'}); });
 // app.get('/senator/:id', sqlRoutes.loadSenator);
-// app.get('/organization/:id', sqlRoutes.loadOrganization);
+app.get('/organization/:name', sqlRoutes.loadOrganization);
 app.get('/:table', sqlRoutes.findAll);
 
 // Catch any routes not already handed with an error message

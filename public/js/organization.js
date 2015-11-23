@@ -1,5 +1,6 @@
 $(function() {
   var data = JSON.parse($('#data-holder').html())[0];
+  console.log(data);
   // console.log(data);
 
   // right now this is post-processed, but it should be pre-processed, or done with a database call

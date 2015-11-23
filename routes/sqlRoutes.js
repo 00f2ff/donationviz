@@ -17,7 +17,10 @@ exports.findAll = function(req, res) {
 }
 
 exports.loadOrganization = function(req, res) {
-
+  sqlClient.findOrganization(req.params.name, function(data) {
+    var header = req.params.name.replace(/\'\'/g,"\'");
+    res.render('organization', {obj: data, header: header});
+  });
 }
 
 exports.loadSenator = function(req, res) {
