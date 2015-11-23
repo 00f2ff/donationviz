@@ -34,15 +34,8 @@ def findSenatorData():
 				senators.append(candidate)
 	return senators
 
-#### Completed
-def writeSenatorDataToDB():
-	senators = findSenatorData()
-	client = MongoClient() # default host
-	db = client.test
-	collection = db.senators
-	# duplicate safety check
-	if collection.find().count() == 100: return
-	result = collection.insert_many(senators)
+
+
 
 
 # Writes records in each senator's JSON file to the database as part of their document
@@ -55,7 +48,20 @@ def readSenatorsInDB():
 		# print collection.find_one({"cid": ["cid"]})
 		with open("data/senatorContributions/{0}.json".format(cid), 'r') as j:
 			records = json.loads(j.read())["records"]
-			collection.update_one({"cid": cid}, { "$set": { "records": records } })
+			collection.update_one({"cid": cid}, { "$set": { "donations": records } })
+
+#### Completed
+def writeSenatorDataToDB():
+	db.drop_collection('senators')
+	senators = findSenatorData()
+	client = MongoClient() # default host
+	db = client.test
+	collection = db.senators
+	# duplicate safety check
+	# if collection.find().count() == 100: return
+	result = collection.insert_many(senators)
+	# update with donations
+	readSenatorsInDB()
 
 ############### Organizations ###############
 
