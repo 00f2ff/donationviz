@@ -6,12 +6,11 @@
 */
 $(function() {
   $.getJSON("../backend/data/stateSenators.json", function(data){
+    console.log(data);
     var senators = [];
     for (var state in data) {    
       //for map
-      var senator1=data[state][0].name;
-      var senator2=data[state][1].name;
-      var party=senator1.charAt(senator1.length-2)+senator2.charAt(senator2.length-2);
+      var party= data[state][0].party+data[state][1].party;
       var color;
       if(party==="RR"){
         color="#F44336";
@@ -33,8 +32,8 @@ $(function() {
         $("#"+state).next().css('fill',color);
       }
       //for auto complete 
-      senators.push(senator1);
-      senators.push(senator2);
+      senators.push(data[state][0].name);
+      senators.push(data[state][1].name);
     }
     $('svg g').click(function (e) {
       var xPosition = e.pageX - 30;
@@ -46,9 +45,9 @@ $(function() {
       $('#map svg g').css('opacity',0.6);
       $(this).css('opacity',1);
 
-      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name.substring(0,data[state][0].name.length-4))
+      $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name)
                              .text(data[state][0].name);
-      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].name.substring(0,data[state][1].name.length-4))
+      $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].name)
                              .text(data[state][1].name);
 
       $('#tooltip #state').text(statesAbbv[state]);
@@ -67,7 +66,7 @@ $(function() {
       items: 'all', 
       source: senators, 
       updater: function(item) {
-        window.location.href = '/senator/'+item.substring(0,item.length-4);
+        window.location.href = '/senator/'+item;
       } 
     });
 
