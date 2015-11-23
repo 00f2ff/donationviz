@@ -105,7 +105,7 @@ def findSenatorsAsDict():
 				senators[row[0]] = candidate
 	return senators
 
-
+# senContribAll is flawed
 def writeOrganizationDataToFile():
 	senators = findSenatorsAsDict()
 	organizations = {}
@@ -142,7 +142,7 @@ def writeOrganizationDataToFile():
 			orgs = str(json.dumps(orgs, indent=2))
 			orgf.write(orgs)
 
-
+# organizations.json is flawed
 def findOrgNames():
 	with open("data/organizations.json", "r") as f:
 		data = json.loads(f.read())["organizations"]
