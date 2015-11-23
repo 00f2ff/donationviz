@@ -1,6 +1,5 @@
 $(function() {
   var data = JSON.parse($('#data-holder').html())[0]; // the database is flawed -- repeated senators
-  // console.log(data);
 
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max;
@@ -40,29 +39,25 @@ $(function() {
       if (data.states[state]) {
         $('#map svg g').css('opacity',0.6);
         $(this).css('opacity',1);
-
         // populate table
-        var senator1 = data.states[state].donations[0],
-            senator2 = data.states[state].donations[1],
+        var donation1 = data.states[state].donations[0],
+            donation2 = data.states[state].donations[1],
             fullname;
-        console.log(data.states[state].donations)
-        if (senator1) {
-          console.log(senator1);
-          fullname = senator1.first_name+' '+senator1.last_name+' ('+senator1.party+')';
-          $('#tooltip #senator1 .name').attr('href', '/senator/'+fullname.substring(0,fullname.length-4))
+        if (donation1) {
+          fullname = donation1.senator.name+' ('+donation1.senator.party+')';
+          $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
                                .text(fullname);
-          $('#tooltip #senator1 .indivs').text(senator1.indivs);
-          $('#tooltip #senator1 .pac').text(senator1.pac);
-          $('#tooltip #senator1 .total').text(senator1.total);
+          $('#tooltip #senator1 .indivs').text(donation1.individual);
+          $('#tooltip #senator1 .pac').text(donation1.pac);
+          $('#tooltip #senator1 .total').text(donation1.total);
         }
-        if (senator2) {
-          console.log(senator2)
-          fullname = senator2.first_name+' '+senator2.last_name+' ('+senator2.party+')';
-          $('#tooltip #senator2 .name').attr('href', '/senator/'+fullname)
+        if (donation2) {
+          fullname = donation2.senator.name+' ('+donation2.senator.party+')';
+          $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
                                .text(fullname);
-          $('#tooltip #senator2 .indivs').text(senator2.indivs);
-          $('#tooltip #senator2 .pac').text(senator2.pac);
-          $('#tooltip #senator2 .total').text(senator2.total);
+          $('#tooltip #senator2 .indivs').text(donation2.individual);
+          $('#tooltip #senator2 .pac').text(donation2.pac);
+          $('#tooltip #senator2 .total').text(donation2.total);
         }
 
         $('#tooltip #state').text(statesAbbv[state]);
