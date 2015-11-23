@@ -3,6 +3,7 @@ var mongo = require('../models/mongo.js');
 // modify this to send title as well
 function findDocument(collection, query, template, res) {
 	mongo.find(collection, query, function(doc) {
+		console.log(doc);
 		res.render(template, {obj: doc, header: query.name});
 	});
 }
