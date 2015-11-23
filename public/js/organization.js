@@ -1,5 +1,5 @@
 $(function() {
-  var data = JSON.parse($('#data-holder').html())[0];
+  var data = JSON.parse($('#data-holder').html())[0]; // the database is flawed -- repeated senators
   // console.log(data);
 
   // right now this is post-processed, but it should be pre-processed, or done with a database call
@@ -42,10 +42,10 @@ $(function() {
         $(this).css('opacity',1);
 
         // populate table
-        console.log(data.states[state].donations);
         var senator1 = data.states[state].donations[0],
             senator2 = data.states[state].donations[1],
             fullname;
+        console.log(data.states[state].donations)
         if (senator1) {
           console.log(senator1);
           fullname = senator1.first_name+' '+senator1.last_name+' ('+senator1.party+')';
@@ -56,6 +56,7 @@ $(function() {
           $('#tooltip #senator1 .total').text(senator1.total);
         }
         if (senator2) {
+          console.log(senator2)
           fullname = senator2.first_name+' '+senator2.last_name+' ('+senator2.party+')';
           $('#tooltip #senator2 .name').attr('href', '/senator/'+fullname)
                                .text(fullname);
