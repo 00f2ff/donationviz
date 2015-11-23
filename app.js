@@ -1,6 +1,6 @@
 var express = require("express");
 var morgan = require('morgan');
-var dbRoutes = require('./routes/dbRoutes');
+var sqlRoutes = require('./routes/sqlRoutes');
 
 var app = express();
 
@@ -16,15 +16,12 @@ app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(req, res) { res.render('index', {'header': 'Senators by State'}); });
-// My assumption is that companies don't have the same name since I don't have a good identifier
-// Using senator names for simplicity
-app.get('/senator/:cid', dbRoutes.loadSenator);
-app.get('/organization/:encodedname', dbRoutes.loadOrganization);
-
+// app.get('/senator/:id', sqlRoutes.loadSenator);
+// app.get('/organization/:id', sqlRoutes.loadOrganization);
+app.get('/:table', sqlRoutes.findAll);
 
 // Catch any routes not already handed with an error message
-app.use(dbRoutes.errorMessage);
-
+app.use(sqlRoutes.errorMessage);
 
 app.listen(50000);
 console.log("Server listening at http://localhost:50000/");

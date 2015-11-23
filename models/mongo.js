@@ -16,7 +16,7 @@ mongoClient.connect(url, function(err, db) {
 });
 
 // FIND
-exports.find = function(collection, query, callback) { // what does crsr stand for?
+exports.find = function(collection, query, callback) { // crsr = cursor
   var crsr = mongoDB.collection(collection).find(query);
   crsr.toArray(function(err, docs) {
     if (err) doError(err);

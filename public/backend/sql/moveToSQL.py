@@ -1,6 +1,8 @@
 import MySQLdb as mdb
 import sys, json, csv
 
+# For config, refer to beginning of this post: http://zetcode.com/db/mysqlpython/
+
 def findSenatorCIDs():
 	cids = []
 	with open('../data/stateSenators.json', 'r') as j:
@@ -37,7 +39,7 @@ def insertSenators():
 		# drop old table in case this is called to refresh db
 		cur.execute("DROP TABLE IF EXISTS Senators") # if terminal throws an error, comment out this line, run it again, then uncomment and run again
 		# create senators table
-		cur.execute("CREATE TABLE Senators(Id INT PRIMARY KEY AUTO_INCREMENT, \
+		cur.execute("CREATE TABLE Senators(id INT PRIMARY KEY AUTO_INCREMENT, \
 		             cid VARCHAR(20), name VARCHAR(100), party VARCHAR(20), \
 		             state VARCHAR(20), class VARCHAR(20), fec_id VARCHAR(20))")
 		# loop through senators
@@ -62,7 +64,7 @@ def insertOrganizations():
 		# drop old table in case this is called to refresh db
 		cur.execute("DROP TABLE IF EXISTS Organizations") # if terminal throws an error, comment out this line, run it again, then uncomment and run again
 		# create organizations table
-		cur.execute("CREATE TABLE Organizations(Id INT PRIMARY KEY AUTO_INCREMENT, \
+		cur.execute("CREATE TABLE Organizations(id INT PRIMARY KEY AUTO_INCREMENT, \
 		             name VARCHAR(100), industry_id VARCHAR(100))") # decide if I want this to be a varchar or int
 		# loop through organizations
 		organizations = findOrganizationData()
@@ -88,7 +90,7 @@ def insertDonations():
 		# drop old table in case this is called to refresh db
 		cur.execute("DROP TABLE IF EXISTS Donations") # if terminal throws an error, comment out this line, run it again, then uncomment and run again
 		# create donations table
-		cur.execute("CREATE TABLE Donations(Id INT PRIMARY KEY AUTO_INCREMENT, \
+		cur.execute("CREATE TABLE Donations(id INT PRIMARY KEY AUTO_INCREMENT, \
 					total INT, pac INT, individual INT, senator_id INT, organization_id INT)") # cycle is all 2016
 		# loop through cids, ignoring response dicts
 		senatorDonationArray = findDonationData()
@@ -127,11 +129,29 @@ def insertDonations():
 							args = (int(donation["totals"]), int(donation["pac"]), int(donation["indivs"]), int(senator_id), int(organization_id))
 							cur.execute(query, args)
 
+def updateOrgNames():
+	# host, username, password, db
+	con = mdb.connect('localhost', 'testuser', 'test', 'testdb');
+	# automatically provides error handling
+	with con: 
+		cur = con.cursor(mdb.cursors.DictCursor) # use DictCursor to clarify results
+		cur.execute("SELECT name FROM Organizations")
+		organizations = cur.fetchall()
+		with open("../data/orgNames.json", "w") as f:
+			data = {"organizations":[]}
+			for o in organizations:
+				data["organizations"].append(o["name"].replace("''","'")) # reverse replacement for legibility
+			data = str(json.dumps(data, indent=2))
+			f.write(data)
+
 
 # This takes a while, but will drop and reload all tables
 # If this halts because it can't recognize a table name, find the drop line for the method and comment / uncomment
 # and rerun until it works. Previously run tables don't need to be reloaded
 def createDatabase():
-	insertSenators()
-	insertOrganizations()
-	insertDonations()
+	# insertSenators()
+	# insertOrganizations()
+	# insertDonations()
+	updateOrgNames() # this doesn't populate the database, but it does populate the orgNames.json file properly
+
+createDatabase()
