@@ -50,6 +50,7 @@ def writeStateSenatorsToFile():
 		f.write(data)
 
 # Adds by-state information to organizations.json
+# No longer references orgNames.json, as it somehow contains more organizations than are present in our 100 cid files
 def writeOrganizations():
 	senators = findSenatorData()
 	organizations = {}
