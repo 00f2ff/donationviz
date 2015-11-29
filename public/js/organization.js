@@ -1,6 +1,5 @@
 $(function() {
-  var data = JSON.parse($('#data-holder').html())[0];
-  // console.log(data);
+  var data = JSON.parse($('#data-holder').html())[0]; // the database is flawed -- repeated senators
 
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max;
@@ -14,7 +13,6 @@ $(function() {
       max = data.states[state].total;
     }
   }
-  console.log(min, max);
 
   // right now this styling is done in js; it should move to CSS for non-index files
   $('svg .state').css('fill','#D8D8D8')
@@ -40,28 +38,25 @@ $(function() {
       if (data.states[state]) {
         $('#map svg g').css('opacity',0.6);
         $(this).css('opacity',1);
-
         // populate table
-        console.log(data.states[state].donations);
-        var senator1 = data.states[state].donations[0],
-            senator2 = data.states[state].donations[1],
+        var donation1 = data.states[state].donations[0],
+            donation2 = data.states[state].donations[1],
             fullname;
-        if (senator1) {
-          console.log(senator1);
-          fullname = senator1.first_name+' '+senator1.last_name+' ('+senator1.party+')';
-          $('#tooltip #senator1 .name').attr('href', '/senator/'+fullname.substring(0,fullname.length-4))
+        if (donation1) {
+          fullname = donation1.senator.name+' ('+donation1.senator.party+')';
+          $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
                                .text(fullname);
-          $('#tooltip #senator1 .indivs').text(senator1.indivs);
-          $('#tooltip #senator1 .pac').text(senator1.pac);
-          $('#tooltip #senator1 .total').text(senator1.total);
+          $('#tooltip #senator1 .indivs').text(donation1.individual);
+          $('#tooltip #senator1 .pac').text(donation1.pac);
+          $('#tooltip #senator1 .total').text(donation1.total);
         }
-        if (senator2) {
-          fullname = senator2.first_name+' '+senator2.last_name+' ('+senator2.party+')';
-          $('#tooltip #senator2 .name').attr('href', '/senator/'+fullname)
+        if (donation2) {
+          fullname = donation2.senator.name+' ('+donation2.senator.party+')';
+          $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
                                .text(fullname);
-          $('#tooltip #senator2 .indivs').text(senator2.indivs);
-          $('#tooltip #senator2 .pac').text(senator2.pac);
-          $('#tooltip #senator2 .total').text(senator2.total);
+          $('#tooltip #senator2 .indivs').text(donation2.individual);
+          $('#tooltip #senator2 .pac').text(donation2.pac);
+          $('#tooltip #senator2 .total').text(donation2.total);
         }
 
         $('#tooltip #state').text(statesAbbv[state]);
@@ -76,6 +71,88 @@ $(function() {
         });
       }
   });
+
+  /* PIE CHARTS 
+   * Broken down by source and party
+   */
+
+  function aggregateData() { // refactored to add some to minmax fxn?
+    var result = {PAC: 0, Individual: 0, Total: 0, Democrat: 0, Republican: 0, Independent: 0}
+    for (var state in data.states) {
+      var stateDonation = data.states[state];
+      // by state
+      result.PAC += stateDonation.pac;
+      result.Individual += stateDonation.individual;
+      result.Total += stateDonation.total;
+      // by party
+      for (var i = 0; i < stateDonation.donations.length; i++) {
+        var senatorDonation = stateDonation.donations[i];
+        var party = senatorDonation.senator.party;
+        if (party === 'R') {
+          result.Republican += senatorDonation.total;
+        } else if (party === 'D') {
+          result.Democrat += senatorDonation.total;
+        } else if (party === 'I') {
+          result.Independent += senatorDonation.total;
+        }
+      }
+    }
+    return result;
+  }
+  var totals = aggregateData();
+
+  function drawPieChart(totals, breakdown) { 
+    var color = {},
+        pieData;
+    if (breakdown === 'source') {
+      color.PAC = "#fde0dd";
+      color.Individual = "#c51b8a";
+      pieData = [{name: "PAC", value: totals.PAC}, {name: "Individual", value: totals.Individual}];
+    } else if (breakdown === 'party') {
+      color.Democrat = 'rgb(33, 150, 243)';
+      color.Republican = 'rgb(244, 67, 54)';
+      color.Independent = '#ffffbf';
+      pieData = [{name: "Democrat", value: totals.Democrat}, {name: "Republican", value: totals.Republican}, {name: "Independent", value: totals.Independent}];
+    }
+
+    var width = 400,
+      height = 400,
+      radius = Math.min(width, height) / 2;
+
+    var arc = d3.svg.arc()
+      .outerRadius(radius - 10)
+      .innerRadius(0);
+
+    var pie = d3.layout.pie()
+      .sort(null)
+      .value(function(d) { return d.value; });
+
+    var svg = d3.select("body").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+    .append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+
+    var g = svg.selectAll(".arc")
+      .data(pie(pieData))
+    .enter().append("g")
+      .attr("class", "arc");
+
+    g.append("path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color[d.data.name]; });
+
+    g.append("text")
+      .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; })
+      .attr("dy", ".35em")
+      .style("text-anchor", "middle")
+      .text(function(d) { if (d.value > 0) return d.value; });
+
+  }
+
+  drawPieChart(totals, 'source');
+  drawPieChart(totals, 'party');
 
 
 
