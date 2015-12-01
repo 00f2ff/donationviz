@@ -2,7 +2,9 @@
 
     var data = JSON.parse($('#data-holder').html());
     //portrait
-    var namequery= data[0].first_name +"+" +data[0].last_name +"+" +"official" + "+" +"photo";
+    console.log(data[0]);
+    console.log(data[0].name.replace(/ /,"+"));
+    var namequery= data[0].name.replace(/ /,"+") +"+" +"official" + "+" +"photo";
     var photoQuery="https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q="+namequery+"&imgsz=medium&rsz=1&callback=?";
     $.getJSON(photoQuery, function(data){
     	$("#portrait").attr("src", data.responseData.results[0].unescapedUrl)    	
@@ -26,10 +28,10 @@
 
   //Top Contributors
   for(var i =0;i<5;i++){
-  	var orgName=data[0].records[i].organization;
-  	var total=data[0].records[i].totals;
-  	var individul=data[0].records[i].indivs;
-  	var pac =data[0].records[i].pac;
-  	$("#topContributor").append("<div>"+orgName +" <b>Total $ "+total+"</b>"+"<br>Pac: "+pac+" Individul "+individul + "</div>");
+  	var orgName=data[0].donations[i].organization;
+  	var total=data[0].donations[i].total;
+  	var individual=data[0].donations[i].individual;
+  	var pac =data[0].donations[i].pac;
+  	$("#topContributor").append("<div>"+orgName +" <b>Total $ "+total+"</b>"+"<br>Pac: "+pac+" Individual "+individual + "</div>");
   }
 });

@@ -2,28 +2,17 @@ var mongo = require('../models/mongo.js');
 
 // modify this to send title as well
 function findDocument(collection, query, template, res) {
-	var header;
-	if (query.first_name) {
-		header = query.first_name + ' ' + query.last_name;
-	} else {
-		header = query.name;
-	}
 	mongo.find(collection, query, function(doc) {
-		res.render(template, {obj: doc, header: header});
+		res.render(template, {obj: doc, header: query.name});
 	});
 }
 
-exports.loadSenator = function(req, res) {
-	var fl = req.params.name.split(' ');
-	var query = {
-		"first_name": ' '+fl[1], // db is meh
-		"last_name": fl[2]
-	}
-	console.log(query);
+exports.loadSenator = function(req, res) { // can refactor this now to use a switch or conditional
+	var query = {name: req.params.name}
 	findDocument('senators', query, 'senator', res);
 }
 exports.loadOrganization = function(req, res) {
-	var query = {"name": req.params.encodedname}
+	var query = {"name": req.params.name}
 	findDocument('organizations', query, 'organization', res);
 }
 

@@ -1,601 +1,701 @@
 {
   "WA": [
     {
+      "party": "D", 
       "state": "WA", 
-      "name": " Maria Cantwell (D)", 
+      "name": "Maria Cantwell", 
       "cid": "N00007836"
     }, 
     {
+      "party": "D", 
       "state": "WA", 
-      "name": " Patty Murray (D)", 
+      "name": "Patty Murray", 
       "cid": "N00007876"
     }
   ], 
   "DE": [
     {
+      "party": "D", 
       "state": "DE", 
-      "name": " Tom Carper (D)", 
+      "name": "Tom Carper", 
       "cid": "N00012508"
     }, 
     {
+      "party": "D", 
       "state": "DE", 
-      "name": " Chris Coons (D)", 
+      "name": "Chris Coons", 
       "cid": "N00031820"
     }
   ], 
   "WI": [
     {
+      "party": "D", 
       "state": "WI", 
-      "name": " Tammy Baldwin (D)", 
+      "name": "Tammy Baldwin", 
       "cid": "N00004367"
     }, 
     {
+      "party": "R", 
       "state": "WI", 
-      "name": " Ron Johnson (R)", 
+      "name": "Ron Johnson", 
       "cid": "N00032546"
     }
   ], 
   "WV": [
     {
+      "party": "R", 
       "state": "WV", 
-      "name": " Shelley Moore Capito (R)", 
+      "name": "Shelley Moore Capito", 
       "cid": "N00009771"
     }, 
     {
+      "party": "D", 
       "state": "WV", 
-      "name": " Joe Manchin (D)", 
+      "name": "Joe Manchin", 
       "cid": "N00032838"
     }
   ], 
   "HI": [
     {
+      "party": "D", 
       "state": "HI", 
-      "name": " Mazie K Hirono (D)", 
+      "name": "Mazie K Hirono", 
       "cid": "N00028139"
     }, 
     {
+      "party": "D", 
       "state": "HI", 
-      "name": " Brian Schatz (D)", 
+      "name": "Brian Schatz", 
       "cid": "N00028138"
     }
   ], 
   "FL": [
     {
+      "party": "D", 
       "state": "FL", 
-      "name": " Marco Rubio (R)", 
-      "cid": "N00030612"
+      "name": "Bill Nelson", 
+      "cid": "N00009926"
     }, 
     {
+      "party": "R", 
       "state": "FL", 
-      "name": " Bill Nelson (D)", 
-      "cid": "N00009926"
+      "name": "Marco Rubio", 
+      "cid": "N00030612"
     }
   ], 
   "WY": [
     {
+      "party": "R", 
       "state": "WY", 
-      "name": " John A Barrasso (R)", 
+      "name": "John A Barrasso", 
       "cid": "N00006236"
     }, 
     {
+      "party": "R", 
       "state": "WY", 
-      "name": " Mike Enzi (R)", 
+      "name": "Mike Enzi", 
       "cid": "N00006249"
     }
   ], 
   "NH": [
     {
+      "party": "R", 
       "state": "NH", 
-      "name": " Kelly Ayotte (R)", 
+      "name": "Kelly Ayotte", 
       "cid": "N00030980"
     }, 
     {
+      "party": "D", 
       "state": "NH", 
-      "name": " Jeanne Shaheen (D)", 
+      "name": "Jeanne Shaheen", 
       "cid": "N00024790"
     }
   ], 
   "NJ": [
     {
+      "party": "D", 
       "state": "NJ", 
-      "name": " Cory Booker (D)", 
+      "name": "Cory Booker", 
       "cid": "N00035267"
     }, 
     {
+      "party": "D", 
       "state": "NJ", 
-      "name": " Robert Menendez (D)", 
+      "name": "Robert Menendez", 
       "cid": "N00000699"
     }
   ], 
   "NM": [
     {
+      "party": "D", 
       "state": "NM", 
-      "name": " Martin Heinrich (D)", 
+      "name": "Martin Heinrich", 
       "cid": "N00029835"
     }, 
     {
+      "party": "D", 
       "state": "NM", 
-      "name": " Tom Udall (D)", 
+      "name": "Tom Udall", 
       "cid": "N00006561"
     }
   ], 
   "TX": [
     {
+      "party": "R", 
       "state": "TX", 
-      "name": " John Cornyn (R)", 
+      "name": "John Cornyn", 
       "cid": "N00024852"
-    },
-       {
+    }, 
+    {
+      "party": "R", 
       "state": "TX", 
-      "name": " Ted Cruz (R)", 
+      "name": "Ted Cruz", 
       "cid": "N00033085"
     }
   ], 
   "LA": [
     {
+      "party": "R", 
       "state": "LA", 
-      "name": " Bill Cassidy (R)", 
+      "name": "Bill Cassidy", 
       "cid": "N00030245"
     }, 
     {
+      "party": "R", 
       "state": "LA", 
-      "name": " David Vitter (R)", 
+      "name": "David Vitter", 
       "cid": "N00009659"
     }
   ], 
   "NC": [
     {
+      "party": "R", 
       "state": "NC", 
-      "name": " Richard Burr (R)", 
+      "name": "Richard Burr", 
       "cid": "N00002221"
     }, 
     {
+      "party": "R", 
       "state": "NC", 
-      "name": " Thom Tillis (R)", 
+      "name": "Thom Tillis", 
       "cid": "N00035492"
     }
   ], 
   "ND": [
     {
+      "party": "D", 
       "state": "ND", 
-      "name": " Heidi Heitkamp (D)", 
+      "name": "Heidi Heitkamp", 
       "cid": "N00033782"
     }, 
     {
+      "party": "R", 
       "state": "ND", 
-      "name": " John Hoeven (R)", 
+      "name": "John Hoeven", 
       "cid": "N00031688"
     }
   ], 
   "NE": [
     {
+      "party": "R", 
       "state": "NE", 
-      "name": " Deb Fischer (R)", 
+      "name": "Deb Fischer", 
       "cid": "N00033443"
     }, 
     {
+      "party": "R", 
       "state": "NE", 
-      "name": " Ben Sasse (R)", 
+      "name": "Ben Sasse", 
       "cid": "N00035544"
     }
   ], 
   "TN": [
     {
+      "party": "R", 
       "state": "TN", 
-      "name": " Lamar Alexander (R)", 
+      "name": "Lamar Alexander", 
       "cid": "N00009888"
     }, 
     {
+      "party": "R", 
       "state": "TN", 
-      "name": " Bob Corker (R)", 
+      "name": "Bob Corker", 
       "cid": "N00027441"
     }
   ], 
   "NY": [
     {
+      "party": "D", 
       "state": "NY", 
-      "name": " Kirsten Gillibrand (D)", 
+      "name": "Kirsten Gillibrand", 
       "cid": "N00027658"
     }, 
     {
+      "party": "D", 
       "state": "NY", 
-      "name": " Charles E Schumer (D)", 
+      "name": "Charles E Schumer", 
       "cid": "N00001093"
     }
   ], 
   "PA": [
     {
+      "party": "D", 
       "state": "PA", 
-      "name": " Bob Casey (D)", 
+      "name": "Bob Casey", 
       "cid": "N00027503"
     }, 
     {
+      "party": "R", 
       "state": "PA", 
-      "name": " Pat Toomey (R)", 
+      "name": "Pat Toomey", 
       "cid": "N00001489"
     }
   ], 
   "AK": [
     {
+      "party": "R", 
       "state": "AK", 
-      "name": " Lisa Murkowski (R)", 
+      "name": "Lisa Murkowski", 
       "cid": "N00026050"
     }, 
     {
+      "party": "R", 
       "state": "AK", 
-      "name": " Dan Sullivan (R)", 
+      "name": "Dan Sullivan", 
       "cid": "N00035774"
     }
   ], 
   "NV": [
     {
+      "party": "R", 
       "state": "NV", 
-      "name": " Dean Heller (R)", 
+      "name": "Dean Heller", 
       "cid": "N00027522"
     }, 
     {
+      "party": "D", 
       "state": "NV", 
-      "name": " Harry Reid (D)", 
+      "name": "Harry Reid", 
       "cid": "N00009922"
     }
   ], 
   "VA": [
     {
+      "party": "D", 
       "state": "VA", 
-      "name": " Tim Kaine (D)", 
+      "name": "Tim Kaine", 
       "cid": "N00033177"
     }, 
     {
+      "party": "D", 
       "state": "VA", 
-      "name": " Mark Warner (D)", 
+      "name": "Mark Warner", 
       "cid": "N00002097"
     }
   ], 
   "CO": [
     {
+      "party": "D", 
       "state": "CO", 
-      "name": " Michael F Bennet (D)", 
+      "name": "Michael F Bennet", 
       "cid": "N00030608"
     }, 
     {
+      "party": "R", 
       "state": "CO", 
-      "name": " Cory Gardner (R)", 
+      "name": "Cory Gardner", 
       "cid": "N00030780"
     }
   ], 
   "CA": [
     {
+      "party": "D", 
       "state": "CA", 
-      "name": " Barbara Boxer (D)", 
+      "name": "Barbara Boxer", 
       "cid": "N00006692"
     }, 
     {
+      "party": "D", 
       "state": "CA", 
-      "name": " Dianne Feinstein (D)", 
+      "name": "Dianne Feinstein", 
       "cid": "N00007364"
     }
   ], 
   "AL": [
     {
+      "party": "R", 
       "state": "AL", 
-      "name": " Jeff Sessions (R)", 
+      "name": "Jeff Sessions", 
       "cid": "N00003062"
     }, 
     {
+      "party": "R", 
       "state": "AL", 
-      "name": " Richard C Shelby (R)", 
+      "name": "Richard C Shelby", 
       "cid": "N00009920"
     }
   ], 
   "AR": [
     {
+      "party": "R", 
       "state": "AR", 
-      "name": " John Boozman (R)", 
+      "name": "John Boozman", 
       "cid": "N00013873"
     }, 
     {
+      "party": "R", 
       "state": "AR", 
-      "name": " Tom Cotton (R)", 
+      "name": "Tom Cotton", 
       "cid": "N00033363"
     }
   ], 
   "VT": [
     {
+      "party": "D", 
       "state": "VT", 
-      "name": " Patrick Leahy (D)", 
+      "name": "Patrick Leahy", 
       "cid": "N00009918"
-    },
+    }, 
     {
+      "party": "D", 
       "state": "VT", 
-      "name": " Bernie Sanders (D)", 
+      "name": "Bernie Sanders", 
       "cid": "N00000528"
     }
   ], 
   "IL": [
     {
+      "party": "D", 
       "state": "IL", 
-      "name": " Dick Durbin (D)", 
+      "name": "Dick Durbin", 
       "cid": "N00004981"
     }, 
     {
+      "party": "R", 
       "state": "IL", 
-      "name": " Mark Kirk (R)", 
+      "name": "Mark Kirk", 
       "cid": "N00012539"
     }
   ], 
   "GA": [
     {
+      "party": "R", 
       "state": "GA", 
-      "name": " Johnny Isakson (R)", 
+      "name": "Johnny Isakson", 
       "cid": "N00002593"
     }, 
     {
+      "party": "R", 
       "state": "GA", 
-      "name": " David Perdue (R)", 
+      "name": "David Perdue", 
       "cid": "N00035516"
     }
   ], 
   "IN": [
     {
+      "party": "R", 
       "state": "IN", 
-      "name": " Dan Coats (R)", 
+      "name": "Dan Coats", 
       "cid": "N00003845"
     }, 
     {
+      "party": "D", 
       "state": "IN", 
-      "name": " Joe Donnelly (D)", 
+      "name": "Joe Donnelly", 
       "cid": "N00026586"
     }
   ], 
   "IA": [
     {
+      "party": "R", 
       "state": "IA", 
-      "name": " Joni Ernst (R)", 
+      "name": "Joni Ernst", 
       "cid": "N00035483"
     }, 
     {
+      "party": "R", 
       "state": "IA", 
-      "name": " Chuck Grassley (R)", 
+      "name": "Chuck Grassley", 
       "cid": "N00001758"
     }
   ], 
   "MA": [
     {
+      "party": "D", 
       "state": "MA", 
-      "name": " Ed Markey (D)", 
+      "name": "Ed Markey", 
       "cid": "N00000270"
     }, 
     {
+      "party": "D", 
       "state": "MA", 
-      "name": " Elizabeth Warren (D)", 
+      "name": "Elizabeth Warren", 
       "cid": "N00033492"
     }
   ], 
   "AZ": [
     {
+      "party": "R", 
       "state": "AZ", 
-      "name": " Jeff Flake (R)", 
+      "name": "Jeff Flake", 
       "cid": "N00009573"
     }, 
     {
+      "party": "R", 
       "state": "AZ", 
-      "name": " John McCain (R)", 
+      "name": "John McCain", 
       "cid": "N00006424"
     }
   ], 
   "ID": [
     {
+      "party": "R", 
       "state": "ID", 
-      "name": " Mike Crapo (R)", 
+      "name": "Mike Crapo", 
       "cid": "N00006267"
     }, 
     {
+      "party": "R", 
       "state": "ID", 
-      "name": " James E Risch (R)", 
+      "name": "James E Risch", 
       "cid": "N00029441"
     }
   ], 
   "CT": [
     {
+      "party": "D", 
       "state": "CT", 
-      "name": " Richard Blumenthal (D)", 
+      "name": "Richard Blumenthal", 
       "cid": "N00031685"
     }, 
     {
+      "party": "D", 
       "state": "CT", 
-      "name": " Christopher S Murphy (D)", 
+      "name": "Christopher S Murphy", 
       "cid": "N00027566"
     }
   ], 
   "ME": [
     {
+      "party": "R", 
       "state": "ME", 
-      "name": " Susan M Collins (R)", 
+      "name": "Susan M Collins", 
       "cid": "N00000491"
     }, 
     {
+      "party": "I", 
       "state": "ME", 
-      "name": " Angus King (I)", 
+      "name": "Angus King", 
       "cid": "N00034580"
     }
   ], 
   "MD": [
     {
+      "party": "D", 
       "state": "MD", 
-      "name": " Ben Cardin (D)", 
+      "name": "Ben Cardin", 
       "cid": "N00001955"
     }, 
     {
+      "party": "D", 
       "state": "MD", 
-      "name": " Barbara A Mikulski (D)", 
+      "name": "Barbara A Mikulski", 
       "cid": "N00001945"
     }
   ], 
   "OK": [
     {
+      "party": "R", 
       "state": "OK", 
-      "name": " James M Inhofe (R)", 
+      "name": "James M Inhofe", 
       "cid": "N00005582"
     }, 
     {
+      "party": "R", 
       "state": "OK", 
-      "name": " James Lankford (R)", 
+      "name": "James Lankford", 
       "cid": "N00031129"
     }
   ], 
   "OH": [
     {
+      "party": "D", 
       "state": "OH", 
-      "name": " Sherrod Brown (D)", 
+      "name": "Sherrod Brown", 
       "cid": "N00003535"
     }, 
     {
+      "party": "R", 
       "state": "OH", 
-      "name": " Rob Portman (R)", 
+      "name": "Rob Portman", 
       "cid": "N00003682"
     }
   ], 
   "UT": [
     {
+      "party": "R", 
       "state": "UT", 
-      "name": " Orrin G Hatch (R)", 
+      "name": "Orrin G Hatch", 
       "cid": "N00009869"
     }, 
     {
+      "party": "R", 
       "state": "UT", 
-      "name": " Mike Lee (R)", 
+      "name": "Mike Lee", 
       "cid": "N00031696"
     }
   ], 
   "MO": [
     {
+      "party": "R", 
       "state": "MO", 
-      "name": " Roy Blunt (R)", 
+      "name": "Roy Blunt", 
       "cid": "N00005195"
     }, 
     {
+      "party": "D", 
       "state": "MO", 
-      "name": " Claire McCaskill (D)", 
+      "name": "Claire McCaskill", 
       "cid": "N00027694"
     }
   ], 
   "MN": [
     {
+      "party": "D", 
       "state": "MN", 
-      "name": " Al Franken (D)", 
+      "name": "Al Franken", 
       "cid": "N00029016"
     }, 
     {
+      "party": "D", 
       "state": "MN", 
-      "name": " Amy Klobuchar (D)", 
+      "name": "Amy Klobuchar", 
       "cid": "N00027500"
     }
   ], 
   "MI": [
     {
+      "party": "D", 
       "state": "MI", 
-      "name": " Gary Peters (D)", 
+      "name": "Gary Peters", 
       "cid": "N00029277"
     }, 
     {
+      "party": "D", 
       "state": "MI", 
-      "name": " Debbie Stabenow (D)", 
+      "name": "Debbie Stabenow", 
       "cid": "N00004118"
     }
   ], 
   "RI": [
     {
+      "party": "D", 
       "state": "RI", 
-      "name": " Jack Reed (D)", 
+      "name": "Jack Reed", 
       "cid": "N00000362"
     }, 
     {
+      "party": "D", 
       "state": "RI", 
-      "name": " Sheldon Whitehouse (D)", 
+      "name": "Sheldon Whitehouse", 
       "cid": "N00027533"
     }
   ], 
   "KS": [
     {
+      "party": "R", 
       "state": "KS", 
-      "name": " Jerry Moran (R)", 
+      "name": "Jerry Moran", 
       "cid": "N00005282"
     }, 
     {
+      "party": "R", 
       "state": "KS", 
-      "name": " Pat Roberts (R)", 
+      "name": "Pat Roberts", 
       "cid": "N00005285"
     }
   ], 
   "MT": [
     {
+      "party": "R", 
       "state": "MT", 
-      "name": " Steven Daines (R)", 
+      "name": "Steven Daines", 
       "cid": "N00033054"
     }, 
     {
+      "party": "D", 
       "state": "MT", 
-      "name": " Jon Tester (D)", 
+      "name": "Jon Tester", 
       "cid": "N00027605"
     }
   ], 
   "MS": [
     {
+      "party": "R", 
       "state": "MS", 
-      "name": " Thad Cochran (R)", 
+      "name": "Thad Cochran", 
       "cid": "N00003328"
     }, 
     {
+      "party": "R", 
       "state": "MS", 
-      "name": " Roger Wicker (R)", 
+      "name": "Roger Wicker", 
       "cid": "N00003280"
     }
   ], 
   "SC": [
     {
+      "party": "R", 
       "state": "SC", 
-      "name": " Lindsey Graham (R)", 
+      "name": "Lindsey Graham", 
       "cid": "N00009975"
     }, 
     {
+      "party": "R", 
       "state": "SC", 
-      "name": " Tim Scott (R)", 
+      "name": "Tim Scott", 
       "cid": "N00031782"
     }
   ], 
   "KY": [
     {
+      "party": "R", 
       "state": "KY", 
-      "name": " Mitch McConnell (R)", 
+      "name": "Mitch McConnell", 
       "cid": "N00003389"
-    },
-        {
+    }, 
+    {
+      "party": "R", 
       "state": "KY", 
-      "name": " Rand Paul (R)", 
+      "name": "Rand Paul", 
       "cid": "N00030836"
     }
   ], 
   "OR": [
     {
+      "party": "D", 
       "state": "OR", 
-      "name": " Jeff Merkley (D)", 
+      "name": "Jeff Merkley", 
       "cid": "N00029303"
     }, 
     {
+      "party": "D", 
       "state": "OR", 
-      "name": " Ron Wyden (D)", 
+      "name": "Ron Wyden", 
       "cid": "N00007724"
     }
   ], 
   "SD": [
     {
+      "party": "R", 
       "state": "SD", 
-      "name": " Mike Rounds (R)", 
+      "name": "Mike Rounds", 
       "cid": "N00035187"
     }, 
     {
+      "party": "R", 
       "state": "SD", 
-      "name": " John Thune (R)", 
+      "name": "John Thune", 
       "cid": "N00004572"
     }
   ]
