@@ -103,5 +103,5 @@ def recreateDB():
 	readSenatorsInDB()
 	print "There are %d senators" % (db.senators.find().count())
 
-# recreateDB()
+recreateDB()
 
