@@ -35,9 +35,9 @@ $(function() {
       senators.push(data[state][0].name);
       senators.push(data[state][1].name);
     }
-    $('svg g').click(function (e) {
-      var xPosition = e.pageX - 30;
-      var yPosition = e.pageY - 30;
+    $('svg g').on('mousemove', function (e) {
+      var xPosition = e.pageX + 10;
+      var yPosition = e.pageY + 10;
 
       $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
       var state = $(this).find('path').attr('id');
@@ -56,10 +56,10 @@ $(function() {
         $('#tooltip').removeClass('hidden');
       }
 
-      $('#tooltip').on('mouseleave',function(){
-        $('svg g').css('opacity',1);
-        $("#tooltip").addClass('hidden');
-      });
+      
+    }).on('mouseleave',function(){
+      $('svg g').css('opacity',1);
+      $("#tooltip").addClass('hidden');
     });
 
     $("#senatorList").typeahead({ 

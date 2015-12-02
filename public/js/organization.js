@@ -1,8 +1,10 @@
 $(function() {
-  var data = JSON.parse($('#data-holder').html())[0]; // the database is flawed -- repeated senators
-
+  var data = JSON.parse($('#data-holder').html())[0];
+  // if no data for this company
+  if (!data) { data = {states: []} }
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max, grandTotal = 0;
+  console.log(data);
   for (var state in data.states) {
     if (!min) { // base case
       min = data.states[state].total;
@@ -28,49 +30,47 @@ $(function() {
     $("#"+state2).css('fill',color);
   }
 
-  $('svg g').click(function (e) {
-      var xPosition = e.pageX - 30;
-      var yPosition = e.pageY - 30;
+  $('svg g').on('mousemove', function (e) {
+    var xPosition = e.pageX + 10;
+    var yPosition = e.pageY + 10;
 
-      // style
-      $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
-      var state = $(this).find('path').attr('id');
-      // Only allow changes / tooltip if state is in data
-      if (data.states[state]) {
-        $('#map svg g').css('opacity',0.6);
-        $(this).css('opacity',1);
-        // populate table
-        var donation1 = data.states[state].donations[0],
-            donation2 = data.states[state].donations[1],
-            fullname;
-        if (donation1) {
-          fullname = donation1.senator.name+' ('+donation1.senator.party+')';
-          $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
-                               .text(fullname);
-          $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
-          $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
-          $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
-        }
-        if (donation2) {
-          fullname = donation2.senator.name+' ('+donation2.senator.party+')';
-          $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
-                               .text(fullname);
-          $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
-          $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
-          $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
-        }
-
-        $('#tooltip #state').text(statesAbbv[state]);
-
-        if ($('#tooltip').hasClass('hidden')) { 
-          $('#tooltip').removeClass('hidden');
-        }
-
-        $('#tooltip').on('mouseleave',function(){
-          $('svg g').css('opacity',1);
-          $("#tooltip").addClass('hidden');
-        });
+    // style
+    $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
+    var state = $(this).find('path').attr('id');
+    // Only allow changes / tooltip if state is in data
+    if (data.states[state]) {
+      $('#map svg g').css('opacity',0.6);
+      $(this).css('opacity',1);
+      // populate table
+      var donation1 = data.states[state].donations[0],
+          donation2 = data.states[state].donations[1],
+          fullname;
+      if (donation1) {
+        fullname = donation1.senator.name+' ('+donation1.senator.party+')';
+        $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
+                             .text(fullname);
+        $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
+        $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
+        $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
       }
+      if (donation2) {
+        fullname = donation2.senator.name+' ('+donation2.senator.party+')';
+        $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
+                             .text(fullname);
+        $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
+        $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
+        $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
+      }
+
+      $('#tooltip #state').text(statesAbbv[state]);
+
+      if ($('#tooltip').hasClass('hidden')) { 
+        $('#tooltip').removeClass('hidden');
+      }
+    }
+  }).on('mouseleave',function(){
+    $('svg g').css('opacity',1);
+    $("#tooltip").addClass('hidden');
   });
 
   /* PIE CHARTS 
@@ -116,8 +116,8 @@ $(function() {
       pieData = [{name: "Democrat", value: totals.Democrat}, {name: "Republican", value: totals.Republican}, {name: "Independent", value: totals.Independent}];
     }
 
-    var width = 400,
-      height = 400,
+    var width = 300,
+      height = 300,
       radius = Math.min(width, height) / 2;
 
     var arc = d3.svg.arc()
@@ -131,6 +131,7 @@ $(function() {
     var svg = d3.select("#pie-pan").append("svg")
       .attr("width", width)
       .attr("height", height)
+      .attr("id", "pie-"+breakdown)
     .append("g")
       .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
@@ -153,6 +154,7 @@ $(function() {
 
 
     g.on("mouseover", function (e) {
+      console.log('hi')
       var xPosition = e.pageX - 30;
       var yPosition = e.pageY - 30;
 
@@ -161,7 +163,7 @@ $(function() {
       var state = $(this).find('path').attr('id');
       // Only allow changes / tooltip if state is in data
       if (data.states[state]) {
-        $('#map svg g').css('opacity',0.6);
+        g.style('opacity',0.6);
         $(this).css('opacity',1);
         // populate table
         var donation1 = data.states[state].donations[0],
@@ -198,9 +200,12 @@ $(function() {
     });
 
   }
-
-  drawPieChart(totals, 'source');
-  drawPieChart(totals, 'party');
+  console.log(data.states.length)
+  if (Object.keys(data.states).length > 0) {
+    drawPieChart(totals, 'source');
+    drawPieChart(totals, 'party');
+  }
+  
 
 
 
