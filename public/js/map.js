@@ -22,10 +22,10 @@ $(function() {
         color="#673AB7";
       }
       else if(party==="RI"||party==="IR"){
-        color="#EF9A9A"
+        color="orange"
       }
       else if (party==="DI"||party==="ID"){
-        color="#90CAF9"
+        color="palegreen"
       };
       $("#"+state).css('fill',color);
       if(state==="MI"){

@@ -170,7 +170,7 @@ tr:nth-child(even) { background-color: #B6B6B6; }
 	width: 400px;
 }
 
-#tooltip {
+.my-tooltip {
   position: absolute;
   width: 220px;
   height: auto;
@@ -185,7 +185,7 @@ tr:nth-child(even) { background-color: #B6B6B6; }
   z-index: 5; /* put it in front of treemap */
 }
 
-#tooltip.hidden {
+.my-tooltip.hidden {
   display: none;
 }
 
