@@ -46,9 +46,9 @@ $(function() {
       $(this).css('opacity',1);
 
       $('#tooltip #senator1').attr('href', '/senator/'+data[state][0].name)
-                             .text(data[state][0].name);
+                             .text(data[state][0].name + ' (' + data[state][0].party + ')');
       $('#tooltip #senator2').attr('href', '/senator/'+data[state][1].name)
-                             .text(data[state][1].name);
+                             .text(data[state][1].name + ' (' + data[state][1].party + ')');
 
       $('#tooltip #state').text(statesAbbv[state]);
 

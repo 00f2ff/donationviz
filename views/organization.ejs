@@ -9,54 +9,78 @@
 </head>
 <body>
 <div class="container">
-        <h1>Donation Viz</h1>
-        <div class="row">
-          <% include partials/dropdowns.ejs %>
-          <!--<div class="row">-->
-      <!--<div class="col-md-8"> -->
-          <h1><%= header %> Contributions</h1>
-          <div id="map">
-            <% include partials/america.ejs %>
-          <div id="tooltip" class="hidden" style="width: 300px">
-              <h3 id="state"></h3>
-              <h5> <!-- figure out good way to connect to rep -->
-                <table class="table">
-                  <tr>
-                    <th>Senator</th>
-                    <th>Individual</th>
-                    <th>PAC</th>
-                    <th>Total</th>
-                  </tr>
-                  <tr id="senator1">
-                    <td><a href="#" class="name"></a></td>
-                    <td class="indivs"></td>
-                    <td class="pac"></td>
-                    <td class="total"></td>
-                  </tr>
-                  <tr id="senator2">
-                    <td><a href="#" class="name"></a></td>
-                    <td class="indivs"></td>
-                    <td class="pac"></td>
-                    <td class="total"></td>
-                  </tr>
-                </table>
-              </h5>
-          </div>
-      </div> <!-- map -->
-      </div> 
-      <!--</div><!--col-->
-      <!--</div><!--row-->
+  <h1><a href="/">Donation Viz</a></h1>
+  <div class="row">
+    <% include partials/dropdowns.ejs %>
+  </div>
+  <div class="row" style="margin: 20px 0px">
+    <div class="col-md-4"> 
+      <h1 class="company-header"><%= header %></h1>
+      <span><strong>Sector: </strong></span><br />
+      <span><strong>Industry: </strong></span>
     </div>
-    <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-    <script src="/js/typeahead_min.js"></script>
-    <script src="/js/company_typeahead.js"></script>
-    <script src="/js/senator_typeahead.js"></script>
-    <script src="/js/d3/d3.min.js"></script>
-    <script src="/js/statesAbbv.js"></script>
-    <script src="/js/organization.js"></script>
+    <div class="col-md-4">
+      <h4>Total Contributions</h4>
+      <h3 class="total-contributions"></h3>
+    </div>
+    <!-- I don't think we need to list out recipients since that's the purpose of the map -->
+  </div>
+  <div id="map">
+    <% include partials/america.ejs %>
+    <div id="tooltip" class="hidden" style="width: 380px">
+        <h3 id="state"></h3>
+        <h5>
+          <table id="organization-senator-table" class="table">
+            <tr>
+              <th>Senator</th>
+              <th>Individual</th>
+              <th>PAC</th>
+              <th>Total</th>
+            </tr>
+            <tr id="senator1">
+              <td class="cell--senator-name"><a href="#" class="name"></a></td>
+              <td class="indivs"></td>
+              <td class="pac"></td>
+              <td class="total"></td>
+            </tr>
+            <tr id="senator2">
+              <td class="cell--senator-name"><a href="#" class="name"></a></td>
+              <td class="indivs"></td>
+              <td class="pac"></td>
+              <td class="total"></td>
+            </tr>
+          </table>
+        </h5>
+      </div>
+    </div> <!-- map -->
+  </div> 
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8" id="pie-pan">
+      <div id="tooltip--source" class="hidden" style="width: 380px">
+        <h3 id="source"></h3>
+        <h5> </h5>
+      </div>
+      <div id="tooltip--party" class="hidden" style="width: 380px">
+        <h3 id="party"></h3>
+        <h5> </h5>
+      </div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+</div>
+<div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+<script src="/js/typeahead_min.js"></script>
+<script src="/js/company_typeahead.js"></script>
+<script src="/js/senator_typeahead.js"></script>
+<script src="/js/d3/d3.min.js"></script>
+<script src="/js/statesAbbv.js"></script>
+<script src="/js/viz_helper.js"></script>
+<script src="/js/organization.js"></script>
 
 </body>
 </html>

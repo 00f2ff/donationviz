@@ -4,7 +4,7 @@
     //portrait
     console.log(data[0]);
     console.log(data[0].name.replace(/ /,"+"));
-    var namequery= data[0].name.replace(/ /,"+") +"+" +"official" + "+" +"photo";
+    var namequery= data[0].name.replace(/ /,"+") +"+" +"official" + "+" +"photo"; // API is no longer available error
     var photoQuery="https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q="+namequery+"&imgsz=medium&rsz=1&callback=?";
     $.getJSON(photoQuery, function(data){
     	$("#portrait").attr("src", data.responseData.results[0].unescapedUrl)    	

@@ -2,7 +2,7 @@ $(function() {
   var data = JSON.parse($('#data-holder').html())[0]; // the database is flawed -- repeated senators
 
   // right now this is post-processed, but it should be pre-processed, or done with a database call
-  var min, max;
+  var min, max, grandTotal = 0;
   for (var state in data.states) {
     if (!min) { // base case
       min = data.states[state].total;
@@ -12,7 +12,9 @@ $(function() {
     } else if (data.states[state].total > max) {
       max = data.states[state].total;
     }
+    grandTotal += data.states[state].total;
   }
+  $('.total-contributions').text(VizHelper.toDollars(grandTotal));
 
   // right now this styling is done in js; it should move to CSS for non-index files
   $('svg .state').css('fill','#D8D8D8')
@@ -26,7 +28,6 @@ $(function() {
     $("#"+state2).css('fill',color);
   }
 
-  // what data should I add to the tooltips (goes in previous loop)? (it's not really connected to senator atm)
   $('svg g').click(function (e) {
       var xPosition = e.pageX - 30;
       var yPosition = e.pageY - 30;
@@ -46,17 +47,17 @@ $(function() {
           fullname = donation1.senator.name+' ('+donation1.senator.party+')';
           $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
                                .text(fullname);
-          $('#tooltip #senator1 .indivs').text(donation1.individual);
-          $('#tooltip #senator1 .pac').text(donation1.pac);
-          $('#tooltip #senator1 .total').text(donation1.total);
+          $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
+          $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
+          $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
         }
         if (donation2) {
           fullname = donation2.senator.name+' ('+donation2.senator.party+')';
           $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
                                .text(fullname);
-          $('#tooltip #senator2 .indivs').text(donation2.individual);
-          $('#tooltip #senator2 .pac').text(donation2.pac);
-          $('#tooltip #senator2 .total').text(donation2.total);
+          $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
+          $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
+          $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
         }
 
         $('#tooltip #state').text(statesAbbv[state]);
@@ -127,7 +128,7 @@ $(function() {
       .sort(null)
       .value(function(d) { return d.value; });
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#pie-pan").append("svg")
       .attr("width", width)
       .attr("height", height)
     .append("g")
@@ -148,6 +149,53 @@ $(function() {
       .attr("dy", ".35em")
       .style("text-anchor", "middle")
       .text(function(d) { if (d.value > 0) return d.value; });
+
+
+
+    g.on("mouseover", function (e) {
+      var xPosition = e.pageX - 30;
+      var yPosition = e.pageY - 30;
+
+      // style
+      $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      var state = $(this).find('path').attr('id');
+      // Only allow changes / tooltip if state is in data
+      if (data.states[state]) {
+        $('#map svg g').css('opacity',0.6);
+        $(this).css('opacity',1);
+        // populate table
+        var donation1 = data.states[state].donations[0],
+            donation2 = data.states[state].donations[1],
+            fullname;
+        if (donation1) {
+          fullname = donation1.senator.name+' ('+donation1.senator.party+')';
+          $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
+                               .text(fullname);
+          $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
+          $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
+          $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
+        }
+        if (donation2) {
+          fullname = donation2.senator.name+' ('+donation2.senator.party+')';
+          $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
+                               .text(fullname);
+          $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
+          $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
+          $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
+        }
+
+        $('#tooltip #state').text(statesAbbv[state]);
+
+        if ($('#tooltip').hasClass('hidden')) { 
+          $('#tooltip').removeClass('hidden');
+        }
+
+        $('#tooltip').on('mouseleave',function(){
+          $('svg g').css('opacity',1);
+          $("#tooltip").addClass('hidden');
+        });
+      }
+    });
 
   }
 

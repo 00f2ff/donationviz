@@ -16,6 +16,19 @@ h1 {
 	text-align: center;
 	margin-bottom: 20px;
 }
+h1.company-header {
+	text-align: left;
+}
+
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+h1 a:hover {
+	text-decoration: none;
+	color: #bbb;
+	cursor: pointer;
+}
 
 #members {
 	font-size: 1.1em;
@@ -174,4 +187,23 @@ tr:nth-child(even) { background-color: #B6B6B6; }
 
 #tooltip.hidden {
   display: none;
+}
+
+#organization-senator-table tr {
+	/*width: 100px;*/
+	font-weight: bold;
+	background-color: white;
+}
+
+#organization-senator-table td {
+	width: auto !important;
+}
+
+.total-contributions {
+	/*text-align: center;*/
+	color: rgb(87, 161, 112);
+}
+
+#pie-pan {
+	margin: 30px auto;
 }
