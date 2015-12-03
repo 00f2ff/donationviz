@@ -4,22 +4,13 @@ import json
 #write data to json file 
 #key will be industry code, value will be set of state codes
 #
-def findSenatorsAsDict():
+def findSenators():
 	senators = {}
-	with open('data/114th.csv', 'rU') as csvfile:
-		reader = csv.reader(csvfile)
-		for row in reader:
-			if row[4][0] == "S":
-				candidate = {
-				'cid': row[0],
-				'first_name': row[1].split(',')[1],
-				'last_name': row[1].split(',')[0],
-				'party': row[2],
-				'state': row[3][:2],
-				'class': row[3][3], # class is because the elections are staggered
-				'fec_id': row[4]
-				}
-				senators[row[0]] = candidate
+	with open('data/stateSenators.json', 'r') as j:
+		stateData = json.loads(j.read())
+		for k in stateData.keys():
+			for sen in stateData[k]:
+				senators[sen["cid"]] = sen
 	return senators
 
 def findIndustryNames():
@@ -31,7 +22,7 @@ def writeIndustriesToFile():
 	with open("data/senatorIndustryData.json", "r") as f:
 		#get senators as dict
 		names = findIndustryNames()
-		senators = findSenatorsAsDict()
+		senators = findSenators()
 		industries = {}
 		data = json.loads(f.read())
 		for cid in data:
@@ -57,6 +48,6 @@ def writeIndustriesToFile():
 		inds = str(json.dumps(inds, indent=2))
 		indf.write(inds)
 
-#findIndustryNames()
+#findSenators()
 writeIndustriesToFile()
 
