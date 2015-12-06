@@ -50,35 +50,10 @@ $(function() {
       $(this).css('opacity',1);
       // populate table
       var donation1 = data.states[state].donations[0],
-          donation2 = data.states[state].donations[1],
-          fullname;
-      if (donation1) {
-        fullname = donation1.senator.name+' ('+donation1.senator.party+')';
-        // technically not clickable, but that's ok
-        $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
-                             .text(fullname);
-        $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
-        $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
-        $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
-      } else { // erase previous content
-        $('#tooltip #senator1 .name').text('');
-        $('#tooltip #senator1 .indivs').text('');
-        $('#tooltip #senator1 .pac').text('');
-        $('#tooltip #senator1 .total').text('');
-      }
-      if (donation2) {
-        fullname = donation2.senator.name+' ('+donation2.senator.party+')';
-        $('#tooltip #senator2 .name').attr('href', '/senator/'+donation2.senator.name)
-                             .text(fullname);
-        $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
-        $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
-        $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
-      } else { // erase previous content
-        $('#tooltip #senator2 .name').text('');
-        $('#tooltip #senator2 .indivs').text('');
-        $('#tooltip #senator2 .pac').text('');
-        $('#tooltip #senator2 .total').text('');
-      }
+          donation2 = data.states[state].donations[1];
+
+      VizHelper.populateTooltip(donation1, 1);
+      VizHelper.populateTooltip(donation2, 2);
 
       $('#tooltip #state').text(statesAbbv[state]);
 
@@ -86,12 +61,7 @@ $(function() {
         $('#tooltip').removeClass('hidden');
       }
 
-      // $('#tooltip').on('mouseleave',function(){
-      //     $('svg g').css('opacity',1);
-      //     $("#tooltip").addClass('hidden');
-      //   });
     }
-  // })
   }).on('mouseleave',function(){
     $('svg g').css('opacity',1);
     $("#tooltip").addClass('hidden');
@@ -141,8 +111,8 @@ $(function() {
     }
 
     var width = 150,
-      height = 180,
-      radius = Math.min(width, height) / 2;
+        height = 180,
+        radius = Math.min(width, height) / 2;
 
     var arc = d3.svg.arc()
       .outerRadius(radius - 10)
@@ -219,6 +189,4 @@ $(function() {
     drawPieChart(totals, 'party');
   }
 
-  // data.donations.sort(compareTotal); // didn't work?
-  // console.log(data.donations);
 })

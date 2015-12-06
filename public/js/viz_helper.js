@@ -22,6 +22,27 @@ var VizHelper = {
 		return false;
 	},
 
+	populateTooltip: function(donation, senator_number) {
+		if (donation) {
+	        var fullname = donation.senator.name+' ('+donation.senator.party+')',
+	        	href = '/senator/'+donation.senator.name,
+	        	indivs = this.toDollars(donation.individual),
+	        	pac = this.toDollars(donation.pac),
+	        	total = this.toDollars(donation.total);
+	    } else { // erase previous content
+	        var fullname = '',
+	        	href = '',
+	        	indivs = '',
+	        	pac = '',
+	        	total = '';
+      	}
+      	// technically not clickable, but that's ok
+        $('#tooltip #senator'+senator_number+' .name').attr('href', href).text(fullname);
+        $('#tooltip #senator'+senator_number+' .indivs').text(indivs);
+        $('#tooltip #senator'+senator_number+' .pac').text(pac);
+        $('#tooltip #senator'+senator_number+' .total').text(total);
+	},
+
 	compareTotal: function(a,b) {
 	    if (a.total < b.total) {
 	      	return 1;
