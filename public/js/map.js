@@ -35,7 +35,7 @@ $(function() {
       senators.push(data[state][0].name);
       senators.push(data[state][1].name);
     }
-    $('svg g').on('mousemove', function (e) {
+    $('svg g').on('click', function (e) {
       var xPosition = e.pageX + 10;
       var yPosition = e.pageY + 10;
 
@@ -56,11 +56,25 @@ $(function() {
         $('#tooltip').removeClass('hidden');
       }
 
+      // we could pass some data around to keep opacity on everything but this state
+      $('#tooltip').on('mouseleave',function(){
+        $('svg g').css('opacity',1);
+        $("#tooltip").addClass('hidden');
+      });
+
       
-    }).on('mouseleave',function(){
+    }).on('mouseover', function() {
+      $('#map svg g').css('opacity',0.6);
+      $(this).css('opacity',1);
+    }).on('mouseleave', function() {
       $('svg g').css('opacity',1);
-      $("#tooltip").addClass('hidden');
-    });
+      // $("#tooltip").addClass('hidden');
+    })
+
+    //.on('mouseleave',function(){
+      //$('svg g').css('opacity',1);
+      //$("#tooltip").addClass('hidden');
+    //});
 
     $("#senatorList").typeahead({ 
       items: 'all', 

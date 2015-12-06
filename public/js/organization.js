@@ -45,8 +45,10 @@ $(function() {
       var donation1 = data.states[state].donations[0],
           donation2 = data.states[state].donations[1],
           fullname;
+      console.log(donation2)
       if (donation1) {
         fullname = donation1.senator.name+' ('+donation1.senator.party+')';
+        // technically not clickable, but that's ok
         $('#tooltip #senator1 .name').attr('href', '/senator/'+donation1.senator.name)
                              .text(fullname);
         $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
@@ -67,7 +69,13 @@ $(function() {
       if ($('#tooltip').hasClass('hidden')) { 
         $('#tooltip').removeClass('hidden');
       }
+
+      // $('#tooltip').on('mouseleave',function(){
+      //     $('svg g').css('opacity',1);
+      //     $("#tooltip").addClass('hidden');
+      //   });
     }
+  // })
   }).on('mouseleave',function(){
     $('svg g').css('opacity',1);
     $("#tooltip").addClass('hidden');
@@ -116,8 +124,8 @@ $(function() {
       pieData = [{name: "Democrat", value: totals.Democrat}, {name: "Republican", value: totals.Republican}, {name: "Independent", value: totals.Independent}];
     }
 
-    var width = 300,
-      height = 300,
+    var width = 150,
+      height = 180,
       radius = Math.min(width, height) / 2;
 
     var arc = d3.svg.arc()
@@ -131,9 +139,19 @@ $(function() {
     var svg = d3.select("#pie-pan").append("svg")
       .attr("width", width)
       .attr("height", height)
+      .style("margin-top", "-30px")
       .attr("id", "pie-"+breakdown)
     .append("g")
       .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    var title;
+    breakdown === 'party' ? title = "Donations by Party" : title = "Donations by Type";
+    svg.append("text")
+        .attr("x", 0)             
+        .attr("y", + (height/2 - 10))
+        .attr("text-anchor", "middle")  
+        .style("font-size", "14px") 
+        .text(title);
 
 
     var g = svg.selectAll(".arc")
@@ -147,12 +165,18 @@ $(function() {
       .attr("id", function(d) { return d.data.name; })
       .attr("data-value", function(d) { if (d.value > 0) return d.value; });
 
-    g.on("mouseover", function (e) {
-      var xPosition = e.pageX + 10;
-      var yPosition = e.pageY + 10;
-      console.log($('#tooltip--'+breakdown))
-      // style
-      $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+    g.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX + 10; // doesn't use standard JS event
+      var yPosition = d3.event.layerY + 10;
+      // style (make sure tooltip doesn't go over page width)
+      if (breakdown === 'source') {
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      } else {
+        var tooltipWidth = $('#tooltip--'+breakdown).width();
+        // magic numbers abound
+        $('#tooltip--'+breakdown).css({'left': (xPosition - tooltipWidth - 35) + "px", 'top': yPosition + "px"});
+      }
+      
       g.style('opacity',0.6);
       $(this).css('opacity',1);
 

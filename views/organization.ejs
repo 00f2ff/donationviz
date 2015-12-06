@@ -20,8 +20,19 @@
       <span><strong>Industry: </strong></span>
     </div>
     <div class="col-md-4">
-      <h4>Total Contributions (2016)</h4>
+      <h4>Total Contributions (2016 Cycle)</h4>
       <h3 class="total-contributions"></h3>
+    </div>
+    <div class="col-md-4">
+      <div class="" id="pie-pan">
+          <div id="tooltip--source" class="my-tooltip hidden" style="width: 250px">
+            <h4 id="source"></h4>
+            <h5> </h5>
+          </div>
+          <div id="tooltip--party" class="my-tooltip hidden" style="width: 250px">
+            <h4 id="party"></h4>
+            <h5> </h5>
+          </div>
     </div>
     <!-- I don't think we need to list out recipients since that's the purpose of the map -->
   </div>
@@ -54,20 +65,7 @@
       </div>
     </div> <!-- map -->
   </div> 
-  <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8" id="pie-pan">
-      <div id="tooltip--source" class="my-tooltip hidden" style="width: 380px">
-        <h4 id="source"></h4>
-        <h5> </h5>
-      </div>
-      <div id="tooltip--party" class="my-tooltip hidden" style="width: 380px">
-        <h4 id="party"></h4>
-        <h5> </h5>
-      </div>
-    </div>
-    <div class="col-md-2"></div>
-  </div>
+  
 
 </div>
 <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
