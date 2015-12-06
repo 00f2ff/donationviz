@@ -10,6 +10,18 @@ var VizHelper = {
 	    return '$' + x;
 	},
 
+	isEasternState: function(state) {
+		// stop tooltips from going over page width
+		var easternStates = ["MI","WI","IL","KY","TN","AL","GA","FL","SC","NC","VA","WV","MD",
+		"DE","RI","NJ","PA","NY","MA","CT","VT","NH","ME","OH"];
+		for (var i = 0; i < easternStates.length; i++) {
+			if (state === easternStates[i]) {
+				return true;
+			}
+		}
+		return false;
+	},
+
 	compareTotal: function(a,b) {
 	    if (a.total < b.total) {
 	      	return 1;

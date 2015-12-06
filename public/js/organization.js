@@ -34,9 +34,17 @@ $(function() {
     var xPosition = e.pageX + 10;
     var yPosition = e.pageY + 10;
 
-    // style
-    $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
+    // style (so doesn't go over page width)
     var state = $(this).find('path').attr('id');
+
+    if (!VizHelper.isEasternState(state)) {
+      $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
+    } else {
+      var tooltipWidth = $('#tooltip').width();
+      $('#tooltip').css({'left': (xPosition - tooltipWidth - 35)+ "px", 'top': yPosition + "px"});
+    }
+    
+    
     // Only allow changes / tooltip if state is in data
     if (data.states[state]) {
       $('#map svg g').css('opacity',0.6);
