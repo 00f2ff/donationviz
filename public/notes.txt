@@ -1,4 +1,0 @@
-We need to figure out the best way to do hover / click interactions. It can't track the mouse because we need to click within it, but that isn't an intuitive way to start. Maybe hovering on a state creates that opaque state on the other ones, which indicates a user can click it.
-
-
-There's a bug where the second senator for a lot states is the same (Organizations). It probably has to do with variable assignment problems
