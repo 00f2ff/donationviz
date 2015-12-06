@@ -1,6 +1,5 @@
 $(function() {
   var data = JSON.parse($('#data-holder').html())[0];
-  console.log(data);
   // if no data for this company
   if (!data) { data = {states: []} }
   // right now this is post-processed, but it should be pre-processed, or done with a database call
@@ -53,7 +52,6 @@ $(function() {
       var donation1 = data.states[state].donations[0],
           donation2 = data.states[state].donations[1],
           fullname;
-      console.log(donation2)
       if (donation1) {
         fullname = donation1.senator.name+' ('+donation1.senator.party+')';
         // technically not clickable, but that's ok
