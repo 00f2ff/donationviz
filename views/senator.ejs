@@ -2,22 +2,12 @@
 <head>
     <meta charset="utf-8">
     <link href="/css/style.css" rel="stylesheet">
+        <link href="/css/senator.css" rel="stylesheet">
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
-    <style>
-
-.arc text {
-  font: 20px sans-serif;
-  text-anchor: middle;
-}
-
-.arc path {
-  stroke: #fff;
-}
-
-</style>
 </head>
 <body>
 <div class="container">
@@ -29,24 +19,26 @@
       <div class="col-md-3">
       <img id="portrait" src=""style="width:250px;height:317px;">
       </div><!--col-->
-      <div class="col-md-4">
+      <div class="col-md-5">
        <h1>Sen. <%= header %></h1>
        <h3 id="breif"></h3>
 	 </div>
-	  <div class="col-md-5">
-       <h1>Top 5 contributor</h1>
-       <ul id="topContributor">
-       	
+	  <div class="col-md-4">
+       <h1 id="contributor">Top 5 contributor</h1>
+       <ul id="topContributor">	
        </ul>
 	 </div>
       </div><!--row-->
-    <div class="row">
-    <div id="piechart">
-    </div><!--row-->
 
     <div class="row">
     <div id="bubblechart">
     </div><!--row-->
+
+    <div class="row">
+    <div id="piechart">
+    </div><!--row-->
+
+
 
     </div>
     <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
