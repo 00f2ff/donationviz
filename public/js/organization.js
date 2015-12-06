@@ -1,5 +1,6 @@
 $(function() {
   var data = JSON.parse($('#data-holder').html())[0];
+  console.log(data);
   // if no data for this company
   if (!data) { data = {states: []} }
   // right now this is post-processed, but it should be pre-processed, or done with a database call
@@ -62,6 +63,11 @@ $(function() {
         $('#tooltip #senator1 .indivs').text(VizHelper.toDollars(donation1.individual));
         $('#tooltip #senator1 .pac').text(VizHelper.toDollars(donation1.pac));
         $('#tooltip #senator1 .total').text(VizHelper.toDollars(donation1.total));
+      } else { // erase previous content
+        $('#tooltip #senator1 .name').text('');
+        $('#tooltip #senator1 .indivs').text('');
+        $('#tooltip #senator1 .pac').text('');
+        $('#tooltip #senator1 .total').text('');
       }
       if (donation2) {
         fullname = donation2.senator.name+' ('+donation2.senator.party+')';
@@ -70,6 +76,11 @@ $(function() {
         $('#tooltip #senator2 .indivs').text(VizHelper.toDollars(donation2.individual));
         $('#tooltip #senator2 .pac').text(VizHelper.toDollars(donation2.pac));
         $('#tooltip #senator2 .total').text(VizHelper.toDollars(donation2.total));
+      } else { // erase previous content
+        $('#tooltip #senator2 .name').text('');
+        $('#tooltip #senator2 .indivs').text('');
+        $('#tooltip #senator2 .pac').text('');
+        $('#tooltip #senator2 .total').text('');
       }
 
       $('#tooltip #state').text(statesAbbv[state]);
