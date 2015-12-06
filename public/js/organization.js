@@ -5,7 +5,6 @@ $(function() {
   if (!data) { data = {states: []} }
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max, grandTotal = 0;
-  console.log(data);
   for (var state in data.states) {
     if (!min) { // base case
       min = data.states[state].total;
