@@ -75,6 +75,90 @@ def readOrganizations():
 		for o in records.keys():
 			collection.insert_one({'name': o, 'states': records[o]["states"]})
 
+
+# All of the industry stuff
+def addIndustryDonationsToSenators():
+	client = MongoClient()
+	db = client.test
+	collection = db.senators
+	with open("data/senatorIndustryData.json","r") as g:
+		# donation data for each senator (by cid)
+		industry_donations = json.loads(g.read())
+		for cid in industry_donations.iterkeys():
+			new_donations = []
+			for record in industry_donations[cid]:
+				new_donations.append({"pac": int(record["pacs"]), "individual": int(record["indivs"]), "total": int(record["total"]), "industry_name": record["industry_name"], "industry_code": record["industry_code"]})
+			collection.update_one({"cid": cid}, { "$set": { "industry_donations": new_donations } })
+
+# This makes a starter JSON file
+def addIndustriesToDB1(): 
+	senators = findSenatorData()
+	industries = {}
+	# create skeleton
+	with open("data/industry_names.json","r") as f:
+		industry_names = json.loads(f.read())
+	for iid in industry_names.iterkeys():
+		# total, pac and individual are totals across all senators
+		industries[iid] = {"industry_code": iid, "industry_name": industry_names[iid], "industry_donations": [], "states": {}, "total": 0, "pac": 0, "individual": 0}
+	# get donations to senators
+	with open("data/senatorIndustryData.json","r") as g:
+		industry_donations = json.loads(g.read())
+	for cid in industry_donations.iterkeys():
+		for d in industry_donations[cid]:
+			# append this donation to this industry
+			# add senator info to d
+			d["cid"] = cid
+			industries[d["industry_code"]]["industry_donations"].append(d)
+	with open("thing.json","w") as h:
+		h.write(str(json.dumps({"industries": industries}, indent=2)))
+
+# This moves donations over into states and updates some values
+def addIndustriesToDB2():
+	senators = findSenatorData()
+	# preprocess senators into dict so I have O(1) lookup
+	senators_dict = {}
+	for s in senators:
+		senators_dict[s["cid"]] = s
+	client = MongoClient()
+	db = client.test
+	collection = db.industries
+	with open("thing.json","r") as f:
+		industries = json.loads(f.read())["industries"]
+	for code in industries:
+		for donation in industries[code]["industry_donations"]:
+			senator = senators_dict[donation["cid"]]
+			senator_donation = {"senator": senator, "pac": int(donation["pacs"]), "individual": int(donation["indivs"]), "total": int(donation["total"])}
+			# check if senator added to states yet
+			if senator["state"] not in industries[code]["states"].keys():
+				industries[code]["states"][senator["state"]] = {"pac":0,"individual":0,"total":0,"donations":[]}
+			# add senator to state
+			industries[code]["states"][senator["state"]]["pac"] += int(donation["pacs"])
+			industries[code]["states"][senator["state"]]["individual"] += int(donation["indivs"])
+			industries[code]["states"][senator["state"]]["total"] += int(donation["total"])
+			industries[code]["states"][senator["state"]]["donations"].append(senator_donation)
+			# add to industry totals
+			industries[code]["pac"] += int(donation["pacs"])
+			industries[code]["individual"] += int(donation["indivs"])
+			industries[code]["total"] += int(donation["total"])
+		# remove industry_donation key from updated object
+		industries[code].pop("industry_donations", None)
+	with open("thing2.json","w") as g:
+		industries = str(json.dumps(industries, indent=2))
+		g.write(industries)
+
+def addIndustriesToMongo():
+	addIndustryDonationsToSenators()
+	# addIndustriesToDB1()
+	# addIndustriesToDB2() # files already created
+	client = MongoClient() # default host
+	db = client.test
+	db.drop_collection('industries')
+	collection = db.industries
+	with open("thing2.json","r") as f:
+		industries = json.loads(f.read())
+		for code in industries.iterkeys():
+			collection.insert_one(industries[code])
+
 # This drops collections and recreates them from files -- later: move senatorContributions to non-app
 def recreateDB():
 	client = MongoClient()
@@ -87,6 +171,6 @@ def recreateDB():
 	writeSenatorDataToDB()
 	readSenatorsInDB()
 	print "There are %d senators" % (db.senators.find().count())
+	addIndustriesToMongo()
 
-recreateDB()
-
+# recreateDB()

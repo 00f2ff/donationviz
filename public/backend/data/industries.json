@@ -5,42 +5,42 @@
         "MD": {
           "total": 205609, 
           "pac": 136559, 
-          "indivs": 69050
+          "individual": 69050
         }, 
         "UT": {
           "total": 337480, 
           "pac": 203398, 
-          "indivs": 134082
+          "individual": 134082
         }, 
         "NC": {
           "total": 114000, 
           "pac": 74500, 
-          "indivs": 39500
+          "individual": 39500
         }, 
         "OR": {
           "total": 237400, 
           "pac": 141250, 
-          "indivs": 96150
+          "individual": 96150
         }, 
         "NV": {
           "total": 121750, 
           "pac": 79950, 
-          "indivs": 41800
+          "individual": 41800
         }, 
         "IN": {
           "total": 33000, 
           "pac": 23000, 
-          "indivs": 10000
+          "individual": 10000
         }, 
         "ID": {
           "total": 98850, 
           "pac": 67250, 
-          "indivs": 31600
+          "individual": 31600
         }, 
         "WY": {
           "total": 80700, 
           "pac": 49500, 
-          "indivs": 31200
+          "individual": 31200
         }
       }, 
       "name": "Health Services/HMOs"
@@ -50,32 +50,32 @@
         "TN": {
           "total": 192267, 
           "pac": 108267, 
-          "indivs": 84000
+          "individual": 84000
         }, 
         "NY": {
           "total": 315500, 
           "pac": 72200, 
-          "indivs": 243300
+          "individual": 243300
         }, 
         "PA": {
           "total": 281285, 
           "pac": 106500, 
-          "indivs": 174785
+          "individual": 174785
         }, 
         "FL": {
           "total": 312822, 
           "pac": 121382, 
-          "indivs": 191440
+          "individual": 191440
         }, 
         "OR": {
           "total": 196200, 
           "pac": 107500, 
-          "indivs": 88700
+          "individual": 88700
         }, 
         "NV": {
           "total": 244050, 
           "pac": 118500, 
-          "indivs": 125550
+          "individual": 125550
         }
       }, 
       "name": "Hospitals/Nursing Homes"
@@ -85,217 +85,217 @@
         "WA": {
           "total": 336194, 
           "pac": 144632, 
-          "indivs": 191562
+          "individual": 191562
         }, 
         "DE": {
           "total": 129450, 
           "pac": 111500, 
-          "indivs": 17950
+          "individual": 17950
         }, 
         "WI": {
           "total": 320179, 
           "pac": 72750, 
-          "indivs": 247429
+          "individual": 247429
         }, 
         "WV": {
           "total": 352214, 
           "pac": 172998, 
-          "indivs": 179216
+          "individual": 179216
         }, 
         "FL": {
           "total": 439365, 
           "pac": 53750, 
-          "indivs": 385615
+          "individual": 385615
         }, 
         "WY": {
           "total": 712143, 
           "pac": 373750, 
-          "indivs": 338393
+          "individual": 338393
         }, 
         "NJ": {
           "total": 630960, 
           "pac": 101500, 
-          "indivs": 529460
+          "individual": 529460
         }, 
         "NM": {
           "total": 344219, 
           "pac": 138500, 
-          "indivs": 205719
+          "individual": 205719
         }, 
         "TX": {
           "total": 1118767, 
           "pac": 248046, 
-          "indivs": 870721
+          "individual": 870721
         }, 
         "LA": {
           "total": 1128015, 
           "pac": 325100, 
-          "indivs": 802915
+          "individual": 802915
         }, 
         "NC": {
           "total": 517599, 
           "pac": 202700, 
-          "indivs": 314899
+          "individual": 314899
         }, 
         "NE": {
           "total": 294287, 
           "pac": 88600, 
-          "indivs": 205687
+          "individual": 205687
         }, 
         "TN": {
           "total": 633697, 
           "pac": 281500, 
-          "indivs": 352197
+          "individual": 352197
         }, 
         "NY": {
           "total": 249700, 
           "pac": 135500, 
-          "indivs": 114200
+          "individual": 114200
         }, 
         "PA": {
           "total": 301860, 
           "pac": 150750, 
-          "indivs": 151110
+          "individual": 151110
         }, 
         "RI": {
           "total": 254683, 
           "pac": 204500, 
-          "indivs": 50183
+          "individual": 50183
         }, 
         "NV": {
           "total": 462934, 
           "pac": 218500, 
-          "indivs": 244434
+          "individual": 244434
         }, 
         "VA": {
           "total": 305793, 
           "pac": 23500, 
-          "indivs": 282293
+          "individual": 282293
         }, 
         "AL": {
           "total": 48950, 
           "pac": 37500, 
-          "indivs": 11450
+          "individual": 11450
         }, 
         "AR": {
           "total": 408448, 
           "pac": 82500, 
-          "indivs": 325948
+          "individual": 325948
         }, 
         "VT": {
           "total": 69976, 
           "pac": 31500, 
-          "indivs": 38476
+          "individual": 38476
         }, 
         "IL": {
           "total": 394136, 
           "pac": 232800, 
-          "indivs": 161336
+          "individual": 161336
         }, 
         "GA": {
           "total": 189350, 
           "pac": 27500, 
-          "indivs": 161850
+          "individual": 161850
         }, 
         "IA": {
           "total": 109050, 
           "pac": 94500, 
-          "indivs": 14550
+          "individual": 14550
         }, 
         "OK": {
           "total": 212275, 
           "pac": 55500, 
-          "indivs": 156775
+          "individual": 156775
         }, 
         "AZ": {
           "total": 184307, 
           "pac": 49500, 
-          "indivs": 134807
+          "individual": 134807
         }, 
         "ID": {
           "total": 65419, 
           "pac": 47000, 
-          "indivs": 18419
+          "individual": 18419
         }, 
         "CT": {
           "total": 432025, 
           "pac": 223910, 
-          "indivs": 208115
+          "individual": 208115
         }, 
         "ME": {
           "total": 372950, 
           "pac": 268300, 
-          "indivs": 104650
+          "individual": 104650
         }, 
         "MD": {
           "total": 447207, 
           "pac": 327797, 
-          "indivs": 119410
+          "individual": 119410
         }, 
         "MA": {
           "total": 460006, 
           "pac": 3500, 
-          "indivs": 456506
+          "individual": 456506
         }, 
         "OH": {
           "total": 517945, 
           "pac": 191800, 
-          "indivs": 326145
+          "individual": 326145
         }, 
         "UT": {
           "total": 441615, 
           "pac": 343450, 
-          "indivs": 98165
+          "individual": 98165
         }, 
         "MO": {
           "total": 424827, 
           "pac": 137000, 
-          "indivs": 287827
+          "individual": 287827
         }, 
         "MN": {
           "total": 371581, 
           "pac": 148400, 
-          "indivs": 223181
+          "individual": 223181
         }, 
         "MI": {
           "total": 609651, 
           "pac": 236210, 
-          "indivs": 373441
+          "individual": 373441
         }, 
         "KS": {
           "total": 403618, 
           "pac": 309250, 
-          "indivs": 94368
+          "individual": 94368
         }, 
         "MT": {
           "total": 267073, 
           "pac": 115900, 
-          "indivs": 151173
+          "individual": 151173
         }, 
         "MS": {
           "total": 292659, 
           "pac": 179150, 
-          "indivs": 113509
+          "individual": 113509
         }, 
         "SC": {
           "total": 486625, 
           "pac": 181500, 
-          "indivs": 305125
+          "individual": 305125
         }, 
         "KY": {
           "total": 1117292, 
           "pac": 332000, 
-          "indivs": 785292
+          "individual": 785292
         }, 
         "OR": {
           "total": 513741, 
           "pac": 294740, 
-          "indivs": 219001
+          "individual": 219001
         }, 
         "SD": {
           "total": 99200, 
           "pac": 60100, 
-          "indivs": 39100
+          "individual": 39100
         }
       }, 
       "name": "Health Professionals"
@@ -305,122 +305,122 @@
         "WA": {
           "total": 235200, 
           "pac": 217600, 
-          "indivs": 17600
+          "individual": 17600
         }, 
         "DE": {
           "total": 396710, 
           "pac": 317910, 
-          "indivs": 78800
+          "individual": 78800
         }, 
         "WV": {
           "total": 175250, 
           "pac": 116250, 
-          "indivs": 59000
+          "individual": 59000
         }, 
         "WY": {
           "total": 473100, 
           "pac": 392000, 
-          "indivs": 81100
+          "individual": 81100
         }, 
         "NH": {
           "total": 190239, 
           "pac": 136388, 
-          "indivs": 53851
+          "individual": 53851
         }, 
         "NJ": {
           "total": 331650, 
           "pac": 184500, 
-          "indivs": 147150
+          "individual": 147150
         }, 
         "TX": {
           "total": 296350, 
           "pac": 200750, 
-          "indivs": 95600
+          "individual": 95600
         }, 
         "NC": {
           "total": 263360, 
           "pac": 237510, 
-          "indivs": 25850
+          "individual": 25850
         }, 
         "TN": {
           "total": 300300, 
           "pac": 269100, 
-          "indivs": 31200
+          "individual": 31200
         }, 
         "PA": {
           "total": 656129, 
           "pac": 472829, 
-          "indivs": 183300
+          "individual": 183300
         }, 
         "RI": {
           "total": 137183, 
           "pac": 107000, 
-          "indivs": 30183
+          "individual": 30183
         }, 
         "NV": {
           "total": 170300, 
           "pac": 145500, 
-          "indivs": 24800
+          "individual": 24800
         }, 
         "CO": {
           "total": 184600, 
           "pac": 166000, 
-          "indivs": 18600
+          "individual": 18600
         }, 
         "IL": {
           "total": 112450, 
           "pac": 90500, 
-          "indivs": 21950
+          "individual": 21950
         }, 
         "GA": {
           "total": 153700, 
           "pac": 142000, 
-          "indivs": 11700
+          "individual": 11700
         }, 
         "IN": {
           "total": 222983, 
           "pac": 148021, 
-          "indivs": 74962
+          "individual": 74962
         }, 
         "ID": {
           "total": 85250, 
           "pac": 84000, 
-          "indivs": 1250
+          "individual": 1250
         }, 
         "MD": {
           "total": 118061, 
           "pac": 115811, 
-          "indivs": 2250
+          "individual": 2250
         }, 
         "OH": {
           "total": 311249, 
           "pac": 213149, 
-          "indivs": 98100
+          "individual": 98100
         }, 
         "UT": {
           "total": 646777, 
           "pac": 399327, 
-          "indivs": 247450
+          "individual": 247450
         }, 
         "MN": {
           "total": 179675, 
           "pac": 104150, 
-          "indivs": 75525
+          "individual": 75525
         }, 
         "KS": {
           "total": 278399, 
           "pac": 216499, 
-          "indivs": 61900
+          "individual": 61900
         }, 
         "SC": {
           "total": 247300, 
           "pac": 215950, 
-          "indivs": 31350
+          "individual": 31350
         }, 
         "OR": {
           "total": 300541, 
           "pac": 228150, 
-          "indivs": 72391
+          "individual": 72391
         }
       }, 
       "name": "Pharmaceuticals/Health Products"
@@ -430,247 +430,247 @@
         "WA": {
           "total": 403264, 
           "pac": 54500, 
-          "indivs": 348764
+          "individual": 348764
         }, 
         "DE": {
           "total": 686299, 
           "pac": 268880, 
-          "indivs": 417419
+          "individual": 417419
         }, 
         "WI": {
           "total": 365825, 
           "pac": 31000, 
-          "indivs": 334825
+          "individual": 334825
         }, 
         "WV": {
           "total": 593215, 
           "pac": 113900, 
-          "indivs": 479315
+          "individual": 479315
         }, 
         "HI": {
           "total": 222570, 
           "pac": 15000, 
-          "indivs": 207570
+          "individual": 207570
         }, 
         "FL": {
           "total": 772179, 
           "pac": 50400, 
-          "indivs": 721779
+          "individual": 721779
         }, 
         "WY": {
           "total": 438765, 
           "pac": 171065, 
-          "indivs": 267700
+          "individual": 267700
         }, 
         "NH": {
           "total": 841857, 
           "pac": 99033, 
-          "indivs": 742824
+          "individual": 742824
         }, 
         "KS": {
           "total": 539225, 
           "pac": 261650, 
-          "indivs": 277575
+          "individual": 277575
         }, 
         "NJ": {
           "total": 2629121, 
           "pac": 159500, 
-          "indivs": 2469621
+          "individual": 2469621
         }, 
         "NM": {
           "total": 256622, 
           "pac": 32600, 
-          "indivs": 224022
+          "individual": 224022
         }, 
         "TX": {
           "total": 1838970, 
           "pac": 188000, 
-          "indivs": 1650970
+          "individual": 1650970
         }, 
         "LA": {
           "total": 731401, 
           "pac": 2500, 
-          "indivs": 728901
+          "individual": 728901
         }, 
         "NC": {
           "total": 828050, 
           "pac": 74500, 
-          "indivs": 753550
+          "individual": 753550
         }, 
         "ND": {
           "total": 217749, 
           "pac": 81000, 
-          "indivs": 136749
+          "individual": 136749
         }, 
         "NE": {
           "total": 442530, 
           "pac": 34500, 
-          "indivs": 408030
+          "individual": 408030
         }, 
         "TN": {
           "total": 1160883, 
           "pac": 259670, 
-          "indivs": 901213
+          "individual": 901213
         }, 
         "NY": {
           "total": 3354207, 
           "pac": 351700, 
-          "indivs": 3002507
+          "individual": 3002507
         }, 
         "PA": {
           "total": 1516937, 
           "pac": 383938, 
-          "indivs": 1132999
+          "individual": 1132999
         }, 
         "RI": {
           "total": 560341, 
           "pac": 154500, 
-          "indivs": 405841
+          "individual": 405841
         }, 
         "NV": {
           "total": 618665, 
           "pac": 155800, 
-          "indivs": 462865
+          "individual": 462865
         }, 
         "VA": {
           "total": 2386944, 
           "pac": 240600, 
-          "indivs": 2146344
+          "individual": 2146344
         }, 
         "CO": {
           "total": 1654262, 
           "pac": 162200, 
-          "indivs": 1492062
+          "individual": 1492062
         }, 
         "CA": {
           "total": 248545, 
           "pac": 24350, 
-          "indivs": 224195
+          "individual": 224195
         }, 
         "AL": {
           "total": 203950, 
           "pac": 149000, 
-          "indivs": 54950
+          "individual": 54950
         }, 
         "AR": {
           "total": 1262423, 
           "pac": 84250, 
-          "indivs": 1178173
+          "individual": 1178173
         }, 
         "VT": {
           "total": 79950, 
           "pac": 7950, 
-          "indivs": 72000
+          "individual": 72000
         }, 
         "IL": {
           "total": 920850, 
           "pac": 144500, 
-          "indivs": 776350
+          "individual": 776350
         }, 
         "GA": {
           "total": 760632, 
           "pac": 113400, 
-          "indivs": 647232
+          "individual": 647232
         }, 
         "IN": {
           "total": 263705, 
           "pac": 73000, 
-          "indivs": 190705
+          "individual": 190705
         }, 
         "IA": {
           "total": 776298, 
           "pac": 35000, 
-          "indivs": 741298
+          "individual": 741298
         }, 
         "AZ": {
           "total": 788204, 
           "pac": 26000, 
-          "indivs": 762204
+          "individual": 762204
         }, 
         "ID": {
           "total": 356350, 
           "pac": 216650, 
-          "indivs": 139700
+          "individual": 139700
         }, 
         "CT": {
           "total": 969370, 
           "pac": 128000, 
-          "indivs": 841370
+          "individual": 841370
         }, 
         "ME": {
           "total": 479744, 
           "pac": 68600, 
-          "indivs": 411144
+          "individual": 411144
         }, 
         "MD": {
           "total": 395350, 
           "pac": 157500, 
-          "indivs": 237850
+          "individual": 237850
         }, 
         "MA": {
           "total": 1668576, 
           "pac": 57500, 
-          "indivs": 1611076
+          "individual": 1611076
         }, 
         "OH": {
           "total": 1169744, 
           "pac": 140500, 
-          "indivs": 1029244
+          "individual": 1029244
         }, 
         "UT": {
           "total": 1318046, 
           "pac": 221071, 
-          "indivs": 1096975
+          "individual": 1096975
         }, 
         "MO": {
           "total": 771734, 
           "pac": 131700, 
-          "indivs": 640034
+          "individual": 640034
         }, 
         "MN": {
           "total": 611454, 
           "pac": 37000, 
-          "indivs": 574454
+          "individual": 574454
         }, 
         "MI": {
           "total": 839898, 
           "pac": 253750, 
-          "indivs": 586148
+          "individual": 586148
         }, 
         "AK": {
           "total": 1174558, 
           "pac": 14000, 
-          "indivs": 1160558
+          "individual": 1160558
         }, 
         "MT": {
           "total": 1297406, 
           "pac": 282000, 
-          "indivs": 1015406
+          "individual": 1015406
         }, 
         "MS": {
           "total": 197346, 
           "pac": 79071, 
-          "indivs": 118275
+          "individual": 118275
         }, 
         "SC": {
           "total": 1507344, 
           "pac": 188791, 
-          "indivs": 1318553
+          "individual": 1318553
         }, 
         "KY": {
           "total": 2359314, 
           "pac": 276100, 
-          "indivs": 2083214
+          "individual": 2083214
         }, 
         "OR": {
           "total": 624306, 
           "pac": 140500, 
-          "indivs": 483806
+          "individual": 483806
         }, 
         "SD": {
           "total": 496852, 
           "pac": 84000, 
-          "indivs": 412852
+          "individual": 412852
         }
       }, 
       "name": "Securities & Investment"
@@ -680,12 +680,12 @@
         "ID": {
           "total": 100600, 
           "pac": 72000, 
-          "indivs": 28600
+          "individual": 28600
         }, 
         "AL": {
           "total": 140000, 
           "pac": 94500, 
-          "indivs": 45500
+          "individual": 45500
         }
       }, 
       "name": "Finance/Credit Companies"
@@ -695,27 +695,27 @@
         "UT": {
           "total": 64570, 
           "pac": 26320, 
-          "indivs": 38250
+          "individual": 38250
         }, 
         "CA": {
           "total": 166989, 
           "pac": 88289, 
-          "indivs": 78700
+          "individual": 78700
         }, 
         "VT": {
           "total": 73350, 
           "pac": 39000, 
-          "indivs": 34350
+          "individual": 34350
         }, 
         "OR": {
           "total": 105025, 
           "pac": 27000, 
-          "indivs": 78025
+          "individual": 78025
         }, 
         "WA": {
           "total": 328022, 
           "pac": 50750, 
-          "indivs": 277272
+          "individual": 277272
         }
       }, 
       "name": "Electronics Mfg & Equip"
@@ -725,7 +725,7 @@
         "VT": {
           "total": 51200, 
           "pac": 26500, 
-          "indivs": 24700
+          "individual": 24700
         }
       }, 
       "name": "Internet"
@@ -735,112 +735,112 @@
         "DE": {
           "total": 336560, 
           "pac": 188540, 
-          "indivs": 148020
+          "individual": 148020
         }, 
         "WV": {
           "total": 252675, 
           "pac": 126000, 
-          "indivs": 126675
+          "individual": 126675
         }, 
         "TX": {
           "total": 329315, 
           "pac": 118000, 
-          "indivs": 211315
+          "individual": 211315
         }, 
         "NE": {
           "total": 158050, 
           "pac": 77800, 
-          "indivs": 80250
+          "individual": 80250
         }, 
         "TN": {
           "total": 355190, 
           "pac": 133800, 
-          "indivs": 221390
+          "individual": 221390
         }, 
         "PA": {
           "total": 329948, 
           "pac": 175500, 
-          "indivs": 154448
+          "individual": 154448
         }, 
         "RI": {
           "total": 88150, 
           "pac": 64250, 
-          "indivs": 23900
+          "individual": 23900
         }, 
         "VA": {
           "total": 332750, 
           "pac": 147100, 
-          "indivs": 185650
+          "individual": 185650
         }, 
         "CO": {
           "total": 219706, 
           "pac": 87500, 
-          "indivs": 132206
+          "individual": 132206
         }, 
         "AL": {
           "total": 154000, 
           "pac": 142600, 
-          "indivs": 11400
+          "individual": 11400
         }, 
         "AR": {
           "total": 378251, 
           "pac": 174250, 
-          "indivs": 204001
+          "individual": 204001
         }, 
         "GA": {
           "total": 182975, 
           "pac": 80875, 
-          "indivs": 102100
+          "individual": 102100
         }, 
         "ID": {
           "total": 221000, 
           "pac": 187850, 
-          "indivs": 33150
+          "individual": 33150
         }, 
         "OK": {
           "total": 126077, 
           "pac": 41500, 
-          "indivs": 84577
+          "individual": 84577
         }, 
         "OH": {
           "total": 325050, 
           "pac": 110450, 
-          "indivs": 214600
+          "individual": 214600
         }, 
         "MO": {
           "total": 115700, 
           "pac": 63500, 
-          "indivs": 52200
+          "individual": 52200
         }, 
         "KS": {
           "total": 126350, 
           "pac": 72500, 
-          "indivs": 53850
+          "individual": 53850
         }, 
         "MT": {
           "total": 577718, 
           "pac": 302400, 
-          "indivs": 275318
+          "individual": 275318
         }, 
         "MS": {
           "total": 77361, 
           "pac": 58570, 
-          "indivs": 18791
+          "individual": 18791
         }, 
         "SC": {
           "total": 172095, 
           "pac": 122000, 
-          "indivs": 50095
+          "individual": 50095
         }, 
         "KY": {
           "total": 553089, 
           "pac": 189950, 
-          "indivs": 363139
+          "individual": 363139
         }, 
         "SD": {
           "total": 226760, 
           "pac": 97100, 
-          "indivs": 129660
+          "individual": 129660
         }
       }, 
       "name": "Commercial Banks"
@@ -850,27 +850,27 @@
         "TN": {
           "total": 236690, 
           "pac": 6000, 
-          "indivs": 230690
+          "individual": 230690
         }, 
         "MT": {
           "total": 188250, 
           "pac": 22500, 
-          "indivs": 165750
+          "individual": 165750
         }, 
         "OK": {
           "total": 94930, 
           "pac": 23500, 
-          "indivs": 71430
+          "individual": 71430
         }, 
         "FL": {
           "total": 112380, 
           "pac": 11500, 
-          "indivs": 100880
+          "individual": 100880
         }, 
         "LA": {
           "total": 328700, 
           "pac": 38500, 
-          "indivs": 290200
+          "individual": 290200
         }
       }, 
       "name": "General Contractors"
@@ -880,212 +880,212 @@
         "WA": {
           "total": 173098, 
           "pac": 138498, 
-          "indivs": 34600
+          "individual": 34600
         }, 
         "DE": {
           "total": 454602, 
           "pac": 351000, 
-          "indivs": 103602
+          "individual": 103602
         }, 
         "WI": {
           "total": 115650, 
           "pac": 83750, 
-          "indivs": 31900
+          "individual": 31900
         }, 
         "WV": {
           "total": 390188, 
           "pac": 285100, 
-          "indivs": 105088
+          "individual": 105088
         }, 
         "FL": {
           "total": 446459, 
           "pac": 214650, 
-          "indivs": 231809
+          "individual": 231809
         }, 
         "WY": {
           "total": 332375, 
           "pac": 264875, 
-          "indivs": 67500
+          "individual": 67500
         }, 
         "NH": {
           "total": 199100, 
           "pac": 150000, 
-          "indivs": 49100
+          "individual": 49100
         }, 
         "NJ": {
           "total": 600250, 
           "pac": 232600, 
-          "indivs": 367650
+          "individual": 367650
         }, 
         "TX": {
           "total": 368153, 
           "pac": 210853, 
-          "indivs": 157300
+          "individual": 157300
         }, 
         "LA": {
           "total": 204392, 
           "pac": 60600, 
-          "indivs": 143792
+          "individual": 143792
         }, 
         "NC": {
           "total": 154350, 
           "pac": 93500, 
-          "indivs": 60850
+          "individual": 60850
         }, 
         "ND": {
           "total": 173938, 
           "pac": 127188, 
-          "indivs": 46750
+          "individual": 46750
         }, 
         "NE": {
           "total": 345310, 
           "pac": 196960, 
-          "indivs": 148350
+          "individual": 148350
         }, 
         "TN": {
           "total": 555275, 
           "pac": 333700, 
-          "indivs": 221575
+          "individual": 221575
         }, 
         "NY": {
           "total": 854886, 
           "pac": 433616, 
-          "indivs": 421270
+          "individual": 421270
         }, 
         "PA": {
           "total": 812485, 
           "pac": 519450, 
-          "indivs": 293035
+          "individual": 293035
         }, 
         "RI": {
           "total": 174400, 
           "pac": 119500, 
-          "indivs": 54900
+          "individual": 54900
         }, 
         "NV": {
           "total": 459755, 
           "pac": 319500, 
-          "indivs": 140255
+          "individual": 140255
         }, 
         "VA": {
           "total": 542700, 
           "pac": 300500, 
-          "indivs": 242200
+          "individual": 242200
         }, 
         "CO": {
           "total": 179850, 
           "pac": 157500, 
-          "indivs": 22350
+          "individual": 22350
         }, 
         "AL": {
           "total": 247900, 
           "pac": 218250, 
-          "indivs": 29650
+          "individual": 29650
         }, 
         "IL": {
           "total": 434799, 
           "pac": 291200, 
-          "indivs": 143599
+          "individual": 143599
         }, 
         "GA": {
           "total": 516845, 
           "pac": 223000, 
-          "indivs": 293845
+          "individual": 293845
         }, 
         "IN": {
           "total": 168951, 
           "pac": 140500, 
-          "indivs": 28451
+          "individual": 28451
         }, 
         "IA": {
           "total": 87250, 
           "pac": 81700, 
-          "indivs": 5550
+          "individual": 5550
         }, 
         "AZ": {
           "total": 66800, 
           "pac": 41000, 
-          "indivs": 25800
+          "individual": 25800
         }, 
         "ID": {
           "total": 362150, 
           "pac": 341200, 
-          "indivs": 20950
+          "individual": 20950
         }, 
         "CT": {
           "total": 371525, 
           "pac": 254000, 
-          "indivs": 117525
+          "individual": 117525
         }, 
         "ME": {
           "total": 273500, 
           "pac": 210000, 
-          "indivs": 63500
+          "individual": 63500
         }, 
         "MD": {
           "total": 286100, 
           "pac": 215000, 
-          "indivs": 71100
+          "individual": 71100
         }, 
         "OK": {
           "total": 113885, 
           "pac": 71600, 
-          "indivs": 42285
+          "individual": 42285
         }, 
         "OH": {
           "total": 991858, 
           "pac": 552950, 
-          "indivs": 438908
+          "individual": 438908
         }, 
         "UT": {
           "total": 486174, 
           "pac": 356174, 
-          "indivs": 130000
+          "individual": 130000
         }, 
         "MO": {
           "total": 185146, 
           "pac": 122000, 
-          "indivs": 63146
+          "individual": 63146
         }, 
         "MI": {
           "total": 523071, 
           "pac": 343921, 
-          "indivs": 179150
+          "individual": 179150
         }, 
         "KS": {
           "total": 252850, 
           "pac": 199950, 
-          "indivs": 52900
+          "individual": 52900
         }, 
         "MT": {
           "total": 347277, 
           "pac": 278394, 
-          "indivs": 68883
+          "individual": 68883
         }, 
         "MS": {
           "total": 317650, 
           "pac": 230550, 
-          "indivs": 87100
+          "individual": 87100
         }, 
         "SC": {
           "total": 487950, 
           "pac": 329000, 
-          "indivs": 158950
+          "individual": 158950
         }, 
         "KY": {
           "total": 931650, 
           "pac": 371500, 
-          "indivs": 560150
+          "individual": 560150
         }, 
         "OR": {
           "total": 320600, 
           "pac": 217500, 
-          "indivs": 103100
+          "individual": 103100
         }, 
         "SD": {
           "total": 432720, 
           "pac": 337450, 
-          "indivs": 95270
+          "individual": 95270
         }
       }, 
       "name": "Insurance"
@@ -1095,7 +1095,7 @@
         "AR": {
           "total": 36600, 
           "pac": 30000, 
-          "indivs": 6600
+          "individual": 6600
         }
       }, 
       "name": "Forestry & Forest Products"
@@ -1105,77 +1105,77 @@
         "ME": {
           "total": 58983, 
           "pac": 0, 
-          "indivs": 58983
+          "individual": 58983
         }, 
         "VA": {
           "total": 526265, 
           "pac": 0, 
-          "indivs": 526265
+          "individual": 526265
         }, 
         "NJ": {
           "total": 281281, 
           "pac": 5000, 
-          "indivs": 276281
+          "individual": 276281
         }, 
         "MA": {
           "total": 1383008, 
           "pac": 0, 
-          "indivs": 1383008
+          "individual": 1383008
         }, 
         "NM": {
           "total": 317452, 
           "pac": 6500, 
-          "indivs": 310952
+          "individual": 310952
         }, 
         "WA": {
           "total": 122225, 
           "pac": 42344, 
-          "indivs": 79881
+          "individual": 79881
         }, 
         "OH": {
           "total": 576594, 
           "pac": 1000, 
-          "indivs": 575594
+          "individual": 575594
         }, 
         "MO": {
           "total": 397455, 
           "pac": 0, 
-          "indivs": 397455
+          "individual": 397455
         }, 
         "MN": {
           "total": 203374, 
           "pac": 2000, 
-          "indivs": 201374
+          "individual": 201374
         }, 
         "MI": {
           "total": 205818, 
           "pac": 2250, 
-          "indivs": 203568
+          "individual": 203568
         }, 
         "WI": {
           "total": 335975, 
           "pac": 2500, 
-          "indivs": 333475
+          "individual": 333475
         }, 
         "VT": {
           "total": 58248, 
           "pac": 0, 
-          "indivs": 58248
+          "individual": 58248
         }, 
         "IN": {
           "total": 143413, 
           "pac": 2500, 
-          "indivs": 140913
+          "individual": 140913
         }, 
         "OR": {
           "total": 149848, 
           "pac": 1000, 
-          "indivs": 148848
+          "individual": 148848
         }, 
         "CT": {
           "total": 252551, 
           "pac": 0, 
-          "indivs": 252551
+          "individual": 252551
         }
       }, 
       "name": "Education"
@@ -1185,237 +1185,237 @@
         "WA": {
           "total": 867557, 
           "pac": 0, 
-          "indivs": 867557
+          "individual": 867557
         }, 
         "WI": {
           "total": 1624465, 
           "pac": 0, 
-          "indivs": 1624465
+          "individual": 1624465
         }, 
         "WV": {
           "total": 436086, 
           "pac": 0, 
-          "indivs": 436086
+          "individual": 436086
         }, 
         "HI": {
           "total": 375521, 
           "pac": 0, 
-          "indivs": 375521
+          "individual": 375521
         }, 
         "FL": {
           "total": 1734129, 
           "pac": 0, 
-          "indivs": 1734129
+          "individual": 1734129
         }, 
         "NH": {
           "total": 847469, 
           "pac": 0, 
-          "indivs": 847469
+          "individual": 847469
         }, 
         "KS": {
           "total": 384986, 
           "pac": 0, 
-          "indivs": 384986
+          "individual": 384986
         }, 
         "NJ": {
           "total": 493270, 
           "pac": 0, 
-          "indivs": 493270
+          "individual": 493270
         }, 
         "NM": {
           "total": 968340, 
           "pac": 0, 
-          "indivs": 968340
+          "individual": 968340
         }, 
         "TX": {
           "total": 1385722, 
           "pac": 0, 
-          "indivs": 1385722
+          "individual": 1385722
         }, 
         "LA": {
           "total": 997962, 
           "pac": 0, 
-          "indivs": 997962
+          "individual": 997962
         }, 
         "NC": {
           "total": 1453514, 
           "pac": 0, 
-          "indivs": 1453514
+          "individual": 1453514
         }, 
         "ND": {
           "total": 152316, 
           "pac": 0, 
-          "indivs": 152316
+          "individual": 152316
         }, 
         "NE": {
           "total": 708514, 
           "pac": 0, 
-          "indivs": 708514
+          "individual": 708514
         }, 
         "TN": {
           "total": 676223, 
           "pac": 0, 
-          "indivs": 676223
+          "individual": 676223
         }, 
         "NY": {
           "total": 1032692, 
           "pac": 0, 
-          "indivs": 1032692
+          "individual": 1032692
         }, 
         "PA": {
           "total": 939151, 
           "pac": 0, 
-          "indivs": 939151
+          "individual": 939151
         }, 
         "RI": {
           "total": 312531, 
           "pac": 0, 
-          "indivs": 312531
+          "individual": 312531
         }, 
         "NV": {
           "total": 552642, 
           "pac": 0, 
-          "indivs": 552642
+          "individual": 552642
         }, 
         "VA": {
           "total": 2992658, 
           "pac": 0, 
-          "indivs": 2992658
+          "individual": 2992658
         }, 
         "CO": {
           "total": 1498612, 
           "pac": 0, 
-          "indivs": 1498612
+          "individual": 1498612
         }, 
         "CA": {
           "total": 345183, 
           "pac": 0, 
-          "indivs": 345183
+          "individual": 345183
         }, 
         "AR": {
           "total": 1233202, 
           "pac": 0, 
-          "indivs": 1233202
+          "individual": 1233202
         }, 
         "VT": {
           "total": 626400, 
           "pac": 0, 
-          "indivs": 626400
+          "individual": 626400
         }, 
         "IL": {
           "total": 775886, 
           "pac": 0, 
-          "indivs": 775886
+          "individual": 775886
         }, 
         "GA": {
           "total": 1847931, 
           "pac": 0, 
-          "indivs": 1847931
+          "individual": 1847931
         }, 
         "IN": {
           "total": 300118, 
           "pac": 0, 
-          "indivs": 300118
+          "individual": 300118
         }, 
         "IA": {
           "total": 1151163, 
           "pac": 0, 
-          "indivs": 1151163
+          "individual": 1151163
         }, 
         "OK": {
           "total": 628110, 
           "pac": 0, 
-          "indivs": 628110
+          "individual": 628110
         }, 
         "AZ": {
           "total": 1047281, 
           "pac": 0, 
-          "indivs": 1047281
+          "individual": 1047281
         }, 
         "ID": {
           "total": 83326, 
           "pac": 0, 
-          "indivs": 83326
+          "individual": 83326
         }, 
         "CT": {
           "total": 1341421, 
           "pac": 0, 
-          "indivs": 1341421
+          "individual": 1341421
         }, 
         "ME": {
           "total": 719586, 
           "pac": 0, 
-          "indivs": 719586
+          "individual": 719586
         }, 
         "MD": {
           "total": 223510, 
           "pac": 0, 
-          "indivs": 223510
+          "individual": 223510
         }, 
         "MA": {
           "total": 4081037, 
           "pac": 0, 
-          "indivs": 4081037
+          "individual": 4081037
         }, 
         "OH": {
           "total": 2048823, 
           "pac": 0, 
-          "indivs": 2048823
+          "individual": 2048823
         }, 
         "UT": {
           "total": 158550, 
           "pac": 0, 
-          "indivs": 158550
+          "individual": 158550
         }, 
         "MO": {
           "total": 1532584, 
           "pac": 0, 
-          "indivs": 1532584
+          "individual": 1532584
         }, 
         "MN": {
           "total": 1611890, 
           "pac": 0, 
-          "indivs": 1611890
+          "individual": 1611890
         }, 
         "MI": {
           "total": 745295, 
           "pac": 0, 
-          "indivs": 745295
+          "individual": 745295
         }, 
         "AK": {
           "total": 771433, 
           "pac": 0, 
-          "indivs": 771433
+          "individual": 771433
         }, 
         "MT": {
           "total": 1427780, 
           "pac": 0, 
-          "indivs": 1427780
+          "individual": 1427780
         }, 
         "MS": {
           "total": 184204, 
           "pac": 0, 
-          "indivs": 184204
+          "individual": 184204
         }, 
         "SC": {
           "total": 895333, 
           "pac": 0, 
-          "indivs": 895333
+          "individual": 895333
         }, 
         "KY": {
           "total": 1545932, 
           "pac": 0, 
-          "indivs": 1545932
+          "individual": 1545932
         }, 
         "OR": {
           "total": 383147, 
           "pac": 0, 
-          "indivs": 383147
+          "individual": 383147
         }, 
         "SD": {
           "total": 633939, 
           "pac": 0, 
-          "indivs": 633939
+          "individual": 633939
         }
       }, 
       "name": "Retired"
@@ -1425,12 +1425,12 @@
         "CA": {
           "total": 20000, 
           "pac": 20000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "IN": {
           "total": 110440, 
           "pac": 107000, 
-          "indivs": 3440
+          "individual": 3440
         }
       }, 
       "name": "Building Trade Unions"
@@ -1440,7 +1440,7 @@
         "VT": {
           "total": 51650, 
           "pac": 0, 
-          "indivs": 51650
+          "individual": 51650
         }
       }, 
       "name": "Non-Profit Institutions"
@@ -1450,7 +1450,7 @@
         "CA": {
           "total": 21000, 
           "pac": 21000, 
-          "indivs": 0
+          "individual": 0
         }
       }, 
       "name": "Railroads"
@@ -1460,7 +1460,7 @@
         "HI": {
           "total": 298285, 
           "pac": 133150, 
-          "indivs": 165135
+          "individual": 165135
         }
       }, 
       "name": "Sea Transport"
@@ -1470,47 +1470,47 @@
         "NH": {
           "total": 218313, 
           "pac": 37485, 
-          "indivs": 180828
+          "individual": 180828
         }, 
         "MA": {
           "total": 569471, 
           "pac": 34949, 
-          "indivs": 534522
+          "individual": 534522
         }, 
         "NM": {
           "total": 431763, 
           "pac": 50209, 
-          "indivs": 381554
+          "individual": 381554
         }, 
         "WA": {
           "total": 120713, 
           "pac": 0, 
-          "indivs": 120713
+          "individual": 120713
         }, 
         "MI": {
           "total": 274834, 
           "pac": 29647, 
-          "indivs": 245187
+          "individual": 245187
         }, 
         "MT": {
           "total": 268685, 
           "pac": 17814, 
-          "indivs": 250871
+          "individual": 250871
         }, 
         "HI": {
           "total": 195866, 
           "pac": 37701, 
-          "indivs": 158165
+          "individual": 158165
         }, 
         "VT": {
           "total": 47797, 
           "pac": 3007, 
-          "indivs": 44790
+          "individual": 44790
         }, 
         "OR": {
           "total": 140849, 
           "pac": 16181, 
-          "indivs": 124668
+          "individual": 124668
         }
       }, 
       "name": "Environment"
@@ -1520,12 +1520,12 @@
         "KY": {
           "total": 38850, 
           "pac": 35750, 
-          "indivs": 3100
+          "individual": 3100
         }, 
         "GA": {
           "total": 148500, 
           "pac": 0, 
-          "indivs": 148500
+          "individual": 148500
         }
       }, 
       "name": "Misc Issues"
@@ -1535,22 +1535,22 @@
         "NH": {
           "total": 122500, 
           "pac": 110500, 
-          "indivs": 12000
+          "individual": 12000
         }, 
         "MD": {
           "total": 35000, 
           "pac": 23500, 
-          "indivs": 11500
+          "individual": 11500
         }, 
         "GA": {
           "total": 148900, 
           "pac": 34500, 
-          "indivs": 114400
+          "individual": 114400
         }, 
         "SD": {
           "total": 152250, 
           "pac": 130500, 
-          "indivs": 21750
+          "individual": 21750
         }
       }, 
       "name": "Air Transport"
@@ -1560,82 +1560,82 @@
         "ME": {
           "total": 53273, 
           "pac": 0, 
-          "indivs": 53273
+          "individual": 53273
         }, 
         "VA": {
           "total": 935588, 
           "pac": 37700, 
-          "indivs": 897888
+          "individual": 897888
         }, 
         "NJ": {
           "total": 700585, 
           "pac": 29500, 
-          "indivs": 671085
+          "individual": 671085
         }, 
         "MA": {
           "total": 883491, 
           "pac": 10100, 
-          "indivs": 873391
+          "individual": 873391
         }, 
         "WA": {
           "total": 157877, 
           "pac": 0, 
-          "indivs": 157877
+          "individual": 157877
         }, 
         "TX": {
           "total": 302362, 
           "pac": 9000, 
-          "indivs": 293362
+          "individual": 293362
         }, 
         "CA": {
           "total": 13325, 
           "pac": 0, 
-          "indivs": 13325
+          "individual": 13325
         }, 
         "NC": {
           "total": 218844, 
           "pac": 10000, 
-          "indivs": 208844
+          "individual": 208844
         }, 
         "NE": {
           "total": 149250, 
           "pac": 2600, 
-          "indivs": 146650
+          "individual": 146650
         }, 
         "WI": {
           "total": 191390, 
           "pac": 2000, 
-          "indivs": 189390
+          "individual": 189390
         }, 
         "NY": {
           "total": 623403, 
           "pac": 56900, 
-          "indivs": 566503
+          "individual": 566503
         }, 
         "SC": {
           "total": 216610, 
           "pac": 9000, 
-          "indivs": 207610
+          "individual": 207610
         }, 
         "AZ": {
           "total": 127100, 
           "pac": 7100, 
-          "indivs": 120000
+          "individual": 120000
         }, 
         "MO": {
           "total": 309053, 
           "pac": 25025, 
-          "indivs": 284028
+          "individual": 284028
         }, 
         "NV": {
           "total": 128831, 
           "pac": 47500, 
-          "indivs": 81331
+          "individual": 81331
         }, 
         "CT": {
           "total": 100502, 
           "pac": 12700, 
-          "indivs": 87802
+          "individual": 87802
         }
       }, 
       "name": "Business Services"
@@ -1645,17 +1645,17 @@
         "WA": {
           "total": 210100, 
           "pac": 0, 
-          "indivs": 210100
+          "individual": 210100
         }, 
         "NM": {
           "total": 140950, 
           "pac": 8500, 
-          "indivs": 132450
+          "individual": 132450
         }, 
         "NV": {
           "total": 458832, 
           "pac": 127500, 
-          "indivs": 331332
+          "individual": 331332
         }
       }, 
       "name": "Casinos/Gambling"
@@ -1665,12 +1665,12 @@
         "AK": {
           "total": 92450, 
           "pac": 53500, 
-          "indivs": 38950
+          "individual": 38950
         }, 
         "FL": {
           "total": 97840, 
           "pac": 42000, 
-          "indivs": 55840
+          "individual": 55840
         }
       }, 
       "name": "Food & Beverage"
@@ -1680,32 +1680,32 @@
         "MN": {
           "total": 147683, 
           "pac": 58000, 
-          "indivs": 89683
+          "individual": 89683
         }, 
         "NC": {
           "total": 106950, 
           "pac": 46000, 
-          "indivs": 60950
+          "individual": 60950
         }, 
         "AR": {
           "total": 35600, 
           "pac": 25500, 
-          "indivs": 10100
+          "individual": 10100
         }, 
         "GA": {
           "total": 185600, 
           "pac": 46500, 
-          "indivs": 139100
+          "individual": 139100
         }, 
         "RI": {
           "total": 88513, 
           "pac": 64500, 
-          "indivs": 24013
+          "individual": 24013
         }, 
         "WY": {
           "total": 105850, 
           "pac": 102000, 
-          "indivs": 3850
+          "individual": 3850
         }
       }, 
       "name": "Retail Sales"
@@ -1715,12 +1715,12 @@
         "OK": {
           "total": 91825, 
           "pac": 72500, 
-          "indivs": 19325
+          "individual": 19325
         }, 
         "AL": {
           "total": 41300, 
           "pac": 24500, 
-          "indivs": 16800
+          "individual": 16800
         }
       }, 
       "name": "Trucking"
@@ -1730,247 +1730,247 @@
         "WA": {
           "total": 1027305, 
           "pac": 90268, 
-          "indivs": 937037
+          "individual": 937037
         }, 
         "DE": {
           "total": 1348728, 
           "pac": 256760, 
-          "indivs": 1091968
+          "individual": 1091968
         }, 
         "WI": {
           "total": 783505, 
           "pac": 67350, 
-          "indivs": 716155
+          "individual": 716155
         }, 
         "WV": {
           "total": 675413, 
           "pac": 119013, 
-          "indivs": 556400
+          "individual": 556400
         }, 
         "HI": {
           "total": 1417976, 
           "pac": 135299, 
-          "indivs": 1282677
+          "individual": 1282677
         }, 
         "FL": {
           "total": 2179690, 
           "pac": 210753, 
-          "indivs": 1968937
+          "individual": 1968937
         }, 
         "WY": {
           "total": 104249, 
           "pac": 63000, 
-          "indivs": 41249
+          "individual": 41249
         }, 
         "NH": {
           "total": 959820, 
           "pac": 179825, 
-          "indivs": 779995
+          "individual": 779995
         }, 
         "KS": {
           "total": 369887, 
           "pac": 188412, 
-          "indivs": 181475
+          "individual": 181475
         }, 
         "NJ": {
           "total": 3536810, 
           "pac": 333949, 
-          "indivs": 3202861
+          "individual": 3202861
         }, 
         "NM": {
           "total": 1346924, 
           "pac": 155072, 
-          "indivs": 1191852
+          "individual": 1191852
         }, 
         "TX": {
           "total": 1534704, 
           "pac": 227549, 
-          "indivs": 1307155
+          "individual": 1307155
         }, 
         "LA": {
           "total": 345827, 
           "pac": 94000, 
-          "indivs": 251827
+          "individual": 251827
         }, 
         "NC": {
           "total": 607031, 
           "pac": 115000, 
-          "indivs": 492031
+          "individual": 492031
         }, 
         "ND": {
           "total": 717111, 
           "pac": 106111, 
-          "indivs": 611000
+          "individual": 611000
         }, 
         "NE": {
           "total": 288387, 
           "pac": 92000, 
-          "indivs": 196387
+          "individual": 196387
         }, 
         "TN": {
           "total": 632546, 
           "pac": 189488, 
-          "indivs": 443058
+          "individual": 443058
         }, 
         "NY": {
           "total": 3403603, 
           "pac": 326251, 
-          "indivs": 3077352
+          "individual": 3077352
         }, 
         "PA": {
           "total": 2191487, 
           "pac": 342539, 
-          "indivs": 1848948
+          "individual": 1848948
         }, 
         "RI": {
           "total": 1033272, 
           "pac": 183170, 
-          "indivs": 850102
+          "individual": 850102
         }, 
         "NV": {
           "total": 350986, 
           "pac": 80300, 
-          "indivs": 270686
+          "individual": 270686
         }, 
         "VA": {
           "total": 3538074, 
           "pac": 302260, 
-          "indivs": 3235814
+          "individual": 3235814
         }, 
         "CO": {
           "total": 899675, 
           "pac": 153712, 
-          "indivs": 745963
+          "individual": 745963
         }, 
         "CA": {
           "total": 481779, 
           "pac": 113500, 
-          "indivs": 368279
+          "individual": 368279
         }, 
         "AL": {
           "total": 145353, 
           "pac": 92948, 
-          "indivs": 52405
+          "individual": 52405
         }, 
         "AR": {
           "total": 408920, 
           "pac": 42365, 
-          "indivs": 366555
+          "individual": 366555
         }, 
         "VT": {
           "total": 446528, 
           "pac": 80700, 
-          "indivs": 365828
+          "individual": 365828
         }, 
         "IL": {
           "total": 1484139, 
           "pac": 148620, 
-          "indivs": 1335519
+          "individual": 1335519
         }, 
         "GA": {
           "total": 524260, 
           "pac": 114950, 
-          "indivs": 409310
+          "individual": 409310
         }, 
         "IN": {
           "total": 851409, 
           "pac": 76444, 
-          "indivs": 774965
+          "individual": 774965
         }, 
         "IA": {
           "total": 337924, 
           "pac": 78200, 
-          "indivs": 259724
+          "individual": 259724
         }, 
         "OK": {
           "total": 218700, 
           "pac": 62375, 
-          "indivs": 156325
+          "individual": 156325
         }, 
         "AZ": {
           "total": 471016, 
           "pac": 112801, 
-          "indivs": 358215
+          "individual": 358215
         }, 
         "CT": {
           "total": 1548388, 
           "pac": 133331, 
-          "indivs": 1415057
+          "individual": 1415057
         }, 
         "ME": {
           "total": 645354, 
           "pac": 136750, 
-          "indivs": 508604
+          "individual": 508604
         }, 
         "MD": {
           "total": 496361, 
           "pac": 148000, 
-          "indivs": 348361
+          "individual": 348361
         }, 
         "MA": {
           "total": 4217283, 
           "pac": 164263, 
-          "indivs": 4053020
+          "individual": 4053020
         }, 
         "OH": {
           "total": 2386250, 
           "pac": 289621, 
-          "indivs": 2096629
+          "individual": 2096629
         }, 
         "UT": {
           "total": 594794, 
           "pac": 256816, 
-          "indivs": 337978
+          "individual": 337978
         }, 
         "MO": {
           "total": 2491509, 
           "pac": 253754, 
-          "indivs": 2237755
+          "individual": 2237755
         }, 
         "MN": {
           "total": 1934710, 
           "pac": 216092, 
-          "indivs": 1718618
+          "individual": 1718618
         }, 
         "MI": {
           "total": 1290748, 
           "pac": 179106, 
-          "indivs": 1111642
+          "individual": 1111642
         }, 
         "AK": {
           "total": 373831, 
           "pac": 75250, 
-          "indivs": 298581
+          "individual": 298581
         }, 
         "MT": {
           "total": 1358209, 
           "pac": 171444, 
-          "indivs": 1186765
+          "individual": 1186765
         }, 
         "MS": {
           "total": 452515, 
           "pac": 214900, 
-          "indivs": 237615
+          "individual": 237615
         }, 
         "SC": {
           "total": 1262198, 
           "pac": 148100, 
-          "indivs": 1114098
+          "individual": 1114098
         }, 
         "KY": {
           "total": 1038942, 
           "pac": 296550, 
-          "indivs": 742392
+          "individual": 742392
         }, 
         "OR": {
           "total": 903284, 
           "pac": 203426, 
-          "indivs": 699858
+          "individual": 699858
         }, 
         "SD": {
           "total": 231738, 
           "pac": 69700, 
-          "indivs": 162038
+          "individual": 162038
         }
       }, 
       "name": "Lawyers/Law Firms"
@@ -1980,212 +1980,212 @@
         "WA": {
           "total": 633317, 
           "pac": 3719, 
-          "indivs": 629598
+          "individual": 629598
         }, 
         "DE": {
           "total": 453729, 
           "pac": 29930, 
-          "indivs": 423799
+          "individual": 423799
         }, 
         "WV": {
           "total": 155238, 
           "pac": 9220, 
-          "indivs": 146018
+          "individual": 146018
         }, 
         "HI": {
           "total": 328389, 
           "pac": 21300, 
-          "indivs": 307089
+          "individual": 307089
         }, 
         "FL": {
           "total": 455181, 
           "pac": 26606, 
-          "indivs": 428575
+          "individual": 428575
         }, 
         "WY": {
           "total": 315635, 
           "pac": 7000, 
-          "indivs": 308635
+          "individual": 308635
         }, 
         "NH": {
           "total": 525312, 
           "pac": 20587, 
-          "indivs": 504725
+          "individual": 504725
         }, 
         "NJ": {
           "total": 411672, 
           "pac": 17860, 
-          "indivs": 393812
+          "individual": 393812
         }, 
         "NM": {
           "total": 518143, 
           "pac": 11774, 
-          "indivs": 506369
+          "individual": 506369
         }, 
         "NC": {
           "total": 148713, 
           "pac": 4000, 
-          "indivs": 144713
+          "individual": 144713
         }, 
         "ND": {
           "total": 221345, 
           "pac": 6500, 
-          "indivs": 214845
+          "individual": 214845
         }, 
         "NY": {
           "total": 744075, 
           "pac": 32045, 
-          "indivs": 712030
+          "individual": 712030
         }, 
         "PA": {
           "total": 325151, 
           "pac": 8300, 
-          "indivs": 316851
+          "individual": 316851
         }, 
         "RI": {
           "total": 385456, 
           "pac": 16053, 
-          "indivs": 369403
+          "individual": 369403
         }, 
         "NV": {
           "total": 428077, 
           "pac": 20522, 
-          "indivs": 407555
+          "individual": 407555
         }, 
         "VA": {
           "total": 752708, 
           "pac": 24275, 
-          "indivs": 728433
+          "individual": 728433
         }, 
         "CO": {
           "total": 239934, 
           "pac": 14200, 
-          "indivs": 225734
+          "individual": 225734
         }, 
         "CA": {
           "total": 259154, 
           "pac": 15651, 
-          "indivs": 243503
+          "individual": 243503
         }, 
         "AL": {
           "total": 56950, 
           "pac": 0, 
-          "indivs": 56950
+          "individual": 56950
         }, 
         "VT": {
           "total": 117700, 
           "pac": 5750, 
-          "indivs": 111950
+          "individual": 111950
         }, 
         "IL": {
           "total": 222381, 
           "pac": 13500, 
-          "indivs": 208881
+          "individual": 208881
         }, 
         "IN": {
           "total": 179910, 
           "pac": 29000, 
-          "indivs": 150910
+          "individual": 150910
         }, 
         "IA": {
           "total": 128700, 
           "pac": 18487, 
-          "indivs": 110213
+          "individual": 110213
         }, 
         "OK": {
           "total": 128731, 
           "pac": 9500, 
-          "indivs": 119231
+          "individual": 119231
         }, 
         "AZ": {
           "total": 94426, 
           "pac": 1000, 
-          "indivs": 93426
+          "individual": 93426
         }, 
         "ID": {
           "total": 69963, 
           "pac": 16000, 
-          "indivs": 53963
+          "individual": 53963
         }, 
         "CT": {
           "total": 436609, 
           "pac": 19050, 
-          "indivs": 417559
+          "individual": 417559
         }, 
         "ME": {
           "total": 259013, 
           "pac": 9500, 
-          "indivs": 249513
+          "individual": 249513
         }, 
         "MD": {
           "total": 296378, 
           "pac": 16992, 
-          "indivs": 279386
+          "individual": 279386
         }, 
         "MA": {
           "total": 517270, 
           "pac": 7800, 
-          "indivs": 509470
+          "individual": 509470
         }, 
         "OH": {
           "total": 716645, 
           "pac": 26100, 
-          "indivs": 690545
+          "individual": 690545
         }, 
         "UT": {
           "total": 449494, 
           "pac": 18154, 
-          "indivs": 431340
+          "individual": 431340
         }, 
         "MO": {
           "total": 254200, 
           "pac": 4550, 
-          "indivs": 249650
+          "individual": 249650
         }, 
         "MN": {
           "total": 216225, 
           "pac": 23600, 
-          "indivs": 192625
+          "individual": 192625
         }, 
         "MI": {
           "total": 374330, 
           "pac": 18765, 
-          "indivs": 355565
+          "individual": 355565
         }, 
         "AK": {
           "total": 115404, 
           "pac": 3500, 
-          "indivs": 111904
+          "individual": 111904
         }, 
         "MT": {
           "total": 566717, 
           "pac": 12855, 
-          "indivs": 553862
+          "individual": 553862
         }, 
         "MS": {
           "total": 341504, 
           "pac": 15001, 
-          "indivs": 326503
+          "individual": 326503
         }, 
         "SC": {
           "total": 197388, 
           "pac": 9500, 
-          "indivs": 187888
+          "individual": 187888
         }, 
         "KY": {
           "total": 564137, 
           "pac": 30396, 
-          "indivs": 533741
+          "individual": 533741
         }, 
         "OR": {
           "total": 352833, 
           "pac": 13550, 
-          "indivs": 339283
+          "individual": 339283
         }, 
         "SD": {
           "total": 214685, 
           "pac": 4500, 
-          "indivs": 210185
+          "individual": 210185
         }
       }, 
       "name": "Lobbyists"
@@ -2195,12 +2195,12 @@
         "MD": {
           "total": 42700, 
           "pac": 35000, 
-          "indivs": 7700
+          "individual": 7700
         }, 
         "AL": {
           "total": 53000, 
           "pac": 27600, 
-          "indivs": 25400
+          "individual": 25400
         }
       }, 
       "name": "Misc Defense"
@@ -2210,12 +2210,12 @@
         "MD": {
           "total": 98900, 
           "pac": 36500, 
-          "indivs": 62400
+          "individual": 62400
         }, 
         "AL": {
           "total": 66000, 
           "pac": 48500, 
-          "indivs": 17500
+          "individual": 17500
         }
       }, 
       "name": "Defense Electronics"
@@ -2225,32 +2225,32 @@
         "MD": {
           "total": 63950, 
           "pac": 44500, 
-          "indivs": 19450
+          "individual": 19450
         }, 
         "OK": {
           "total": 118000, 
           "pac": 104500, 
-          "indivs": 13500
+          "individual": 13500
         }, 
         "AL": {
           "total": 194000, 
           "pac": 156000, 
-          "indivs": 38000
+          "individual": 38000
         }, 
         "VT": {
           "total": 45700, 
           "pac": 41450, 
-          "indivs": 4250
+          "individual": 4250
         }, 
         "IL": {
           "total": 188049, 
           "pac": 49499, 
-          "indivs": 138550
+          "individual": 138550
         }, 
         "MS": {
           "total": 204300, 
           "pac": 144000, 
-          "indivs": 60300
+          "individual": 60300
         }
       }, 
       "name": "Defense Aerospace"
@@ -2260,12 +2260,12 @@
         "IA": {
           "total": 72141, 
           "pac": 58500, 
-          "indivs": 13641
+          "individual": 13641
         }, 
         "AK": {
           "total": 79318, 
           "pac": 46468, 
-          "indivs": 32850
+          "individual": 32850
         }
       }, 
       "name": "Misc Energy"
@@ -2275,47 +2275,47 @@
         "OK": {
           "total": 185850, 
           "pac": 69500, 
-          "indivs": 116350
+          "individual": 116350
         }, 
         "MT": {
           "total": 152100, 
           "pac": 59750, 
-          "indivs": 92350
+          "individual": 92350
         }, 
         "LA": {
           "total": 98400, 
           "pac": 41000, 
-          "indivs": 57400
+          "individual": 57400
         }, 
         "ND": {
           "total": 48675, 
           "pac": 13625, 
-          "indivs": 35050
+          "individual": 35050
         }, 
         "WV": {
           "total": 659199, 
           "pac": 177875, 
-          "indivs": 481324
+          "individual": 481324
         }, 
         "WY": {
           "total": 233706, 
           "pac": 73500, 
-          "indivs": 160206
+          "individual": 160206
         }, 
         "AZ": {
           "total": 188602, 
           "pac": 59000, 
-          "indivs": 129602
+          "individual": 129602
         }, 
         "ID": {
           "total": 72650, 
           "pac": 28750, 
-          "indivs": 43900
+          "individual": 43900
         }, 
         "NV": {
           "total": 263100, 
           "pac": 107825, 
-          "indivs": 155275
+          "individual": 155275
         }
       }, 
       "name": "Mining"
@@ -2325,147 +2325,147 @@
         "WI": {
           "total": 91600, 
           "pac": 41000, 
-          "indivs": 50600
+          "individual": 50600
         }, 
         "WV": {
           "total": 441666, 
           "pac": 262500, 
-          "indivs": 179166
+          "individual": 179166
         }, 
         "WY": {
           "total": 609449, 
           "pac": 372733, 
-          "indivs": 236716
+          "individual": 236716
         }, 
         "NH": {
           "total": 136450, 
           "pac": 69000, 
-          "indivs": 67450
+          "individual": 67450
         }, 
         "NM": {
           "total": 189363, 
           "pac": 87500, 
-          "indivs": 101863
+          "individual": 101863
         }, 
         "TX": {
           "total": 1999488, 
           "pac": 456500, 
-          "indivs": 1542988
+          "individual": 1542988
         }, 
         "LA": {
           "total": 852303, 
           "pac": 207400, 
-          "indivs": 644903
+          "individual": 644903
         }, 
         "NC": {
           "total": 252600, 
           "pac": 129100, 
-          "indivs": 123500
+          "individual": 123500
         }, 
         "ND": {
           "total": 373947, 
           "pac": 241698, 
-          "indivs": 132249
+          "individual": 132249
         }, 
         "NE": {
           "total": 166085, 
           "pac": 69500, 
-          "indivs": 96585
+          "individual": 96585
         }, 
         "TN": {
           "total": 149786, 
           "pac": 99933, 
-          "indivs": 49853
+          "individual": 49853
         }, 
         "PA": {
           "total": 258750, 
           "pac": 125700, 
-          "indivs": 133050
+          "individual": 133050
         }, 
         "NV": {
           "total": 252950, 
           "pac": 149250, 
-          "indivs": 103700
+          "individual": 103700
         }, 
         "CO": {
           "total": 709649, 
           "pac": 275700, 
-          "indivs": 433949
+          "individual": 433949
         }, 
         "AK": {
           "total": 762996, 
           "pac": 327900, 
-          "indivs": 435096
+          "individual": 435096
         }, 
         "AL": {
           "total": 88250, 
           "pac": 87000, 
-          "indivs": 1250
+          "individual": 1250
         }, 
         "AR": {
           "total": 506135, 
           "pac": 105100, 
-          "indivs": 401035
+          "individual": 401035
         }, 
         "IN": {
           "total": 42750, 
           "pac": 31750, 
-          "indivs": 11000
+          "individual": 11000
         }, 
         "IA": {
           "total": 278648, 
           "pac": 91000, 
-          "indivs": 187648
+          "individual": 187648
         }, 
         "AZ": {
           "total": 159860, 
           "pac": 97500, 
-          "indivs": 62360
+          "individual": 62360
         }, 
         "ID": {
           "total": 112050, 
           "pac": 96750, 
-          "indivs": 15300
+          "individual": 15300
         }, 
         "OK": {
           "total": 1007850, 
           "pac": 506750, 
-          "indivs": 501100
+          "individual": 501100
         }, 
         "UT": {
           "total": 548065, 
           "pac": 275900, 
-          "indivs": 272165
+          "individual": 272165
         }, 
         "KS": {
           "total": 489650, 
           "pac": 235950, 
-          "indivs": 253700
+          "individual": 253700
         }, 
         "MT": {
           "total": 422556, 
           "pac": 179000, 
-          "indivs": 243556
+          "individual": 243556
         }, 
         "MS": {
           "total": 414521, 
           "pac": 258000, 
-          "indivs": 156521
+          "individual": 156521
         }, 
         "SC": {
           "total": 371101, 
           "pac": 183100, 
-          "indivs": 188001
+          "individual": 188001
         }, 
         "KY": {
           "total": 1049158, 
           "pac": 366599, 
-          "indivs": 682559
+          "individual": 682559
         }, 
         "SD": {
           "total": 178150, 
           "pac": 119000, 
-          "indivs": 59150
+          "individual": 59150
         }
       }, 
       "name": "Oil & Gas"
@@ -2475,17 +2475,17 @@
         "CA": {
           "total": 11300, 
           "pac": 0, 
-          "indivs": 11300
+          "individual": 11300
         }, 
         "MN": {
           "total": 222289, 
           "pac": 2000, 
-          "indivs": 220289
+          "individual": 220289
         }, 
         "MA": {
           "total": 387331, 
           "pac": 0, 
-          "indivs": 387331
+          "individual": 387331
         }
       }, 
       "name": "Printing & Publishing"
@@ -2495,67 +2495,67 @@
         "NH": {
           "total": 221982, 
           "pac": 18000, 
-          "indivs": 203982
+          "individual": 203982
         }, 
         "NJ": {
           "total": 638500, 
           "pac": 25500, 
-          "indivs": 613000
+          "individual": 613000
         }, 
         "MN": {
           "total": 678661, 
           "pac": 64504, 
-          "indivs": 614157
+          "individual": 614157
         }, 
         "MA": {
           "total": 996031, 
           "pac": 59000, 
-          "indivs": 937031
+          "individual": 937031
         }, 
         "CA": {
           "total": 268915, 
           "pac": 73000, 
-          "indivs": 195915
+          "individual": 195915
         }, 
         "DE": {
           "total": 129457, 
           "pac": 42857, 
-          "indivs": 86600
+          "individual": 86600
         }, 
         "ND": {
           "total": 113167, 
           "pac": 16750, 
-          "indivs": 96417
+          "individual": 96417
         }, 
         "RI": {
           "total": 209785, 
           "pac": 38000, 
-          "indivs": 171785
+          "individual": 171785
         }, 
         "NY": {
           "total": 449901, 
           "pac": 50500, 
-          "indivs": 399401
+          "individual": 399401
         }, 
         "VT": {
           "total": 226950, 
           "pac": 63250, 
-          "indivs": 163700
+          "individual": 163700
         }, 
         "CO": {
           "total": 130850, 
           "pac": 18500, 
-          "indivs": 112350
+          "individual": 112350
         }, 
         "MO": {
           "total": 306934, 
           "pac": 36250, 
-          "indivs": 270684
+          "individual": 270684
         }, 
         "SD": {
           "total": 118450, 
           "pac": 60500, 
-          "indivs": 57950
+          "individual": 57950
         }
       }, 
       "name": "TV/Movies/Music"
@@ -2565,22 +2565,22 @@
         "SD": {
           "total": 119900, 
           "pac": 106500, 
-          "indivs": 13400
+          "individual": 13400
         }, 
         "MA": {
           "total": 419350, 
           "pac": 196700, 
-          "indivs": 222650
+          "individual": 222650
         }, 
         "MS": {
           "total": 106250, 
           "pac": 77500, 
-          "indivs": 28750
+          "individual": 28750
         }, 
         "CT": {
           "total": 155100, 
           "pac": 62250, 
-          "indivs": 92850
+          "individual": 92850
         }
       }, 
       "name": "Telecom Services"
@@ -2590,92 +2590,92 @@
         "ME": {
           "total": 47050, 
           "pac": 0, 
-          "indivs": 47050
+          "individual": 47050
         }, 
         "VA": {
           "total": 342528, 
           "pac": 37100, 
-          "indivs": 305428
+          "individual": 305428
         }, 
         "NJ": {
           "total": 417650, 
           "pac": 13500, 
-          "indivs": 404150
+          "individual": 404150
         }, 
         "CO": {
           "total": 394861, 
           "pac": 30600, 
-          "indivs": 364261
+          "individual": 364261
         }, 
         "TX": {
           "total": 479289, 
           "pac": 4500, 
-          "indivs": 474789
+          "individual": 474789
         }, 
         "UT": {
           "total": 96700, 
           "pac": 7000, 
-          "indivs": 89700
+          "individual": 89700
         }, 
         "AK": {
           "total": 231170, 
           "pac": 1000, 
-          "indivs": 230170
+          "individual": 230170
         }, 
         "TN": {
           "total": 368570, 
           "pac": 24500, 
-          "indivs": 344070
+          "individual": 344070
         }, 
         "NY": {
           "total": 651904, 
           "pac": 39200, 
-          "indivs": 612704
+          "individual": 612704
         }, 
         "HI": {
           "total": 155449, 
           "pac": 0, 
-          "indivs": 155449
+          "individual": 155449
         }, 
         "IL": {
           "total": 130700, 
           "pac": 20000, 
-          "indivs": 110700
+          "individual": 110700
         }, 
         "GA": {
           "total": 214650, 
           "pac": 1000, 
-          "indivs": 213650
+          "individual": 213650
         }, 
         "IA": {
           "total": 205375, 
           "pac": 2500, 
-          "indivs": 202875
+          "individual": 202875
         }, 
         "KY": {
           "total": 643180, 
           "pac": 50000, 
-          "indivs": 593180
+          "individual": 593180
         }, 
         "AZ": {
           "total": 334722, 
           "pac": 3500, 
-          "indivs": 331222
+          "individual": 331222
         }, 
         "FL": {
           "total": 219194, 
           "pac": 1500, 
-          "indivs": 217694
+          "individual": 217694
         }, 
         "AR": {
           "total": 302150, 
           "pac": 12500, 
-          "indivs": 289650
+          "individual": 289650
         }, 
         "CT": {
           "total": 82750, 
           "pac": 4000, 
-          "indivs": 78750
+          "individual": 78750
         }
       }, 
       "name": "Misc Finance"
@@ -2685,242 +2685,242 @@
         "WA": {
           "total": 201585, 
           "pac": 2500, 
-          "indivs": 199085
+          "individual": 199085
         }, 
         "DE": {
           "total": 263750, 
           "pac": 109000, 
-          "indivs": 154750
+          "individual": 154750
         }, 
         "WI": {
           "total": 177775, 
           "pac": 19000, 
-          "indivs": 158775
+          "individual": 158775
         }, 
         "WV": {
           "total": 206128, 
           "pac": 49500, 
-          "indivs": 156628
+          "individual": 156628
         }, 
         "HI": {
           "total": 568576, 
           "pac": 56500, 
-          "indivs": 512076
+          "individual": 512076
         }, 
         "FL": {
           "total": 656001, 
           "pac": 66500, 
-          "indivs": 589501
+          "individual": 589501
         }, 
         "WY": {
           "total": 91050, 
           "pac": 56500, 
-          "indivs": 34550
+          "individual": 34550
         }, 
         "NH": {
           "total": 494168, 
           "pac": 67050, 
-          "indivs": 427118
+          "individual": 427118
         }, 
         "KS": {
           "total": 334110, 
           "pac": 97500, 
-          "indivs": 236610
+          "individual": 236610
         }, 
         "NJ": {
           "total": 1925602, 
           "pac": 107265, 
-          "indivs": 1818337
+          "individual": 1818337
         }, 
         "NM": {
           "total": 317426, 
           "pac": 41260, 
-          "indivs": 276166
+          "individual": 276166
         }, 
         "TX": {
           "total": 1099179, 
           "pac": 103000, 
-          "indivs": 996179
+          "individual": 996179
         }, 
         "LA": {
           "total": 421100, 
           "pac": 11400, 
-          "indivs": 409700
+          "individual": 409700
         }, 
         "NC": {
           "total": 597309, 
           "pac": 21500, 
-          "indivs": 575809
+          "individual": 575809
         }, 
         "NE": {
           "total": 152938, 
           "pac": 19000, 
-          "indivs": 133938
+          "individual": 133938
         }, 
         "TN": {
           "total": 820963, 
           "pac": 116600, 
-          "indivs": 704363
+          "individual": 704363
         }, 
         "NY": {
           "total": 1709051, 
           "pac": 134500, 
-          "indivs": 1574551
+          "individual": 1574551
         }, 
         "PA": {
           "total": 772678, 
           "pac": 105600, 
-          "indivs": 667078
+          "individual": 667078
         }, 
         "RI": {
           "total": 288455, 
           "pac": 83000, 
-          "indivs": 205455
+          "individual": 205455
         }, 
         "NV": {
           "total": 333315, 
           "pac": 48500, 
-          "indivs": 284815
+          "individual": 284815
         }, 
         "VA": {
           "total": 1290994, 
           "pac": 92126, 
-          "indivs": 1198868
+          "individual": 1198868
         }, 
         "CO": {
           "total": 741016, 
           "pac": 99400, 
-          "indivs": 641616
+          "individual": 641616
         }, 
         "CA": {
           "total": 259481, 
           "pac": 32010, 
-          "indivs": 227471
+          "individual": 227471
         }, 
         "AL": {
           "total": 144500, 
           "pac": 74000, 
-          "indivs": 70500
+          "individual": 70500
         }, 
         "AR": {
           "total": 490835, 
           "pac": 42500, 
-          "indivs": 448335
+          "individual": 448335
         }, 
         "IL": {
           "total": 458517, 
           "pac": 67500, 
-          "indivs": 391017
+          "individual": 391017
         }, 
         "GA": {
           "total": 815041, 
           "pac": 84500, 
-          "indivs": 730541
+          "individual": 730541
         }, 
         "IN": {
           "total": 180118, 
           "pac": 38500, 
-          "indivs": 141618
+          "individual": 141618
         }, 
         "IA": {
           "total": 315305, 
           "pac": 15000, 
-          "indivs": 300305
+          "individual": 300305
         }, 
         "OK": {
           "total": 208638, 
           "pac": 51000, 
-          "indivs": 157638
+          "individual": 157638
         }, 
         "AZ": {
           "total": 584872, 
           "pac": 39600, 
-          "indivs": 545272
+          "individual": 545272
         }, 
         "ID": {
           "total": 150000, 
           "pac": 87500, 
-          "indivs": 62500
+          "individual": 62500
         }, 
         "CT": {
           "total": 521329, 
           "pac": 71000, 
-          "indivs": 450329
+          "individual": 450329
         }, 
         "ME": {
           "total": 275566, 
           "pac": 64716, 
-          "indivs": 210850
+          "individual": 210850
         }, 
         "MD": {
           "total": 355670, 
           "pac": 53000, 
-          "indivs": 302670
+          "individual": 302670
         }, 
         "MA": {
           "total": 820350, 
           "pac": 36000, 
-          "indivs": 784350
+          "individual": 784350
         }, 
         "OH": {
           "total": 929154, 
           "pac": 100000, 
-          "indivs": 829154
+          "individual": 829154
         }, 
         "UT": {
           "total": 474626, 
           "pac": 106410, 
-          "indivs": 368216
+          "individual": 368216
         }, 
         "MO": {
           "total": 473681, 
           "pac": 55500, 
-          "indivs": 418181
+          "individual": 418181
         }, 
         "MN": {
           "total": 306973, 
           "pac": 15010, 
-          "indivs": 291963
+          "individual": 291963
         }, 
         "MI": {
           "total": 284775, 
           "pac": 48500, 
-          "indivs": 236275
+          "individual": 236275
         }, 
         "AK": {
           "total": 447333, 
           "pac": 28000, 
-          "indivs": 419333
+          "individual": 419333
         }, 
         "MT": {
           "total": 631429, 
           "pac": 90820, 
-          "indivs": 540609
+          "individual": 540609
         }, 
         "MS": {
           "total": 112650, 
           "pac": 43500, 
-          "indivs": 69150
+          "individual": 69150
         }, 
         "SC": {
           "total": 850171, 
           "pac": 108490, 
-          "indivs": 741681
+          "individual": 741681
         }, 
         "KY": {
           "total": 927175, 
           "pac": 79100, 
-          "indivs": 848075
+          "individual": 848075
         }, 
         "OR": {
           "total": 415793, 
           "pac": 98360, 
-          "indivs": 317433
+          "individual": 317433
         }, 
         "SD": {
           "total": 286814, 
           "pac": 68510, 
-          "indivs": 218304
+          "individual": 218304
         }
       }, 
       "name": "Real Estate"
@@ -2930,7 +2930,7 @@
         "HI": {
           "total": 89099, 
           "pac": 16500, 
-          "indivs": 72599
+          "individual": 72599
         }
       }, 
       "name": "Construction Services"
@@ -2940,12 +2940,12 @@
         "CA": {
           "total": 13500, 
           "pac": 13500, 
-          "indivs": 0
+          "individual": 0
         }, 
         "LA": {
           "total": 80850, 
           "pac": 61500, 
-          "indivs": 19350
+          "individual": 19350
         }
       }, 
       "name": "Building Materials & Equipment"
@@ -2955,12 +2955,12 @@
         "IA": {
           "total": 240049, 
           "pac": 16000, 
-          "indivs": 224049
+          "individual": 224049
         }, 
         "TX": {
           "total": 303227, 
           "pac": 10500, 
-          "indivs": 292727
+          "individual": 292727
         }
       }, 
       "name": "Misc Business"
@@ -2970,17 +2970,17 @@
         "AK": {
           "total": 138475, 
           "pac": 18500, 
-          "indivs": 119975
+          "individual": 119975
         }, 
         "DE": {
           "total": 134577, 
           "pac": 82540, 
-          "indivs": 52037
+          "individual": 52037
         }, 
         "LA": {
           "total": 78100, 
           "pac": 70100, 
-          "indivs": 8000
+          "individual": 8000
         }
       }, 
       "name": "Chemical & Related Manufacturing"
@@ -2990,42 +2990,42 @@
         "ME": {
           "total": 116650, 
           "pac": 60500, 
-          "indivs": 56150
+          "individual": 56150
         }, 
         "CO": {
           "total": 212550, 
           "pac": 33600, 
-          "indivs": 178950
+          "individual": 178950
         }, 
         "OH": {
           "total": 339695, 
           "pac": 90362, 
-          "indivs": 249333
+          "individual": 249333
         }, 
         "MO": {
           "total": 118950, 
           "pac": 52000, 
-          "indivs": 66950
+          "individual": 66950
         }, 
         "NC": {
           "total": 189950, 
           "pac": 46000, 
-          "indivs": 143950
+          "individual": 143950
         }, 
         "WI": {
           "total": 150000, 
           "pac": 18000, 
-          "indivs": 132000
+          "individual": 132000
         }, 
         "IN": {
           "total": 42350, 
           "pac": 32500, 
-          "indivs": 9850
+          "individual": 9850
         }, 
         "AK": {
           "total": 162300, 
           "pac": 12500, 
-          "indivs": 149800
+          "individual": 149800
         }
       }, 
       "name": "Misc Manufacturing & Distributing"
@@ -3035,77 +3035,77 @@
         "OR": {
           "total": 243350, 
           "pac": 220000, 
-          "indivs": 23350
+          "individual": 23350
         }, 
         "OK": {
           "total": 125350, 
           "pac": 120600, 
-          "indivs": 4750
+          "individual": 4750
         }, 
         "OH": {
           "total": 243650, 
           "pac": 127100, 
-          "indivs": 116550
+          "individual": 116550
         }, 
         "WV": {
           "total": 262750, 
           "pac": 137750, 
-          "indivs": 125000
+          "individual": 125000
         }, 
         "CA": {
           "total": 230450, 
           "pac": 81600, 
-          "indivs": 148850
+          "individual": 148850
         }, 
         "ND": {
           "total": 77050, 
           "pac": 65750, 
-          "indivs": 11300
+          "individual": 11300
         }, 
         "AL": {
           "total": 57500, 
           "pac": 57500, 
-          "indivs": 0
+          "individual": 0
         }, 
         "ID": {
           "total": 56000, 
           "pac": 53500, 
-          "indivs": 2500
+          "individual": 2500
         }, 
         "SC": {
           "total": 223984, 
           "pac": 103000, 
-          "indivs": 120984
+          "individual": 120984
         }, 
         "IN": {
           "total": 33950, 
           "pac": 31200, 
-          "indivs": 2750
+          "individual": 2750
         }, 
         "IA": {
           "total": 75400, 
           "pac": 52500, 
-          "indivs": 22900
+          "individual": 22900
         }, 
         "AZ": {
           "total": 108200, 
           "pac": 46500, 
-          "indivs": 61700
+          "individual": 61700
         }, 
         "AK": {
           "total": 349650, 
           "pac": 282500, 
-          "indivs": 67150
+          "individual": 67150
         }, 
         "WY": {
           "total": 206000, 
           "pac": 192500, 
-          "indivs": 13500
+          "individual": 13500
         }, 
         "SD": {
           "total": 94650, 
           "pac": 64000, 
-          "indivs": 30650
+          "individual": 30650
         }
       }, 
       "name": "Electric Utilities"
@@ -3115,37 +3115,37 @@
         "ND": {
           "total": 175850, 
           "pac": 81500, 
-          "indivs": 94350
+          "individual": 94350
         }, 
         "CA": {
           "total": 278433, 
           "pac": 66000, 
-          "indivs": 212433
+          "individual": 212433
         }, 
         "MI": {
           "total": 313076, 
           "pac": 213665, 
-          "indivs": 99411
+          "individual": 99411
         }, 
         "NE": {
           "total": 182612, 
           "pac": 54052, 
-          "indivs": 128560
+          "individual": 128560
         }, 
         "KS": {
           "total": 176402, 
           "pac": 105352, 
-          "indivs": 71050
+          "individual": 71050
         }, 
         "AR": {
           "total": 36050, 
           "pac": 28000, 
-          "indivs": 8050
+          "individual": 8050
         }, 
         "MS": {
           "total": 503475, 
           "pac": 238850, 
-          "indivs": 264625
+          "individual": 264625
         }
       }, 
       "name": "Crop Production & Basic Processing"
@@ -3155,7 +3155,7 @@
         "MT": {
           "total": 144925, 
           "pac": 18500, 
-          "indivs": 126425
+          "individual": 126425
         }
       }, 
       "name": "Livestock"
@@ -3165,32 +3165,32 @@
         "ND": {
           "total": 43750, 
           "pac": 43000, 
-          "indivs": 750
+          "individual": 750
         }, 
         "MI": {
           "total": 237418, 
           "pac": 207568, 
-          "indivs": 29850
+          "individual": 29850
         }, 
         "NE": {
           "total": 134000, 
           "pac": 67500, 
-          "indivs": 66500
+          "individual": 66500
         }, 
         "KS": {
           "total": 397514, 
           "pac": 334314, 
-          "indivs": 63200
+          "individual": 63200
         }, 
         "MS": {
           "total": 242800, 
           "pac": 221500, 
-          "indivs": 21300
+          "individual": 21300
         }, 
         "IA": {
           "total": 76300, 
           "pac": 56500, 
-          "indivs": 19800
+          "individual": 19800
         }
       }, 
       "name": "Agricultural Services/Products"
@@ -3200,12 +3200,12 @@
         "MD": {
           "total": 33000, 
           "pac": 33000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "HI": {
           "total": 131150, 
           "pac": 129750, 
-          "indivs": 1400
+          "individual": 1400
         }
       }, 
       "name": "Transportation Unions"
@@ -3215,7 +3215,7 @@
         "VT": {
           "total": 46700, 
           "pac": 45900, 
-          "indivs": 800
+          "individual": 800
         }
       }, 
       "name": "Industrial Unions"
@@ -3225,62 +3225,62 @@
         "NH": {
           "total": 787688, 
           "pac": 34500, 
-          "indivs": 753188
+          "individual": 753188
         }, 
         "VA": {
           "total": 375080, 
           "pac": 3193, 
-          "indivs": 371887
+          "individual": 371887
         }, 
         "MA": {
           "total": 1598383, 
           "pac": 20472, 
-          "indivs": 1577911
+          "individual": 1577911
         }, 
         "OH": {
           "total": 403934, 
           "pac": 1500, 
-          "indivs": 402434
+          "individual": 402434
         }, 
         "MI": {
           "total": 328305, 
           "pac": 12000, 
-          "indivs": 316305
+          "individual": 316305
         }, 
         "CA": {
           "total": 212449, 
           "pac": 11000, 
-          "indivs": 201449
+          "individual": 201449
         }, 
         "MN": {
           "total": 195110, 
           "pac": 15594, 
-          "indivs": 179516
+          "individual": 179516
         }, 
         "ND": {
           "total": 174494, 
           "pac": 8500, 
-          "indivs": 165994
+          "individual": 165994
         }, 
         "WI": {
           "total": 919498, 
           "pac": 36972, 
-          "indivs": 882526
+          "individual": 882526
         }, 
         "NY": {
           "total": 585380, 
           "pac": 14500, 
-          "indivs": 570880
+          "individual": 570880
         }, 
         "HI": {
           "total": 339772, 
           "pac": 29500, 
-          "indivs": 310272
+          "individual": 310272
         }, 
         "MO": {
           "total": 1198915, 
           "pac": 26500, 
-          "indivs": 1172415
+          "individual": 1172415
         }
       }, 
       "name": "Women's Issues"
@@ -3290,7 +3290,7 @@
         "WI": {
           "total": 218239, 
           "pac": 33493, 
-          "indivs": 184746
+          "individual": 184746
         }
       }, 
       "name": "Human Rights"
@@ -3300,7 +3300,7 @@
         "VT": {
           "total": 53750, 
           "pac": 50000, 
-          "indivs": 3750
+          "individual": 3750
         }
       }, 
       "name": "Misc Unions"
@@ -3310,17 +3310,17 @@
         "MD": {
           "total": 27000, 
           "pac": 27000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "HI": {
           "total": 117000, 
           "pac": 116000, 
-          "indivs": 1000
+          "individual": 1000
         }, 
         "VT": {
           "total": 116800, 
           "pac": 116000, 
-          "indivs": 800
+          "individual": 800
         }
       }, 
       "name": "Public Sector Unions"
@@ -3330,32 +3330,32 @@
         "MA": {
           "total": 1335572, 
           "pac": 361533, 
-          "indivs": 974039
+          "individual": 974039
         }, 
         "OH": {
           "total": 373269, 
           "pac": 37565, 
-          "indivs": 335704
+          "individual": 335704
         }, 
         "MN": {
           "total": 212745, 
           "pac": 19617, 
-          "indivs": 193128
+          "individual": 193128
         }, 
         "WI": {
           "total": 556292, 
           "pac": 173765, 
-          "indivs": 382527
+          "individual": 382527
         }, 
         "VT": {
           "total": 230085, 
           "pac": 11000, 
-          "indivs": 219085
+          "individual": 219085
         }, 
         "CT": {
           "total": 267018, 
           "pac": 124247, 
-          "indivs": 142771
+          "individual": 142771
         }
       }, 
       "name": "Democratic/Liberal"
@@ -3365,242 +3365,242 @@
         "WA": {
           "total": 188900, 
           "pac": 188900, 
-          "indivs": 0
+          "individual": 0
         }, 
         "DE": {
           "total": 447000, 
           "pac": 447000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "WI": {
           "total": 484439, 
           "pac": 475689, 
-          "indivs": 8750
+          "individual": 8750
         }, 
         "WV": {
           "total": 521100, 
           "pac": 521100, 
-          "indivs": 0
+          "individual": 0
         }, 
         "HI": {
           "total": 505200, 
           "pac": 504200, 
-          "indivs": 1000
+          "individual": 1000
         }, 
         "FL": {
           "total": 331500, 
           "pac": 331500, 
-          "indivs": 0
+          "individual": 0
         }, 
         "WY": {
           "total": 525812, 
           "pac": 525812, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NH": {
           "total": 652550, 
           "pac": 652550, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NJ": {
           "total": 336744, 
           "pac": 336744, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NM": {
           "total": 519600, 
           "pac": 519600, 
-          "indivs": 0
+          "individual": 0
         }, 
         "TX": {
           "total": 331358, 
           "pac": 331358, 
-          "indivs": 0
+          "individual": 0
         }, 
         "LA": {
           "total": 691736, 
           "pac": 691736, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NC": {
           "total": 590975, 
           "pac": 560375, 
-          "indivs": 30600
+          "individual": 30600
         }, 
         "ND": {
           "total": 510258, 
           "pac": 510258, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NE": {
           "total": 450064, 
           "pac": 449864, 
-          "indivs": 200
+          "individual": 200
         }, 
         "TN": {
           "total": 556215, 
           "pac": 556215, 
-          "indivs": 0
+          "individual": 0
         }, 
         "PA": {
           "total": 543255, 
           "pac": 542255, 
-          "indivs": 1000
+          "individual": 1000
         }, 
         "RI": {
           "total": 498500, 
           "pac": 498500, 
-          "indivs": 0
+          "individual": 0
         }, 
         "NV": {
           "total": 451092, 
           "pac": 450592, 
-          "indivs": 500
+          "individual": 500
         }, 
         "VA": {
           "total": 763100, 
           "pac": 763100, 
-          "indivs": 0
+          "individual": 0
         }, 
         "CO": {
           "total": 601007, 
           "pac": 601007, 
-          "indivs": 0
+          "individual": 0
         }, 
         "AK": {
           "total": 430193, 
           "pac": 430193, 
-          "indivs": 0
+          "individual": 0
         }, 
         "AL": {
           "total": 163000, 
           "pac": 163000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "AR": {
           "total": 565971, 
           "pac": 548671, 
-          "indivs": 17300
+          "individual": 17300
         }, 
         "VT": {
           "total": 173200, 
           "pac": 173200, 
-          "indivs": 0
+          "individual": 0
         }, 
         "IL": {
           "total": 372000, 
           "pac": 372000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "GA": {
           "total": 514600, 
           "pac": 514600, 
-          "indivs": 0
+          "individual": 0
         }, 
         "IN": {
           "total": 415500, 
           "pac": 412750, 
-          "indivs": 2750
+          "individual": 2750
         }, 
         "IA": {
           "total": 482036, 
           "pac": 480036, 
-          "indivs": 2000
+          "individual": 2000
         }, 
         "OK": {
           "total": 407227, 
           "pac": 404227, 
-          "indivs": 3000
+          "individual": 3000
         }, 
         "AZ": {
           "total": 461368, 
           "pac": 461368, 
-          "indivs": 0
+          "individual": 0
         }, 
         "ID": {
           "total": 411073, 
           "pac": 411073, 
-          "indivs": 0
+          "individual": 0
         }, 
         "CT": {
           "total": 387500, 
           "pac": 372500, 
-          "indivs": 15000
+          "individual": 15000
         }, 
         "ME": {
           "total": 324000, 
           "pac": 324000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "MD": {
           "total": 187000, 
           "pac": 187000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "MA": {
           "total": 346800, 
           "pac": 346800, 
-          "indivs": 0
+          "individual": 0
         }, 
         "OH": {
           "total": 351700, 
           "pac": 351500, 
-          "indivs": 200
+          "individual": 200
         }, 
         "UT": {
           "total": 401878, 
           "pac": 401878, 
-          "indivs": 0
+          "individual": 0
         }, 
         "MO": {
           "total": 581147, 
           "pac": 573047, 
-          "indivs": 8100
+          "individual": 8100
         }, 
         "MN": {
           "total": 648927, 
           "pac": 648677, 
-          "indivs": 250
+          "individual": 250
         }, 
         "MI": {
           "total": 741450, 
           "pac": 699350, 
-          "indivs": 42100
+          "individual": 42100
         }, 
         "KS": {
           "total": 676276, 
           "pac": 660676, 
-          "indivs": 15600
+          "individual": 15600
         }, 
         "MT": {
           "total": 719767, 
           "pac": 704767, 
-          "indivs": 15000
+          "individual": 15000
         }, 
         "MS": {
           "total": 692300, 
           "pac": 692300, 
-          "indivs": 0
+          "individual": 0
         }, 
         "SC": {
           "total": 585765, 
           "pac": 585765, 
-          "indivs": 0
+          "individual": 0
         }, 
         "KY": {
           "total": 41000, 
           "pac": 41000, 
-          "indivs": 0
+          "individual": 0
         }, 
         "OR": {
           "total": 373600, 
           "pac": 373600, 
-          "indivs": 0
+          "individual": 0
         }, 
         "SD": {
           "total": 450115, 
           "pac": 450115, 
-          "indivs": 0
+          "individual": 0
         }
       }, 
       "name": "Leadership PACs"
@@ -3610,82 +3610,82 @@
         "CO": {
           "total": 354484, 
           "pac": 57602, 
-          "indivs": 296882
+          "individual": 296882
         }, 
         "TX": {
           "total": 1599057, 
           "pac": 112331, 
-          "indivs": 1486726
+          "individual": 1486726
         }, 
         "LA": {
           "total": 264839, 
           "pac": 112614, 
-          "indivs": 152225
+          "individual": 152225
         }, 
         "UT": {
           "total": 272729, 
           "pac": 23794, 
-          "indivs": 248935
+          "individual": 248935
         }, 
         "AK": {
           "total": 569727, 
           "pac": 46200, 
-          "indivs": 523527
+          "individual": 523527
         }, 
         "NC": {
           "total": 221084, 
           "pac": 69850, 
-          "indivs": 151234
+          "individual": 151234
         }, 
         "NE": {
           "total": 882023, 
           "pac": 123995, 
-          "indivs": 758028
+          "individual": 758028
         }, 
         "WI": {
           "total": 216401, 
           "pac": 1000, 
-          "indivs": 215401
+          "individual": 215401
         }, 
         "MT": {
           "total": 184559, 
           "pac": 63851, 
-          "indivs": 120708
+          "individual": 120708
         }, 
         "PA": {
           "total": 411043, 
           "pac": 21894, 
-          "indivs": 389149
+          "individual": 389149
         }, 
         "GA": {
           "total": 198378, 
           "pac": 25376, 
-          "indivs": 173002
+          "individual": 173002
         }, 
         "IA": {
           "total": 611873, 
           "pac": 87570, 
-          "indivs": 524303
+          "individual": 524303
         }, 
         "KY": {
           "total": 85744, 
           "pac": 12255, 
-          "indivs": 73489
+          "individual": 73489
         }, 
         "AZ": {
           "total": 1332204, 
           "pac": 61567, 
-          "indivs": 1270637
+          "individual": 1270637
         }, 
         "FL": {
           "total": 101858, 
           "pac": 1518, 
-          "indivs": 100340
+          "individual": 100340
         }, 
         "AR": {
           "total": 988727, 
           "pac": 81983, 
-          "indivs": 906744
+          "individual": 906744
         }
       }, 
       "name": "Republican/Conservative"
@@ -3695,77 +3695,77 @@
         "ME": {
           "total": 156810, 
           "pac": 53900, 
-          "indivs": 102910
+          "individual": 102910
         }, 
         "MD": {
           "total": 218793, 
           "pac": 59280, 
-          "indivs": 159513
+          "individual": 159513
         }, 
         "NJ": {
           "total": 713046, 
           "pac": 134627, 
-          "indivs": 578419
+          "individual": 578419
         }, 
         "NM": {
           "total": 158373, 
           "pac": 23993, 
-          "indivs": 134380
+          "individual": 134380
         }, 
         "UT": {
           "total": 90600, 
           "pac": 25700, 
-          "indivs": 64900
+          "individual": 64900
         }, 
         "DE": {
           "total": 135050, 
           "pac": 36200, 
-          "indivs": 98850
+          "individual": 98850
         }, 
         "WI": {
           "total": 177980, 
           "pac": 24715, 
-          "indivs": 153265
+          "individual": 153265
         }, 
         "ID": {
           "total": 76060, 
           "pac": 32200, 
-          "indivs": 43860
+          "individual": 43860
         }, 
         "IA": {
           "total": 179700, 
           "pac": 37200, 
-          "indivs": 142500
+          "individual": 142500
         }, 
         "HI": {
           "total": 155000, 
           "pac": 36700, 
-          "indivs": 118300
+          "individual": 118300
         }, 
         "IL": {
           "total": 451176, 
           "pac": 71700, 
-          "indivs": 379476
+          "individual": 379476
         }, 
         "SC": {
           "total": 286350, 
           "pac": 66200, 
-          "indivs": 220150
+          "individual": 220150
         }, 
         "FL": {
           "total": 218850, 
           "pac": 49250, 
-          "indivs": 169600
+          "individual": 169600
         }, 
         "RI": {
           "total": 116100, 
           "pac": 43500, 
-          "indivs": 72600
+          "individual": 72600
         }, 
         "NH": {
           "total": 202149, 
           "pac": 41311, 
-          "indivs": 160838
+          "individual": 160838
         }
       }, 
       "name": "Pro-Israel"

@@ -59,6 +59,7 @@ def writeOrganizations():
 		with open("data/senatorContributions/{0}.json".format(cid), "r") as f:
 			donations = json.loads(f.read())["records"]
 			for donation in donations:
+				print donation
 				donation_organization = donation["organization"]
 				# base case
 				if donation_organization not in organizations.keys():
