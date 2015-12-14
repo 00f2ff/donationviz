@@ -15,6 +15,11 @@ exports.loadOrganization = function(req, res) {
 	var query = {"name": req.params.name}
 	findDocument('organizations', query, 'organization', res);
 }
+exports.loadIndustry = function(req, res) {
+	var query = {"name": req.params.name}
+	findDocument('industries', query, 'industry', res);
+}
+
 
 // In the case that no route has been matched
 exports.errorMessage = function(req, res){

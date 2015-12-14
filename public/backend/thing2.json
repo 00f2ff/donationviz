@@ -1,5 +1,6 @@
 {
   "P03": {
+    "name": "Transportation Unions", 
     "industry_code": "P03", 
     "pac": 162750, 
     "states": {
@@ -45,10 +46,10 @@
       }
     }, 
     "individual": 1400, 
-    "total": 164150, 
-    "industry_name": "Transportation Unions"
+    "total": 164150
   }, 
   "P02": {
+    "name": "Industrial Unions", 
     "industry_code": "P02", 
     "pac": 45900, 
     "states": {
@@ -74,10 +75,10 @@
       }
     }, 
     "individual": 800, 
-    "total": 46700, 
-    "industry_name": "Industrial Unions"
+    "total": 46700
   }, 
   "P01": {
+    "name": "Building Trade Unions", 
     "industry_code": "P01", 
     "pac": 127000, 
     "states": {
@@ -123,10 +124,10 @@
       }
     }, 
     "individual": 3440, 
-    "total": 130440, 
-    "industry_name": "Building Trade Unions"
+    "total": 130440
   }, 
   "P05": {
+    "name": "Misc Unions", 
     "industry_code": "P05", 
     "pac": 50000, 
     "states": {
@@ -152,10 +153,10 @@
       }
     }, 
     "individual": 3750, 
-    "total": 53750, 
-    "industry_name": "Misc Unions"
+    "total": 53750
   }, 
   "P04": {
+    "name": "Public Sector Unions", 
     "industry_code": "P04", 
     "pac": 259000, 
     "states": {
@@ -221,42 +222,42 @@
       }
     }, 
     "individual": 1800, 
-    "total": 260800, 
-    "industry_name": "Public Sector Unions"
+    "total": 260800
   }, 
   "Y02": {
+    "name": "No Employer Listed or Found", 
     "industry_code": "Y02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "No Employer Listed or Found"
+    "total": 0
   }, 
   "Y03": {
+    "name": "Generic Occupation & Category Unknown", 
     "industry_code": "Y03", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Generic Occupation/Category Unknown"
+    "total": 0
   }, 
   "Y01": {
+    "name": "Homemakers & Non-income earners", 
     "industry_code": "Y01", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Homemakers/Non-income earners"
+    "total": 0
   }, 
   "Y04": {
+    "name": "Employer Listed & Category Unknown", 
     "industry_code": "Y04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Employer Listed/Category Unknown"
+    "total": 0
   }, 
   "H03": {
+    "name": "Health Services & HMOs", 
     "industry_code": "H03", 
     "pac": 775407, 
     "states": {
@@ -422,10 +423,10 @@
       }
     }, 
     "individual": 453382, 
-    "total": 1228789, 
-    "industry_name": "Health Services/HMOs"
+    "total": 1228789
   }, 
   "H02": {
+    "name": "Hospitals & Nursing Homes", 
     "industry_code": "H02", 
     "pac": 634349, 
     "states": {
@@ -551,10 +552,10 @@
       }
     }, 
     "individual": 907775, 
-    "total": 1542124, 
-    "industry_name": "Hospitals/Nursing Homes"
+    "total": 1542124
   }, 
   "H01": {
+    "name": "Health Professionals", 
     "industry_code": "H01", 
     "pac": 7059383, 
     "states": {
@@ -1745,10 +1746,10 @@
       }
     }, 
     "individual": 10412602, 
-    "total": 17471985, 
-    "industry_name": "Health Professionals"
+    "total": 17471985
   }, 
   "H04": {
+    "name": "Pharmaceuticals & Health Products", 
     "industry_code": "H04", 
     "pac": 4920894, 
     "states": {
@@ -2286,26 +2287,26 @@
       }
     }, 
     "individual": 1545862, 
-    "total": 6466756, 
-    "industry_name": "Pharmaceuticals/Health Products"
+    "total": 6466756
   }, 
   "F05": {
+    "name": "Credit Unions", 
     "industry_code": "F05", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Credit Unions"
+    "total": 0
   }, 
   "F04": {
+    "name": "Savings & Loans", 
     "industry_code": "F04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Savings & Loans"
+    "total": 0
   }, 
   "F07": {
+    "name": "Securities & Investment", 
     "industry_code": "F07", 
     "pac": 6480619, 
     "states": {
@@ -3798,10 +3799,10 @@
       }
     }, 
     "individual": 38121211, 
-    "total": 44601830, 
-    "industry_name": "Securities & Investment"
+    "total": 44601830
   }, 
   "F06": {
+    "name": "Finance & Credit Companies", 
     "industry_code": "F06", 
     "pac": 166500, 
     "states": {
@@ -3847,10 +3848,10 @@
       }
     }, 
     "individual": 74100, 
-    "total": 240600, 
-    "industry_name": "Finance/Credit Companies"
+    "total": 240600
   }, 
   "F03": {
+    "name": "Commercial Banks", 
     "industry_code": "F03", 
     "pac": 2762035, 
     "states": {
@@ -4348,10 +4349,10 @@
       }
     }, 
     "individual": 2876735, 
-    "total": 5638770, 
-    "industry_name": "Commercial Banks"
+    "total": 5638770
   }, 
   "F09": {
+    "name": "Insurance", 
     "industry_code": "F09", 
     "pac": 10020179, 
     "states": {
@@ -5483,10 +5484,10 @@
       }
     }, 
     "individual": 5723688, 
-    "total": 15743867, 
-    "industry_name": "Insurance"
+    "total": 15743867
   }, 
   "W04": {
+    "name": "Education", 
     "industry_code": "W04", 
     "pac": 65094, 
     "states": {
@@ -5805,18 +5806,18 @@
       }
     }, 
     "individual": 4947396, 
-    "total": 5012490, 
-    "industry_name": "Education"
+    "total": 5012490
   }, 
   "W05": {
+    "name": "Clergy & Religious Organizations", 
     "industry_code": "W05", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Clergy & Religious Organizations"
+    "total": 0
   }, 
   "W06": {
+    "name": "Retired", 
     "industry_code": "W06", 
     "pac": 0, 
     "states": {
@@ -7243,18 +7244,18 @@
       }
     }, 
     "individual": 46777424, 
-    "total": 46777424, 
-    "industry_name": "Retired"
+    "total": 46777424
   }, 
   "W07": {
+    "name": "Other", 
     "industry_code": "W07", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Other"
+    "total": 0
   }, 
   "W02": {
+    "name": "Non-Profit Institutions", 
     "industry_code": "W02", 
     "pac": 0, 
     "states": {
@@ -7280,34 +7281,34 @@
       }
     }, 
     "individual": 51650, 
-    "total": 51650, 
-    "industry_name": "Non-Profit Institutions"
+    "total": 51650
   }, 
   "W03": {
+    "name": "Civil Servants & Public Officials", 
     "industry_code": "W03", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Civil Servants/Public Officials"
+    "total": 0
   }, 
   "N09": {
+    "name": "Marijuana", 
     "industry_code": "N09", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Marijuana"
+    "total": 0
   }, 
   "N08": {
+    "name": "Lodging & Tourism", 
     "industry_code": "N08", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Lodging/Tourism"
+    "total": 0
   }, 
   "N05": {
+    "name": "Business Services", 
     "industry_code": "N05", 
     "pac": 259125, 
     "states": {
@@ -7685,18 +7686,18 @@
       }
     }, 
     "individual": 4852359, 
-    "total": 5111484, 
-    "industry_name": "Business Services"
+    "total": 5111484
   }, 
   "N04": {
+    "name": "Misc Services", 
     "industry_code": "N04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Misc Services"
+    "total": 0
   }, 
   "N07": {
+    "name": "Casinos & Gambling", 
     "industry_code": "N07", 
     "pac": 136000, 
     "states": {
@@ -7775,18 +7776,18 @@
       }
     }, 
     "individual": 673882, 
-    "total": 809882, 
-    "industry_name": "Casinos/Gambling"
+    "total": 809882
   }, 
   "N06": {
+    "name": "Recreation & Live Entertainment", 
     "industry_code": "N06", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Recreation/Live Entertainment"
+    "total": 0
   }, 
   "N01": {
+    "name": "Food & Beverage", 
     "industry_code": "N01", 
     "pac": 95500, 
     "states": {
@@ -7832,18 +7833,18 @@
       }
     }, 
     "individual": 94790, 
-    "total": 190290, 
-    "industry_name": "Food & Beverage"
+    "total": 190290
   }, 
   "N00": {
+    "name": "Business Associations", 
     "industry_code": "N00", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Business Associations"
+    "total": 0
   }, 
   "N03": {
+    "name": "Retail Sales", 
     "industry_code": "N03", 
     "pac": 342500, 
     "states": {
@@ -7969,18 +7970,18 @@
       }
     }, 
     "individual": 327696, 
-    "total": 670196, 
-    "industry_name": "Retail Sales"
+    "total": 670196
   }, 
   "N02": {
+    "name": "Beer, Wine & Liquor", 
     "industry_code": "N02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Beer, Wine & Liquor"
+    "total": 0
   }, 
   "D03": {
+    "name": "Misc Defense", 
     "industry_code": "D03", 
     "pac": 62600, 
     "states": {
@@ -8026,10 +8027,10 @@
       }
     }, 
     "individual": 33100, 
-    "total": 95700, 
-    "industry_name": "Misc Defense"
+    "total": 95700
   }, 
   "D02": {
+    "name": "Defense Electronics", 
     "industry_code": "D02", 
     "pac": 85000, 
     "states": {
@@ -8075,10 +8076,10 @@
       }
     }, 
     "individual": 79900, 
-    "total": 164900, 
-    "industry_name": "Defense Electronics"
+    "total": 164900
   }, 
   "D01": {
+    "name": "Defense Aerospace", 
     "industry_code": "D01", 
     "pac": 539949, 
     "states": {
@@ -8217,10 +8218,10 @@
       }
     }, 
     "individual": 274050, 
-    "total": 813999, 
-    "industry_name": "Defense Aerospace"
+    "total": 813999
   }, 
   "B01": {
+    "name": "Printing & Publishing", 
     "industry_code": "B01", 
     "pac": 2000, 
     "states": {
@@ -8286,18 +8287,18 @@
       }
     }, 
     "individual": 618920, 
-    "total": 620920, 
-    "industry_name": "Printing & Publishing"
+    "total": 620920
   }, 
   "B00": {
+    "name": "Misc Communications & Electronics", 
     "industry_code": "B00", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Misc Communications/Electronics"
+    "total": 0
   }, 
   "B02": {
+    "name": "TV, Movies & Music", 
     "industry_code": "B02", 
     "pac": 566611, 
     "states": {
@@ -8602,10 +8603,10 @@
       }
     }, 
     "individual": 3922972, 
-    "total": 4489583, 
-    "industry_name": "TV/Movies/Music"
+    "total": 4489583
   }, 
   "B09": {
+    "name": "Telecom Services", 
     "industry_code": "B09", 
     "pac": 442950, 
     "states": {
@@ -8691,10 +8692,10 @@
       }
     }, 
     "individual": 357650, 
-    "total": 800600, 
-    "industry_name": "Telecom Services"
+    "total": 800600
   }, 
   "F13": {
+    "name": "Misc Finance", 
     "industry_code": "F13", 
     "pac": 252400, 
     "states": {
@@ -9112,10 +9113,10 @@
       }
     }, 
     "individual": 5065492, 
-    "total": 5317892, 
-    "industry_name": "Misc Finance"
+    "total": 5317892
   }, 
   "F10": {
+    "name": "Real Estate", 
     "industry_code": "F10", 
     "pac": 3106227, 
     "states": {
@@ -10536,18 +10537,18 @@
       }
     }, 
     "individual": 22077738, 
-    "total": 25183965, 
-    "industry_name": "Real Estate"
+    "total": 25183965
   }, 
   "F11": {
+    "name": "Accountants", 
     "industry_code": "F11", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Accountants"
+    "total": 0
   }, 
   "N12": {
+    "name": "Misc Business", 
     "industry_code": "N12", 
     "pac": 26500, 
     "states": {
@@ -10593,10 +10594,10 @@
       }
     }, 
     "individual": 516776, 
-    "total": 543276, 
-    "industry_name": "Misc Business"
+    "total": 543276
   }, 
   "N13": {
+    "name": "Chemical & Related Manufacturing", 
     "industry_code": "N13", 
     "pac": 171140, 
     "states": {
@@ -10662,18 +10663,18 @@
       }
     }, 
     "individual": 180012, 
-    "total": 351152, 
-    "industry_name": "Chemical & Related Manufacturing"
+    "total": 351152
   }, 
   "N14": {
+    "name": "Steel Production", 
     "industry_code": "N14", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Steel Production"
+    "total": 0
   }, 
   "N15": {
+    "name": "Misc Manufacturing & Distributing", 
     "industry_code": "N15", 
     "pac": 345462, 
     "states": {
@@ -10839,10 +10840,10 @@
       }
     }, 
     "individual": 986983, 
-    "total": 1332445, 
-    "industry_name": "Misc Manufacturing & Distributing"
+    "total": 1332445
   }, 
   "B12": {
+    "name": "Electronics Mfg & Equip", 
     "industry_code": "B12", 
     "pac": 231359, 
     "states": {
@@ -10974,10 +10975,10 @@
       }
     }, 
     "individual": 506597, 
-    "total": 737956, 
-    "industry_name": "Electronics Mfg & Equip"
+    "total": 737956
   }, 
   "B13": {
+    "name": "Internet", 
     "industry_code": "B13", 
     "pac": 26500, 
     "states": {
@@ -11003,18 +11004,18 @@
       }
     }, 
     "individual": 24700, 
-    "total": 51200, 
-    "industry_name": "Internet"
+    "total": 51200
   }, 
   "B08": {
+    "name": "Telephone Utilities", 
     "industry_code": "B08", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Telephone Utilities"
+    "total": 0
   }, 
   "Q11": {
+    "name": "Environment", 
     "industry_code": "Q11", 
     "pac": 226993, 
     "states": {
@@ -11213,10 +11214,10 @@
       }
     }, 
     "individual": 2041298, 
-    "total": 2268291, 
-    "industry_name": "Environment"
+    "total": 2268291
   }, 
   "Q10": {
+    "name": "Misc Issues", 
     "industry_code": "Q10", 
     "pac": 35750, 
     "states": {
@@ -11262,26 +11263,26 @@
       }
     }, 
     "individual": 151600, 
-    "total": 187350, 
-    "industry_name": "Misc Issues"
+    "total": 187350
   }, 
   "Q13": {
+    "name": "Gun Rights", 
     "industry_code": "Q13", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Gun Rights"
+    "total": 0
   }, 
   "Q12": {
+    "name": "Gun Control", 
     "industry_code": "Q12", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Gun Control"
+    "total": 0
   }, 
   "K01": {
+    "name": "Lawyers & Law Firms", 
     "industry_code": "K01", 
     "pac": 7892087, 
     "states": {
@@ -12852,10 +12853,10 @@
       }
     }, 
     "individual": 47997065, 
-    "total": 55889152, 
-    "industry_name": "Lawyers/Law Firms"
+    "total": 55889152
   }, 
   "K02": {
+    "name": "Lobbyists", 
     "industry_code": "K02", 
     "pac": 616592, 
     "states": {
@@ -13948,10 +13949,10 @@
       }
     }, 
     "individual": 13556230, 
-    "total": 14172822, 
-    "industry_name": "Lobbyists"
+    "total": 14172822
   }, 
   "Q08": {
+    "name": "Women's Issues", 
     "industry_code": "Q08", 
     "pac": 214231, 
     "states": {
@@ -14197,10 +14198,10 @@
       }
     }, 
     "individual": 6904777, 
-    "total": 7119008, 
-    "industry_name": "Women's Issues"
+    "total": 7119008
   }, 
   "Q09": {
+    "name": "Human Rights", 
     "industry_code": "Q09", 
     "pac": 33493, 
     "states": {
@@ -14226,10 +14227,10 @@
       }
     }, 
     "individual": 184746, 
-    "total": 218239, 
-    "industry_name": "Human Rights"
+    "total": 218239
   }, 
   "Q02": {
+    "name": "Democratic & Liberal", 
     "industry_code": "Q02", 
     "pac": 727727, 
     "states": {
@@ -14355,10 +14356,10 @@
       }
     }, 
     "individual": 2247254, 
-    "total": 2974981, 
-    "industry_name": "Democratic/Liberal"
+    "total": 2974981
   }, 
   "Q03": {
+    "name": "Leadership PACs", 
     "industry_code": "Q03", 
     "pac": 22242448, 
     "states": {
@@ -15792,10 +15793,10 @@
       }
     }, 
     "individual": 163350, 
-    "total": 22405798, 
-    "industry_name": "Leadership PACs"
+    "total": 22405798
   }, 
   "Q01": {
+    "name": "Republican & Conservative", 
     "industry_code": "Q01", 
     "pac": 903400, 
     "states": {
@@ -16134,18 +16135,18 @@
       }
     }, 
     "individual": 7391330, 
-    "total": 8294730, 
-    "industry_name": "Republican/Conservative"
+    "total": 8294730
   }, 
   "Q04": {
+    "name": "Foreign & Defense Policy", 
     "industry_code": "Q04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Foreign & Defense Policy"
+    "total": 0
   }, 
   "Q05": {
+    "name": "Pro-Israel", 
     "industry_code": "Q05", 
     "pac": 736476, 
     "states": {
@@ -16490,66 +16491,66 @@
       }
     }, 
     "individual": 2599561, 
-    "total": 3336037, 
-    "industry_name": "Pro-Israel"
+    "total": 3336037
   }, 
   "Z09": {
+    "name": "Non-contribution", 
     "industry_code": "Z09", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Non-contribution"
+    "total": 0
   }, 
   "Z08": {
+    "name": "Party Committee Transfer", 
     "industry_code": "Z08", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Party Committee Transfer"
+    "total": 0
   }, 
   "E11": {
+    "name": "Fisheries & Wildlife", 
     "industry_code": "E11", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Fisheries & Wildlife"
+    "total": 0
   }, 
   "E10": {
+    "name": "Waste Management", 
     "industry_code": "E10", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Waste Management"
+    "total": 0
   }, 
   "Z02": {
+    "name": "Party Committees", 
     "industry_code": "Z02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Party Committees"
+    "total": 0
   }, 
   "Z04": {
+    "name": "Joint Candidate Cmte", 
     "industry_code": "Z04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Joint Candidate Cmte"
+    "total": 0
   }, 
   "Z07": {
+    "name": "Candidate Self-finance", 
     "industry_code": "Z07", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Candidate Self-finance"
+    "total": 0
   }, 
   "A10": {
+    "name": "Forestry & Forest Products", 
     "industry_code": "A10", 
     "pac": 30000, 
     "states": {
@@ -16575,18 +16576,18 @@
       }
     }, 
     "individual": 6600, 
-    "total": 36600, 
-    "industry_name": "Forestry & Forest Products"
+    "total": 36600
   }, 
   "M06": {
+    "name": "Misc Transport", 
     "industry_code": "M06", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Misc Transport"
+    "total": 0
   }, 
   "M04": {
+    "name": "Railroads", 
     "industry_code": "M04", 
     "pac": 21000, 
     "states": {
@@ -16612,10 +16613,10 @@
       }
     }, 
     "individual": 0, 
-    "total": 21000, 
-    "industry_name": "Railroads"
+    "total": 21000
   }, 
   "M05": {
+    "name": "Sea Transport", 
     "industry_code": "M05", 
     "pac": 133150, 
     "states": {
@@ -16654,18 +16655,18 @@
       }
     }, 
     "individual": 165135, 
-    "total": 298285, 
-    "industry_name": "Sea Transport"
+    "total": 298285
   }, 
   "M02": {
+    "name": "Automotive", 
     "industry_code": "M02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Automotive"
+    "total": 0
   }, 
   "M03": {
+    "name": "Trucking", 
     "industry_code": "M03", 
     "pac": 97000, 
     "states": {
@@ -16711,10 +16712,10 @@
       }
     }, 
     "individual": 36125, 
-    "total": 133125, 
-    "industry_name": "Trucking"
+    "total": 133125
   }, 
   "M01": {
+    "name": "Air Transport", 
     "industry_code": "M01", 
     "pac": 299000, 
     "states": {
@@ -16800,10 +16801,10 @@
       }
     }, 
     "individual": 159650, 
-    "total": 458650, 
-    "industry_name": "Air Transport"
+    "total": 458650
   }, 
   "E08": {
+    "name": "Electric Utilities", 
     "industry_code": "E08", 
     "pac": 1636000, 
     "states": {
@@ -17109,18 +17110,18 @@
       }
     }, 
     "individual": 751934, 
-    "total": 2387934, 
-    "industry_name": "Electric Utilities"
+    "total": 2387934
   }, 
   "E09": {
+    "name": "Environmental Svcs & Equipment", 
     "industry_code": "E09", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Environmental Svcs/Equipment"
+    "total": 0
   }, 
   "E07": {
+    "name": "Misc Energy", 
     "industry_code": "E07", 
     "pac": 104968, 
     "states": {
@@ -17166,10 +17167,10 @@
       }
     }, 
     "individual": 46491, 
-    "total": 151459, 
-    "industry_name": "Misc Energy"
+    "total": 151459
   }, 
   "E04": {
+    "name": "Mining", 
     "industry_code": "E04", 
     "pac": 630825, 
     "states": {
@@ -17381,10 +17382,10 @@
       }
     }, 
     "individual": 1271457, 
-    "total": 1902282, 
-    "industry_name": "Mining"
+    "total": 1902282
   }, 
   "E01": {
+    "name": "Oil & Gas", 
     "industry_code": "E01", 
     "pac": 5548813, 
     "states": {
@@ -18113,10 +18114,10 @@
       }
     }, 
     "individual": 7367013, 
-    "total": 12915826, 
-    "industry_name": "Oil & Gas"
+    "total": 12915826
   }, 
   "C01": {
+    "name": "General Contractors", 
     "industry_code": "C01", 
     "pac": 102000, 
     "states": {
@@ -18235,26 +18236,26 @@
       }
     }, 
     "individual": 858950, 
-    "total": 960950, 
-    "industry_name": "General Contractors"
+    "total": 960950
   }, 
   "C02": {
+    "name": "Home Builders", 
     "industry_code": "C02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Home Builders"
+    "total": 0
   }, 
   "C03": {
+    "name": "Special Trade Contractors", 
     "industry_code": "C03", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Special Trade Contractors"
+    "total": 0
   }, 
   "C04": {
+    "name": "Construction Services", 
     "industry_code": "C04", 
     "pac": 16500, 
     "states": {
@@ -18280,10 +18281,10 @@
       }
     }, 
     "individual": 72599, 
-    "total": 89099, 
-    "industry_name": "Construction Services"
+    "total": 89099
   }, 
   "C05": {
+    "name": "Building Materials & Equipment", 
     "industry_code": "C05", 
     "pac": 75000, 
     "states": {
@@ -18329,26 +18330,26 @@
       }
     }, 
     "individual": 19350, 
-    "total": 94350, 
-    "industry_name": "Building Materials & Equipment"
+    "total": 94350
   }, 
   "A09": {
+    "name": "Food Processing & Sales", 
     "industry_code": "A09", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Food Processing & Sales"
+    "total": 0
   }, 
   "A02": {
+    "name": "Tobacco", 
     "industry_code": "A02", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Tobacco"
+    "total": 0
   }, 
   "A01": {
+    "name": "Crop Production & Basic Processing", 
     "industry_code": "A01", 
     "pac": 787419, 
     "states": {
@@ -18507,10 +18508,10 @@
       }
     }, 
     "individual": 878479, 
-    "total": 1665898, 
-    "industry_name": "Crop Production & Basic Processing"
+    "total": 1665898
   }, 
   "A06": {
+    "name": "Livestock", 
     "industry_code": "A06", 
     "pac": 18500, 
     "states": {
@@ -18536,10 +18537,10 @@
       }
     }, 
     "individual": 126425, 
-    "total": 144925, 
-    "industry_name": "Livestock"
+    "total": 144925
   }, 
   "A07": {
+    "name": "Agricultural Services & Products", 
     "industry_code": "A07", 
     "pac": 930382, 
     "states": {
@@ -18678,23 +18679,22 @@
       }
     }, 
     "individual": 201400, 
-    "total": 1131782, 
-    "industry_name": "Agricultural Services/Products"
+    "total": 1131782
   }, 
   "A04": {
+    "name": "Dairy", 
     "industry_code": "A04", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Dairy"
+    "total": 0
   }, 
   "A05": {
+    "name": "Poultry & Eggs", 
     "industry_code": "A05", 
     "pac": 0, 
     "states": {}, 
     "individual": 0, 
-    "total": 0, 
-    "industry_name": "Poultry & Eggs"
+    "total": 0
   }
 }

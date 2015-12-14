@@ -2,6 +2,8 @@ from pymongo import MongoClient
 import json
 import csv
 import urllib2
+import string
+import re
 
 # This is kind of convoluted, but since 114th.csv is incomplete:
 # Query stateSenators.json for cid
@@ -142,6 +144,13 @@ def addIndustriesToDB2():
 			industries[code]["total"] += int(donation["total"])
 		# remove industry_donation key from updated object
 		industries[code].pop("industry_donations", None)
+		# rename key
+		# slashes mess up url
+		industries[code]["name"] = re.sub('/', ' & ', industries[code]["industry_name"])
+		# just a silly grammar thing
+		if industries[code]["name"] == "TV & Movies & Music":
+			industries[code]["name"] = "TV, Movies & Music"
+		industries[code].pop("industry_name", None)
 	with open("thing2.json","w") as g:
 		industries = str(json.dumps(industries, indent=2))
 		g.write(industries)
@@ -158,6 +167,8 @@ def addIndustriesToMongo():
 		industries = json.loads(f.read())
 		for code in industries.iterkeys():
 			collection.insert_one(industries[code])
+
+# addIndustriesToMongo()
 
 # This drops collections and recreates them from files -- later: move senatorContributions to non-app
 def recreateDB():

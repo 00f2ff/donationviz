@@ -20,7 +20,7 @@ app.get('/', function(req, res) { res.render('index', {'header': 'Senators by St
 // Using senator names for simplicity
 app.get('/senator/:name', dbRoutes.loadSenator);
 app.get('/organization/:name', dbRoutes.loadOrganization);
-
+app.get('/industry/:name', dbRoutes.loadIndustry); // ids are more convenient, but use name for consistency
 
 // Catch any routes not already handed with an error message
 app.use(dbRoutes.errorMessage);
