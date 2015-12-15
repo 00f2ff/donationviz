@@ -2,32 +2,21 @@
 
     var data = JSON.parse($('#data-holder').html());
     //portrait
-    var namequery= data[0].name.replace(/ /,"+") +"+" +"official" + "+" +"photo"; // API is no longer available error
-    var photoQuery="https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q="+namequery+"&imgsz=medium&rsz=1&callback=?";
-    var requestStr = "http://api.bing.net/json.aspx?"
-        
-            // Common request fields (required)
-            + "AppId=" + "e81c9238-d3fb-4c55-a735-e93515d21f2d"
-            + "&Query=xbox site:microsoft.com"
-            + "&Sources=Image"
-            
-            // Common request fields (optional)
-            + "&Version=2.0"
-            + "&Market=en-us"
-            + "&Adult=Moderate"
+    var namequery= data[0].name.replace(" ","%20"); // API is no longer available error
 
-            // Image-specific request fields (optional)
-            + "&Image.Count=10"
-            + "&Image.Offset=0"
-
-            // JSON-specific request fields (optional)
-            + "&JsonType=callback"
-            + "&JsonCallback=SearchCompleted";  
-
-    $.getJSON(requestStr, function(data){
-      console.log(data);
-    	$("#portrait").attr("src", data.responseData.results[0].unescapedUrl)    	
-    })
+    $.ajax
+    ({
+      type: "GET",
+      url: "https://api.datamarket.azure.com/Bing/Search/Image?Query=%27"+namequery+"%20official%20photo%27&ImageFilters=%27Size%3AMedium%2BAspect%3ATall%27&$format=json&$top=1",
+      dataType: 'json',
+        headers: {
+      "Authorization": "Basic " + btoa("" + ":" + "oYxTtJDIDAU56O2bvsLAqOep8hzXV8XP4b900gCUyig")
+      },
+      success: function (data){
+        console.log(data);
+              $("#portrait").attr("src", data.d.results[0].MediaUrl)     
+      }
+    });
 
     //breif info
     var party, state;
