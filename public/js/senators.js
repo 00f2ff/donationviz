@@ -24,27 +24,28 @@
     	party="Republican"
     }
     else if(data[0].party==="D"){
-    	party='Democratic'
+    	party='Democrat'
     }
     else{
     	party="Independent"
     }
     state=statesAbbv[data[0].state];
-    var display= party +" senator from " +state;
+    var display= party +", " +state;
     $("#breif").html(display); 
  
 
   //Top Contributors
   for(var i =0;i<5;i++){
   	var orgName=data[0].donations[i].organization;
+    var orgLink=data[0].donations[i].organization.replace(" ","%20");
   	var total=data[0].donations[i].total;
   	var individual=data[0].donations[i].individual;
   	var pac =data[0].donations[i].pac;
-  	$("#topContributor").append("<div>"+orgName +" <b>Total $ "+total+"</b>"+"<br>Pac: "+pac+" Individual "+individual + "</div>");
+  	$("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
   }
 
 
-  //Pie Chart
+  //Total
   var totalIndividual=0;
   var totalPAC=0
   for(var i=0;i<100;i++){
@@ -53,53 +54,13 @@
     data[0].donations[i].value=data[0].donations[i].total;
   }
   var totalAmount=totalPAC+totalIndividual;
+$( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.toDollars(totalAmount)+"</h2>" );
 
-  var dataset = [
-  { label: 'Individual', amount: Math.round(totalIndividual/totalAmount*100) }, 
-  { label: 'PAC', amount: Math.round(totalPAC/totalAmount*100) }
-];
-
-  var width = 360;
-  var height = 360;
-  var radius = Math.min(width, height) / 2;     
-  var color = d3.scale.category10();
-
-  var svg = d3.select('#piechart')
-  .append('svg')
-  .attr('width', width)
-  .attr('height', height)
-  .append('g')
-  .attr('transform', 'translate(' + (width / 2) +  ',' + (height / 2) + ')');
-
-  var arc = d3.svg.arc()
-  .outerRadius(radius);
-
-  var pie = d3.layout.pie()
-  .value(function(d) { return d.amount; })
-  .sort(null);
-
-  var labelArc = d3.svg.arc()
-    .outerRadius(radius)
-    .innerRadius(radius - 150);
-
-  var g = svg.selectAll(".arc")
-  .data(pie(dataset))
-    .enter().append("g")
-      .attr("class", "arc");
-
-  g.append("path")
-      .attr("d", arc)
-      .style("fill", function(d) { return color(d.data.amount); });
-
-  g.append("text")
-      .attr("transform", function(d) { 
-        return "translate(" + labelArc.centroid(d,i)
-         + ")"; }) 
-      .text(function(d) { return d.data.label +" "+ d.data.amount +"%"; });
+  var orgData={children:data[0].donations.slice(0,20)};
 
 //Bubble chart
-
-var diameter = 960,
+function drawBubbleChart(data){
+var diameter = 720,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
@@ -115,14 +76,12 @@ var svg = d3.select("#bubblechart").append("svg")
 
 //d3.json("flare.json", function(error, root) {
   //if (error) throw error;
-  var root={children:data[0].donations.slice(0,19)};
-
+  var root =data;
   var node = svg.selectAll(".node")
       .data(bubble.nodes(root))
       .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
-
   node.append("title")
       .text(function(d) { return format(d.total); });
 
@@ -134,6 +93,80 @@ var svg = d3.select("#bubblechart").append("svg")
       .attr("dy", ".3em")
       .style("text-anchor", "middle")
       .text(function(d) { return d.organization });
- // });
+  }
 
-  });
+drawBubbleChart(orgData);
+
+$(".bubble circle").first().remove();
+function drawPieChart(breakdown) { 
+    var color = {},
+        pieData;
+      color.PAC = "#fde0dd";
+      color.Individual = "#c51b8a";
+      pieData = [{name: "PAC", value: totalPAC,amount: Math.round(totalPAC/totalAmount*100)}, {name: "Individual", value: totalIndividual,amount: Math.round(totalIndividual/totalAmount*100)}];
+    
+
+    var width = 300,
+        height = 300,
+        radius = Math.min(width, height) / 2;
+
+    var arc = d3.svg.arc()
+      .outerRadius(radius)
+      .innerRadius(0);
+
+    var pie = d3.layout.pie()
+      .sort(null)
+      .value(function(d) { return d.value; });
+
+    var svg = d3.select("#pie-pan").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .style("margin-top", "-30px")
+      .attr("id", "pie-"+breakdown)
+    .append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    var g = svg.selectAll(".arc")
+      .data(pie(pieData))
+    .enter().append("g")
+      .attr("class", "arc");
+
+    g.append("path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color[d.data.name]; })
+      .attr("id", function(d) { return d.data.name; })
+      .attr("data-value", function(d) { if (d.value > 0) return d.value; });
+
+    g.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
+      var yPosition = d3.event.layerY+10;
+      // style (make sure tooltip doesn't go over page width)
+      if (breakdown === 'source') {
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
+      
+      g.style('opacity',0.6);
+      $(this).css('opacity',1);
+
+      if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
+        $('#tooltip--'+breakdown).removeClass('hidden');
+      }
+
+      var path = $(this).find('path');
+      var modifier;
+      breakdown === 'party' ? modifier = 'to' : modifier = 'from';
+      $('#tooltip--'+breakdown+' h4').text('Donations '+modifier+' '+ path.attr('id')+'s');
+      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')));
+      }).on('mouseleave',function(){
+      g.style('opacity',1);
+      $('#tooltip--'+breakdown).addClass('hidden');
+    });
+
+      g.append("text")
+      .attr("transform", function(d) { 
+        return "translate(" + arc.centroid(d,i)
+         + ")"; }) 
+      .text(function(d) { return d.data.amount +"%"; });
+  }
+  drawPieChart("source");
+});
