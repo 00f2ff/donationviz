@@ -62,7 +62,7 @@ $( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.to
   console.log("ind"+JSON.stringify(industryData));
 //Bubble chart
 function drawBubbleChart(data, breakdown){
-var diameter = 500,
+var diameter = 560,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
@@ -74,7 +74,7 @@ var bubble = d3.layout.pack()
       return d.total;
     });
 
-var svg = d3.select("#bubblechart").append("svg")
+var svg = d3.select("#"+breakdown).append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
     .attr("class", "bubble");
@@ -111,6 +111,11 @@ var svg = d3.select("#bubblechart").append("svg")
       if (breakdown === 'org') {
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
       }
+      else{
+        xPosition=xPosition-70;
+        yPosition=yPosition-20;
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
       
       g.style('opacity',0.6);
       $(this).css('opacity',1);
@@ -119,8 +124,7 @@ var svg = d3.select("#bubblechart").append("svg")
         $('#tooltip--'+breakdown).removeClass('hidden');
       }
 
-      var path = $(this);//["__data__"][index];
-      console.log(path[0]);
+      var path = $($(this).prev()[0]).text()+"";
       var modifier;
       breakdown === 'party' ? modifier = 'to' : modifier = 'from';
       $('#tooltip--'+breakdown+' h5').text(path.replace("&amp;","&"))
@@ -130,10 +134,10 @@ var svg = d3.select("#bubblechart").append("svg")
     });
   }
 
-//drawBubbleChart(orgData,'org');
+drawBubbleChart(orgData,'org');
 drawBubbleChart(industryData,'industry')
 
-$(".bubble .node").first().remove();
+$(".bubble .node:nth-child(1)").remove();
 
 function drawPieChart(breakdown) { 
     var color = {},
