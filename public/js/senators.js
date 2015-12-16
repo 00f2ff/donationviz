@@ -59,7 +59,7 @@ $( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.to
   var orgData={children:data[0].donations.slice(0,20)};
 
 //Bubble chart
-function drawBubbleChart(data){
+function drawBubbleChart(data, breakdown){
 var diameter = 720,
     format = d3.format(",d"),
     color = d3.scale.category20c();
@@ -82,8 +82,9 @@ var svg = d3.select("#bubblechart").append("svg")
       .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
-  node.append("title")
-      .text(function(d) { return format(d.total); });
+
+  node.append("data")
+      .text(function(d) { return d.organization; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
@@ -92,12 +93,38 @@ var svg = d3.select("#bubblechart").append("svg")
   node.append("text")
       .attr("dy", ".3em")
       .style("text-anchor", "middle")
-      .text(function(d) { return d.organization });
+      .text(function(d) { return VizHelper.toDollars(d.total+""); });
+    var g = svg.selectAll("circle")
+
+      g.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
+      var yPosition = d3.event.layerY+10;
+      // style (make sure tooltip doesn't go over page width)
+      if (breakdown === 'org') {
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
+      
+      g.style('opacity',0.6);
+      $(this).css('opacity',1);
+
+      if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
+        $('#tooltip--'+breakdown).removeClass('hidden');
+      }
+
+      var path = $(this)[0]["__data__"]["organization"];
+      var modifier;
+      breakdown === 'party' ? modifier = 'to' : modifier = 'from';
+      $('#tooltip--'+breakdown+' h5').text(path)
+      }).on('mouseleave',function(){
+      g.style('opacity',1);
+      $('#tooltip--'+breakdown).addClass('hidden');
+    });
   }
 
-drawBubbleChart(orgData);
+drawBubbleChart(orgData,'org');
 
-$(".bubble circle").first().remove();
+$(".bubble .node").first().remove();
+
 function drawPieChart(breakdown) { 
     var color = {},
         pieData;
