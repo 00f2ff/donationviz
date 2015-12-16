@@ -44,7 +44,6 @@
   	$("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
   }
 
-
   //Total
   var totalIndividual=0;
   var totalPAC=0
@@ -57,17 +56,23 @@
 $( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.toDollars(totalAmount)+"</h2>" );
 
   var orgData={children:data[0].donations.slice(0,20)};
+  var industryData={children:data[0].industry_donations};
 
+  console.log("org"+JSON.stringify(orgData));
+  console.log("ind"+JSON.stringify(industryData));
 //Bubble chart
 function drawBubbleChart(data, breakdown){
-var diameter = 720,
+var diameter = 500,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
 var bubble = d3.layout.pack()
     .sort(null)
     .size([diameter, diameter])
-    .padding(1.5);
+    .padding(1.5)
+    .value(function value(d) {
+      return d.total;
+    });
 
 var svg = d3.select("#bubblechart").append("svg")
     .attr("width", diameter)
@@ -77,18 +82,21 @@ var svg = d3.select("#bubblechart").append("svg")
 //d3.json("flare.json", function(error, root) {
   //if (error) throw error;
   var root =data;
+  var index;
+
   var node = svg.selectAll(".node")
       .data(bubble.nodes(root))
       .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  breakdown === 'org' ? index = "organization" : index = "industry_name";
 
   node.append("data")
-      .text(function(d) { return d.organization; });
+      .text(function(d) { return d[index]; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
-      .style("fill", function(d) { return color(d.organization); });
+      .style("fill", function(d) { return color(d[index]); });
 
   node.append("text")
       .attr("dy", ".3em")
@@ -111,17 +119,19 @@ var svg = d3.select("#bubblechart").append("svg")
         $('#tooltip--'+breakdown).removeClass('hidden');
       }
 
-      var path = $(this)[0]["__data__"]["organization"];
+      var path = $(this);//["__data__"][index];
+      console.log(path[0]);
       var modifier;
       breakdown === 'party' ? modifier = 'to' : modifier = 'from';
-      $('#tooltip--'+breakdown+' h5').text(path)
+      $('#tooltip--'+breakdown+' h5').text(path.replace("&amp;","&"))
       }).on('mouseleave',function(){
       g.style('opacity',1);
       $('#tooltip--'+breakdown).addClass('hidden');
     });
   }
 
-drawBubbleChart(orgData,'org');
+//drawBubbleChart(orgData,'org');
+drawBubbleChart(industryData,'industry')
 
 $(".bubble .node").first().remove();
 
