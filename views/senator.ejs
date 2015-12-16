@@ -1,13 +1,15 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="/css/style.css" rel="stylesheet">
-        <link href="/css/senator.css" rel="stylesheet">
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+    <link href="/css/senator.css" rel="stylesheet">
+        <link href="/css/style.css" rel="stylesheet">
+
+
 </head>
 <body>
 <div class="container">
@@ -16,29 +18,47 @@
           <% include partials/dropdowns.ejs %>
       </div> 
       <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-4">
+      <h1 class="title">Sen.<%= header %></h1>
+       <h3 id="breif" class="title"></h3>
       <img id="portrait" src=""style="width:250px;height:317px;">
       </div><!--col-->
-      <div class="col-md-5">
-       <h1>Sen. <%= header %></h1>
-       <h3 id="breif"></h3>
-	 </div>
-	  <div class="col-md-4">
-       <h1 id="contributor">Top 5 contributor</h1>
-       <ul id="topContributor">	
+      <div class="col-md-4">
+       <h1 id="contributor">Top 5 Contributors</h1>
+       <br>
+       <ul id="topContributor"> 
        </ul>
 	 </div>
-      </div><!--row-->
-
-    <div class="row">
-    <div id="bubblechart">
+	  <div class="col-md-4">
+         <h1 class="title" id="totalContribution">Total Contribution:</h1>
+                  <h3>Donation by type</h3>
+          <br>
+         <br>
+          <div class="" id="pie-pan" style="margin-top:0px">
+          <div id="tooltip--source" class="my-tooltip hidden" style="width: 250px">
+            <h4 id="source"></h4>
+            <h5> </h5>
+          </div>
+    </div>
     </div><!--row-->
 
     <div class="row">
-    <div id="piechart">
-    </div><!--row-->
+    <div class="col-md-6">
+            <h1>Top 20 Companies</h1>
+    <div id="org">
+      <div id="tooltip--org" class="my-tooltip hidden" style="width: 250px">
+            <h5 id="org"></h5>
+      </div>
 
-
+    </div>
+    </div>
+        <div class="col-md-6">
+        <h1>Top 10 Industries</h1>
+          <div id="industry">
+        <div id="tooltip--industry" class="my-tooltip hidden" style="width: 250px">
+        <h5 id="industry"></h5>
+      </div>
+      </div>
 
     </div>
     <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
@@ -55,6 +75,7 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
         <script src="/js/d3/d3.min.js"></script>
+        <script src="/js/viz_helper.js"></script>
      <script src="/js/statesAbbv.js"></script>
     <script src="/js/senators.js"></script>
     <script src="/js/typeahead_min.js"></script>

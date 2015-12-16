@@ -2,32 +2,21 @@
 
     var data = JSON.parse($('#data-holder').html());
     //portrait
-    var namequery= data[0].name.replace(/ /,"+") +"+" +"official" + "+" +"photo"; // API is no longer available error
-    var photoQuery="https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q="+namequery+"&imgsz=medium&rsz=1&callback=?";
-    var requestStr = "http://api.bing.net/json.aspx?"
-        
-            // Common request fields (required)
-            + "AppId=" + "e81c9238-d3fb-4c55-a735-e93515d21f2d"
-            + "&Query=xbox site:microsoft.com"
-            + "&Sources=Image"
-            
-            // Common request fields (optional)
-            + "&Version=2.0"
-            + "&Market=en-us"
-            + "&Adult=Moderate"
+    var namequery= data[0].name.replace(" ","%20"); // API is no longer available error
 
-            // Image-specific request fields (optional)
-            + "&Image.Count=10"
-            + "&Image.Offset=0"
-
-            // JSON-specific request fields (optional)
-            + "&JsonType=callback"
-            + "&JsonCallback=SearchCompleted";  
-
-    $.getJSON(requestStr, function(data){
-      console.log(data);
-    	$("#portrait").attr("src", data.responseData.results[0].unescapedUrl)    	
-    })
+    $.ajax
+    ({
+      type: "GET",
+      url: "https://api.datamarket.azure.com/Bing/Search/Image?Query=%27"+namequery+"%20official%20photo%27&ImageFilters=%27Size%3AMedium%2BAspect%3ATall%27&$format=json&$top=1",
+      dataType: 'json',
+        headers: {
+      "Authorization": "Basic " + btoa("" + ":" + "oYxTtJDIDAU56O2bvsLAqOep8hzXV8XP4b900gCUyig")
+      },
+      success: function (data){
+        console.log(data);
+              $("#portrait").attr("src", data.d.results[0].MediaUrl)     
+      }
+    });
 
     //breif info
     var party, state;
@@ -35,27 +24,27 @@
     	party="Republican"
     }
     else if(data[0].party==="D"){
-    	party='Democratic'
+    	party='Democrat'
     }
     else{
     	party="Independent"
     }
     state=statesAbbv[data[0].state];
-    var display= party +" senator from " +state;
+    var display= party +", " +state;
     $("#breif").html(display); 
  
 
   //Top Contributors
   for(var i =0;i<5;i++){
   	var orgName=data[0].donations[i].organization;
+    var orgLink=data[0].donations[i].organization.replace(" ","%20");
   	var total=data[0].donations[i].total;
   	var individual=data[0].donations[i].individual;
   	var pac =data[0].donations[i].pac;
-  	$("#topContributor").append("<div>"+orgName +" <b>Total $ "+total+"</b>"+"<br>Pac: "+pac+" Individual "+individual + "</div>");
+  	$("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
   }
 
-
-  //Pie Chart
+  //Total
   var totalIndividual=0;
   var totalPAC=0
   for(var i=0;i<100;i++){
@@ -64,87 +53,161 @@
     data[0].donations[i].value=data[0].donations[i].total;
   }
   var totalAmount=totalPAC+totalIndividual;
+$( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.toDollars(totalAmount)+"</h2>" );
 
-  var dataset = [
-  { label: 'Individual', amount: Math.round(totalIndividual/totalAmount*100) }, 
-  { label: 'PAC', amount: Math.round(totalPAC/totalAmount*100) }
-];
+  var orgData={children:data[0].donations.slice(0,20)};
+  var industryData={children:data[0].industry_donations};
 
-  var width = 360;
-  var height = 360;
-  var radius = Math.min(width, height) / 2;     
-  var color = d3.scale.category10();
-
-  var svg = d3.select('#piechart')
-  .append('svg')
-  .attr('width', width)
-  .attr('height', height)
-  .append('g')
-  .attr('transform', 'translate(' + (width / 2) +  ',' + (height / 2) + ')');
-
-  var arc = d3.svg.arc()
-  .outerRadius(radius);
-
-  var pie = d3.layout.pie()
-  .value(function(d) { return d.amount; })
-  .sort(null);
-
-  var labelArc = d3.svg.arc()
-    .outerRadius(radius)
-    .innerRadius(radius - 150);
-
-  var g = svg.selectAll(".arc")
-  .data(pie(dataset))
-    .enter().append("g")
-      .attr("class", "arc");
-
-  g.append("path")
-      .attr("d", arc)
-      .style("fill", function(d) { return color(d.data.amount); });
-
-  g.append("text")
-      .attr("transform", function(d) { 
-        return "translate(" + labelArc.centroid(d,i)
-         + ")"; }) 
-      .text(function(d) { return d.data.label +" "+ d.data.amount +"%"; });
-
+  console.log("org"+JSON.stringify(orgData));
+  console.log("ind"+JSON.stringify(industryData));
 //Bubble chart
-
-var diameter = 960,
+function drawBubbleChart(data, breakdown){
+var diameter = 560,
     format = d3.format(",d"),
     color = d3.scale.category20c();
 
 var bubble = d3.layout.pack()
     .sort(null)
     .size([diameter, diameter])
-    .padding(1.5);
+    .padding(1.5)
+    .value(function value(d) {
+      return d.total;
+    });
 
-var svg = d3.select("#bubblechart").append("svg")
+var svg = d3.select("#"+breakdown).append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
     .attr("class", "bubble");
 
 //d3.json("flare.json", function(error, root) {
   //if (error) throw error;
-  var root={children:data[0].donations.slice(0,19)};
+  var root =data;
+  var index;
 
   var node = svg.selectAll(".node")
       .data(bubble.nodes(root))
       .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  breakdown === 'org' ? index = "organization" : index = "industry_name";
 
-  node.append("title")
-      .text(function(d) { return format(d.total); });
+  node.append("data")
+      .text(function(d) { return d[index]; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
-      .style("fill", function(d) { return color(d.organization); });
+      .style("fill", function(d) { return color(d[index]); });
 
   node.append("text")
       .attr("dy", ".3em")
       .style("text-anchor", "middle")
-      .text(function(d) { return d.organization });
- // });
+      .text(function(d) { return VizHelper.toDollars(d.total+""); });
+    var g = svg.selectAll("circle")
 
-  });
+      g.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
+      var yPosition = d3.event.layerY+10;
+      // style (make sure tooltip doesn't go over page width)
+      if (breakdown === 'org') {
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
+      else{
+        xPosition=xPosition-70;
+        yPosition=yPosition-20;
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
+      
+      g.style('opacity',0.6);
+      $(this).css('opacity',1);
+
+      if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
+        $('#tooltip--'+breakdown).removeClass('hidden');
+      }
+
+      var path = $($(this).prev()[0]).text()+"";
+      var modifier;
+      breakdown === 'party' ? modifier = 'to' : modifier = 'from';
+      $('#tooltip--'+breakdown+' h5').text(path.replace("&amp;","&"))
+      }).on('mouseleave',function(){
+      g.style('opacity',1);
+      $('#tooltip--'+breakdown).addClass('hidden');
+    });
+  }
+
+drawBubbleChart(orgData,'org');
+drawBubbleChart(industryData,'industry')
+
+$(".bubble .node:nth-child(1)").remove();
+
+function drawPieChart(breakdown) { 
+    var color = {},
+        pieData;
+      color.PAC = "#fde0dd";
+      color.Individual = "#c51b8a";
+      pieData = [{name: "PAC", value: totalPAC,amount: Math.round(totalPAC/totalAmount*100)}, {name: "Individual", value: totalIndividual,amount: Math.round(totalIndividual/totalAmount*100)}];
+    
+
+    var width = 300,
+        height = 300,
+        radius = Math.min(width, height) / 2;
+
+    var arc = d3.svg.arc()
+      .outerRadius(radius)
+      .innerRadius(0);
+
+    var pie = d3.layout.pie()
+      .sort(null)
+      .value(function(d) { return d.value; });
+
+    var svg = d3.select("#pie-pan").append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .style("margin-top", "-30px")
+      .attr("id", "pie-"+breakdown)
+    .append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    var g = svg.selectAll(".arc")
+      .data(pie(pieData))
+    .enter().append("g")
+      .attr("class", "arc");
+
+    g.append("path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color[d.data.name]; })
+      .attr("id", function(d) { return d.data.name; })
+      .attr("data-value", function(d) { if (d.value > 0) return d.value; });
+
+    g.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
+      var yPosition = d3.event.layerY+10;
+      // style (make sure tooltip doesn't go over page width)
+      if (breakdown === 'source') {
+        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+      }
+      
+      g.style('opacity',0.6);
+      $(this).css('opacity',1);
+
+      if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
+        $('#tooltip--'+breakdown).removeClass('hidden');
+      }
+
+      var path = $(this).find('path');
+      var modifier;
+      breakdown === 'party' ? modifier = 'to' : modifier = 'from';
+      $('#tooltip--'+breakdown+' h4').text('Donations '+modifier+' '+ path.attr('id')+'s');
+      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')));
+      }).on('mouseleave',function(){
+      g.style('opacity',1);
+      $('#tooltip--'+breakdown).addClass('hidden');
+    });
+
+      g.append("text")
+      .attr("transform", function(d) { 
+        return "translate(" + arc.centroid(d,i)
+         + ")"; }) 
+      .text(function(d) { return d.data.amount +"%"; });
+  }
+  drawPieChart("source");
+});

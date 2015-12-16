@@ -184,4 +184,4 @@ def recreateDB():
 	print "There are %d senators" % (db.senators.find().count())
 	addIndustriesToMongo()
 
-# recreateDB()
+recreateDB()
