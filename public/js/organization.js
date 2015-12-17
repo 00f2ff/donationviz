@@ -16,7 +16,8 @@ $(function() {
     grandTotal += data.states[state].total;
   }
   $('.total-contributions').text(VizHelper.toDollars(grandTotal));
-
+  $('#gradient-wrapper #min').text(VizHelper.toDollars(min));
+  $('#gradient-wrapper #max').text(VizHelper.toDollars(max))
   // right now this styling is done in js; it should move to CSS for non-index files
   $('svg .state').css('fill','#D8D8D8')
 
@@ -100,8 +101,8 @@ $(function() {
     var color = {},
         pieData;
     if (breakdown === 'source') {
-      color.PAC = "#fde0dd";
-      color.Individual = "#c51b8a";
+      color.PAC = "#B6B6B6";
+      color.Individual = "#212121";
       pieData = [{name: "PAC", value: totals.PAC}, {name: "Individual", value: totals.Individual}];
     } else if (breakdown === 'party') {
       color.Democrat = 'rgb(33, 150, 243)';
