@@ -106,7 +106,7 @@ var svg = d3.select("#"+breakdown).append("svg")
 
       node.on("mousemove", function (e) {
       var xPosition = d3.event.layerX; // doesn't use standard JS event
-      var yPosition = d3.event.layerY+12;
+      var yPosition = d3.event.layerY+10;
       // style (make sure tooltip doesn't go over page width)
       if (breakdown === 'org') {
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
@@ -142,8 +142,16 @@ function drawPieChart(breakdown) {
         pieData;
       color.PAC = "#fde0dd";
       color.Individual = "#c51b8a";
-      pieData = [{name: "PAC", value: totalPAC,amount: Math.round(totalPAC/totalAmount*100)}, {name: "Individual", value: totalIndividual,amount: Math.round(totalIndividual/totalAmount*100)}];
-    
+      pieData = [{
+        name: "PAC", 
+        value: totalPAC,
+        amount: Math.round(totalPAC/totalAmount*100)
+      }, 
+      {
+        name: "Individual", 
+        value: totalIndividual,
+        amount: Math.round(totalIndividual/totalAmount*100)
+      }];
 
     var width = 300,
         height = 300,
@@ -174,7 +182,8 @@ function drawPieChart(breakdown) {
       .attr("d", arc)
       .style("fill", function(d) { return color[d.data.name]; })
       .attr("id", function(d) { return d.data.name; })
-      .attr("data-value", function(d) { if (d.value > 0) return d.value; });
+      .attr("data-value", function(d) { if (d.value > 0) return d.value; })
+      .attr("data-amount", function(d) { if (d.data.amount > 0) return d.data.amount; });
 
     g.on("mousemove", function (e) {
       var xPosition = d3.event.layerX-35; // doesn't use standard JS event
@@ -186,7 +195,6 @@ function drawPieChart(breakdown) {
       
       g.style('opacity',0.6);
       $(this).css('opacity',1);
-
       if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
         $('#tooltip--'+breakdown).removeClass('hidden');
       }
@@ -195,17 +203,18 @@ function drawPieChart(breakdown) {
       var modifier;
       breakdown === 'party' ? modifier = 'to' : modifier = 'from';
       $('#tooltip--'+breakdown+' h4').text('Donations '+modifier+' '+ path.attr('id')+'s');
-      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')));
+      console.log(path.data('amount'));
+      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')) + ' ('+path.data('amount')+'%)');
       }).on('mouseleave',function(){
       g.style('opacity',1);
       $('#tooltip--'+breakdown).addClass('hidden');
     });
 
-      g.append("text")
-      .attr("transform", function(d) { 
-        return "translate(" + arc.centroid(d,i)
-         + ")"; }) 
-      .text(function(d) { return d.data.amount +"%"; });
+      // g.append("text") // percent here looks bad
+      // .attr("transform", function(d) { 
+      //   return "translate(" + arc.centroid(d,i)
+      //    + ")"; }) 
+      // .text(function(d) { return d.data.amount +"%"; });
   }
   drawPieChart("source");
 });
