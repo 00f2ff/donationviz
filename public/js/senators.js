@@ -102,34 +102,32 @@ var svg = d3.select("#"+breakdown).append("svg")
       .attr("dy", ".3em")
       .style("text-anchor", "middle")
       .text(function(d) { return VizHelper.toDollars(d.total+""); });
-    var g = svg.selectAll("circle")
+    // var g = svg.selectAll(".node")
 
-      g.on("mousemove", function (e) {
-      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
-      var yPosition = d3.event.layerY+10;
+      node.on("mousemove", function (e) {
+      var xPosition = d3.event.layerX; // doesn't use standard JS event
+      var yPosition = d3.event.layerY+12;
       // style (make sure tooltip doesn't go over page width)
       if (breakdown === 'org') {
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
       }
       else{
-        xPosition=xPosition;
-        yPosition=yPosition-20;
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
       }
       
-      g.style('opacity',0.6);
+      node.style('opacity',0.6);
       $(this).css('opacity',1);
 
       if ($('#tooltip--'+breakdown).hasClass('hidden')) { 
         $('#tooltip--'+breakdown).removeClass('hidden');
       }
 
-      var path = $($(this).prev()[0]).text()+"";
-      var modifier;
-      breakdown === 'party' ? modifier = 'to' : modifier = 'from';
-      $('#tooltip--'+breakdown+' h5').text(path.replace("&amp;","&"))
+      var path = $($(this)[0]).text()+"";
+      // this is a mess
+      $('#tooltip--'+breakdown+' h5#'+breakdown).text(path.replace("&amp;","&").split('$')[0]);
+      $('#tooltip--'+breakdown+' h5#'+breakdown+'-value').text('$'+path.split('$')[1])
       }).on('mouseleave',function(){
-      g.style('opacity',1);
+      node.style('opacity',1);
       $('#tooltip--'+breakdown).addClass('hidden');
     });
   }
