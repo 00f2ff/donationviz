@@ -1,4 +1,4 @@
-  $(function() {
+$(function() {
 
     var data = JSON.parse($('#data-holder').html());
     //portrait
@@ -21,13 +21,13 @@
     //breif info
     var party, state;
     if (data[0].party==="R"){
-    	party="Republican"
+      party="Republican"
     }
     else if(data[0].party==="D"){
-    	party='Democrat'
+      party='Democrat'
     }
     else{
-    	party="Independent"
+      party="Independent"
     }
     state=statesAbbv[data[0].state];
     var display= party +", " +state;
@@ -36,12 +36,12 @@
 
   //Top Contributors
   for(var i =0;i<5;i++){
-  	var orgName=data[0].donations[i].organization;
+    var orgName=data[0].donations[i].organization;
     var orgLink=data[0].donations[i].organization.replace(" ","%20");
-  	var total=data[0].donations[i].total;
-  	var individual=data[0].donations[i].individual;
-  	var pac =data[0].donations[i].pac;
-  	$("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
+    var total=data[0].donations[i].total;
+    var individual=data[0].donations[i].individual;
+    var pac =data[0].donations[i].pac;
+    $("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
   }
 
   //Total
@@ -112,7 +112,7 @@ var svg = d3.select("#"+breakdown).append("svg")
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
       }
       else{
-        xPosition=xPosition-70;
+        xPosition=xPosition;
         yPosition=yPosition-20;
         $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
       }
