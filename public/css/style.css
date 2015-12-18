@@ -4,6 +4,44 @@ body {
 	margin: 0;
 }
 
+#gradient-wrapper {
+	margin-bottom: 30px;
+}
+
+#both-legends-wrapper {
+	float: left;
+}
+
+.pie-wrapper {
+	/*float: left;*/
+}
+
+.legend-wrapper {
+	float: left;
+	height: 100px;
+	width: 50%;
+	/*width: 200px;*/
+	/*height: 50px;*/
+}
+
+.legend-row {
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.legend {
+	height: 20px;
+	width: 20px;
+	margin-right: 5px;
+	float: left;
+}
+
+.legend-text {
+	float: left;
+	font-size: 12px;
+}
+
 #page { width: 1000px; margin: 0 auto;}
 
 #map-wrapper {
@@ -12,7 +50,7 @@ body {
 	height: 650px;
 }
 
-h1 {
+h1, h3#header {
 	text-align: center;
 	margin-bottom: 20px;
 }
@@ -205,5 +243,5 @@ tr:nth-child(even) { background-color: #B6B6B6; }
 }
 
 #pie-pan {
-	margin: 30px auto;
+	margin: 30px auto 0px auto;
 }

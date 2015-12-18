@@ -1,7 +1,12 @@
 $(function() {
   var data = JSON.parse($('#data-holder').html())[0];
   // if no data for this company
-  if (!data) { data = {states: []} }
+  if (!data || data.total === 0) { 
+    data = {states: []} 
+    // remove gradient
+    $('#gradient-wrapper').remove();
+  }
+  console.log(data);
   // right now this is post-processed, but it should be pre-processed, or done with a database call
   var min, max, grandTotal = 0;
   for (var state in data.states) {
@@ -37,14 +42,20 @@ $(function() {
     // style (so doesn't go over page width)
     var state = $(this).find('path').attr('id');
 
-    if (!VizHelper.isEasternState(state)) {
-      $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
-    } else {
+    if (VizHelper.isEasternState(state)) {
       var tooltipWidth = $('#tooltip').width();
       $('#tooltip').css({'left': (xPosition - tooltipWidth - 35)+ "px", 'top': yPosition + "px"});
+    } else if (VizHelper.isSouthmostState(state)) { // causes flash, but meh
+      var tooltipHeight = $('#tooltip').height();
+      $('#tooltip').css({'left': xPosition+ "px", 'top': (yPosition - tooltipHeight - 25) + "px"});
+    } else if (state === "FL") { // because florida is a special snowflake
+      var tooltipWidth = $('#tooltip').width();
+      var tooltipHeight = $('#tooltip').height();
+      $('#tooltip').css({'left': (xPosition - tooltipWidth - 35)+ "px", 'top': (yPosition - tooltipHeight - 25) + "px"});
+    } else {
+      $('#tooltip').css({'left': xPosition + "px", 'top': yPosition + "px"});
     }
-    
-    
+  
     // Only allow changes / tooltip if state is in data
     if (data.states[state]) {
       $('#map svg g').css('opacity',0.6);
@@ -103,12 +114,35 @@ $(function() {
     if (breakdown === 'source') {
       color.PAC = "#B6B6B6";
       color.Individual = "#212121";
-      pieData = [{name: "PAC", value: totals.PAC}, {name: "Individual", value: totals.Individual}];
+      pieData = [{
+        name: "PAC", 
+        value: totals.PAC,
+        amount: Math.round(totals.PAC/(totals.PAC+totals.Individual)*100)
+      }, 
+      {
+        name: "Individual",
+        value: totals.Individual,
+        amount: Math.round(totals.Individual/(totals.PAC+totals.Individual)*100)
+      }];
     } else if (breakdown === 'party') {
       color.Democrat = 'rgb(33, 150, 243)';
       color.Republican = 'rgb(244, 67, 54)';
-      color.Independent = '#ffffbf';
-      pieData = [{name: "Democrat", value: totals.Democrat}, {name: "Republican", value: totals.Republican}, {name: "Independent", value: totals.Independent}];
+      color.Independent = '#FFC107';
+      pieData = [{
+        name: "Democrat", 
+        value: totals.Democrat,
+        amount: Math.round(totals.Democrat/(totals.Democrat+totals.Republican+totals.Independent)*100)
+      }, 
+      {
+        name: "Republican", 
+        value: totals.Republican,
+        amount: Math.round(totals.Republican/(totals.Democrat+totals.Republican+totals.Independent)*100)
+      }, 
+      {
+        name: "Independent", 
+        value: totals.Independent,
+        amount: Math.round(totals.Independent/(totals.Democrat+totals.Republican+totals.Independent)*100)
+      }];
     }
 
     var width = 150,
@@ -140,7 +174,6 @@ $(function() {
         .style("font-size", "14px") 
         .text(title);
 
-
     var g = svg.selectAll(".arc")
       .data(pie(pieData))
     .enter().append("g")
@@ -150,7 +183,8 @@ $(function() {
       .attr("d", arc)
       .style("fill", function(d) { return color[d.data.name]; })
       .attr("id", function(d) { return d.data.name; })
-      .attr("data-value", function(d) { if (d.value > 0) return d.value; });
+      .attr("data-value", function(d) { if (d.value > 0) return d.value; })
+      .attr("data-amount", function(d) { if (d.data.amount > 0) return d.data.amount; });
 
     g.on("mousemove", function (e) {
       var xPosition = d3.event.layerX + 10; // doesn't use standard JS event
@@ -175,7 +209,7 @@ $(function() {
       var modifier;
       breakdown === 'party' ? modifier = 'to' : modifier = 'from';
       $('#tooltip--'+breakdown+' h4').text('Donations '+modifier+' '+ path.attr('id')+'s');
-      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')));
+      $('#tooltip--'+breakdown+' h5').text(VizHelper.toDollars(path.data('value')) + ' ('+path.data('amount')+'%)');
 
       
 
@@ -184,10 +218,88 @@ $(function() {
       $('#tooltip--'+breakdown).addClass('hidden');
     });
 
+    // add legends
+    if (breakdown === 'source') {
+      var sourceLegend = $('<div class="legend-wrapper">\
+                            <div class="legend-row">\
+                              <div class="legend" style="background-color: rgb(33, 33, 33)"></div>\
+                              <div class="legend-text">Individual Donations</div>\
+                            </div>\
+                            <div class="legend-row">\
+                              <div class="legend" style="background-color: rgb(182, 182, 182)"></div>\
+                              <div class="legend-text">PAC Donations</div>\
+                            </div>\
+                          </div>');
+      $('#both-legends-wrapper').append(sourceLegend)
+    } else {
+      var partyLegend = $('<div class="legend-wrapper">\
+                            <div class="legend-row">\
+                              <div class="legend" style="background-color: rgb(244, 67, 54)"></div>\
+                              <div class="legend-text">Donations to Republicans</div>\
+                            </div>\
+                            <div class="legend-row">\
+                              <div class="legend" style="background-color: rgb(33, 150, 243)"></div>\
+                              <div class="legend-text">Donations to Democrats</div>\
+                            </div>\
+                            <div class="legend-row">\
+                              <div class="legend" style="background-color: #FFC107"></div>\
+                              <div class="legend-text">Donations to Independents</div>\
+                            </div>\
+                          </div>');
+      $('#both-legends-wrapper').append(partyLegend)
+    }
+
   }
+
+  // function createLegend(type) {
+  //   var legendWrapper = $('<div class="legend-wrapper"></div>');
+  //   var legend1 = $('<div class="legend"></div>');
+  //   var legend2 = $('<div class="legend"></div>');
+  //   var legendText1 = $('<div class="legend-text"></div>');
+  //   var legendText2 = $('<div class="legend-text"></div>');
+  //   if (type === 'source') {
+  //     legend1.style('background-color', 'rgb(33, 33, 33)');
+  //     legendText1.text('Individual Donations');
+  //     legend2.style('background-color', 'rgb(182, 182, 182)');
+  //     legendText2.text('PAC Donations');
+  //   } else {
+
+  //   }
+  // }
+
   if (Object.keys(data.states).length > 0) {
-    drawPieChart(totals, 'source');
-    drawPieChart(totals, 'party');
+    drawPieChart(totals, 'source'); // add legend below this (jQuery)
+    // var sourceLegend = $('<div class="legend-wrapper">\
+    //                         <div class="legend-row">\
+    //                           <div class="legend" style="background-color: rgb(33, 33, 33)"></div>\
+    //                           <div class="legend-text">Individual Donations</div>\
+    //                         </div>\
+    //                         <div class="legend-row">\
+    //                           <div class="legend" style="background-color: rgb(182, 182, 182)"></div>\
+    //                           <div class="legend-text">PAC Donations</div>\
+    //                         </div>\
+    //                       </div>');
+    
+    // $('#pie-source').after(createLegend('source'));
+    drawPieChart(totals, 'party'); // add legend below this
+    // var partyLegend = $('<div class="legend-wrapper">\
+    //                         <div class="legend-row">\
+    //                           <div class="legend" style="background-color: rgb(244, 67, 54)"></div>\
+    //                           <div class="legend-text">Donations to Republicans</div>\
+    //                         </div>\
+    //                         <div class="legend-row">\
+    //                           <div class="legend" style="background-color: rgb(33, 150, 243)"></div>\
+    //                           <div class="legend-text">Donations to Democrats</div>\
+    //                         </div>\
+    //                         <div class="legend-row">\
+    //                           <div class="legend" style="background-color: #FFC107"></div>\
+    //                           <div class="legend-text">Donations to Independents</div>\
+    //                         </div>\
+    //                       </div>');
+    // $('#both-legends-wrapper').append(sourceLegend)
+    // $('#both-legends-wrapper').append(partyLegend)
+    
+    // $('#pie-party').after(createLegend('party'));
   }
 
 })

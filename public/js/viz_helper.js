@@ -12,10 +12,21 @@ var VizHelper = {
 
 	isEasternState: function(state) {
 		// stop tooltips from going over page width
-		var easternStates = ["MI","WI","IL","KY","TN","AL","GA","FL","SC","NC","VA","WV","MD",
+		var easternStates = ["MI","WI","IL","KY","TN","AL","GA","SC","NC","VA","WV","MD",
 		"DE","RI","NJ","PA","NY","MA","CT","VT","NH","ME","OH"];
 		for (var i = 0; i < easternStates.length; i++) {
 			if (state === easternStates[i]) {
+				return true;
+			}
+		}
+		return false;
+	},
+
+	isSouthmostState: function(state) {
+		// stop tooltips from going over page height
+		var southernStates = ["AL", "HI", "TX", "LA"];
+		for (var i = 0; i < southernStates.length; i++) {
+			if (state === southernStates[i]) {
 				return true;
 			}
 		}

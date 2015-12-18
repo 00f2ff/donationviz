@@ -5,7 +5,6 @@ $(function() {
 		for (var code in data) {
 			// forward slahes are seen as new part of URL, so convert them into 'and' (industry_names not update with DB)
 			data[code] = data[code].replace(/\//g,' & ');
-			console.log(data[code])
 			// grammar check here too...
 			if (data[code] === "TV & Movies & Music") {
 				data[code] = "TV, Movies & Music";

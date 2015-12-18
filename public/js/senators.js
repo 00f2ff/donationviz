@@ -41,7 +41,7 @@ $(function() {
     var total=data[0].donations[i].total;
     var individual=data[0].donations[i].individual;
     var pac =data[0].donations[i].pac;
-    $("#topContributor").append("<div>"+"<h4><a href='http://localhost:50000/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
+    $("#topContributor").append("<div>"+"<h4><a style='margin-right: 10px;' href='/organization/"+orgLink+"'>"+orgName+"</a>"+"<b class='total-contributions'> Total "+VizHelper.toDollars(total)+"</b></h4>"+"<h5>PAC: <b class='total-contributions'>"+VizHelper.toDollars(pac)+"</b> Individual <b class='total-contributions'>"+VizHelper.toDollars(individual) + "</b></h5></div>");
   }
 
   //Total
@@ -53,7 +53,7 @@ $(function() {
     data[0].donations[i].value=data[0].donations[i].total;
   }
   var totalAmount=totalPAC+totalIndividual;
-$( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.toDollars(totalAmount)+"</h2>" );
+$( "#totalContribution" ).after( "<h2 class='total-contributions'>"+VizHelper.toDollars(totalAmount)+"<span> (2016 cycle)</span></h2>" );
 
   var orgData={children:data[0].donations.slice(0,20)};
   var industryData={children:data[0].industry_donations};
@@ -140,8 +140,8 @@ $(".bubble .node:nth-child(1)").remove();
 function drawPieChart(breakdown) { 
     var color = {},
         pieData;
-      color.PAC = "#fde0dd";
-      color.Individual = "#c51b8a";
+      color.PAC = "#B6B6B6";
+      color.Individual = "#212121";
       pieData = [{
         name: "PAC", 
         value: totalPAC,
@@ -186,11 +186,12 @@ function drawPieChart(breakdown) {
       .attr("data-amount", function(d) { if (d.data.amount > 0) return d.data.amount; });
 
     g.on("mousemove", function (e) {
-      var xPosition = d3.event.layerX-35; // doesn't use standard JS event
+      var xPosition = d3.event.layerX - 25; // doesn't use standard JS event
       var yPosition = d3.event.layerY+10;
       // style (make sure tooltip doesn't go over page width)
       if (breakdown === 'source') {
-        $('#tooltip--'+breakdown).css({'left': xPosition + "px", 'top': yPosition + "px"});
+        var tooltipWidth = $('#tooltip--'+breakdown).width();
+        $('#tooltip--'+breakdown).css({'left': (xPosition - tooltipWidth) + "px", 'top': yPosition + "px"});
       }
       
       g.style('opacity',0.6);

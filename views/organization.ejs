@@ -13,18 +13,16 @@
   <div class="row">
     <% include partials/dropdowns.ejs %>
   </div>
-  <div class="row" style="margin: 30px 0px 20px 0px">
+  <div class="row" style="margin: 30px 0px 0px 0px">
     <div class="col-md-4"> 
       <h1 class="company-header" style="margin-top:0px;"><%= header %></h1>
-      <span><strong>Sector: </strong></span><br />
-      <span><strong>Industry: </strong></span>
     </div>
     <div class="col-md-4">
       <h4 style="margin-top:0px;">Total Contributions (2016 Cycle)</h4>
       <h3 class="total-contributions"></h3>
     </div>
     <div class="col-md-4">
-      <div class="" id="pie-pan" style="margin-top:0px">
+      <div id="pie-pan" style="margin-top:0px">
           <div id="tooltip--source" class="my-tooltip hidden" style="width: 250px">
             <h4 id="source"></h4>
             <h5> </h5>
@@ -33,9 +31,13 @@
             <h4 id="party"></h4>
             <h5> </h5>
           </div>
-    </div>
+      </div>
+      <div id="both-legends-wrapper"></div>
     <!-- I don't think we need to list out recipients since that's the purpose of the map -->
   </div>
+  </div>
+    <div class="row">
+  <h3 id="header">Explore donations by <%= header %></h3>
   <div id="map">
     <% include partials/america.ejs %>
     <div id="tooltip" class="my-tooltip hidden" style="width: 380px">
@@ -72,7 +74,11 @@
     </div> <!-- map -->
 
   </div> 
-  
+<style>
+.state {
+  fill: #D8D8D8;
+}
+</style>
 
 </div>
 <div id="data-holder" style="visibility:hidden;font-size:0"><%= JSON.stringify(obj) %></div>
